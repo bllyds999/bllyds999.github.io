@@ -36,7 +36,7 @@ sudo grub-mkconfig -o /boot/grub/grub.cfg
 
 ### systemd-boot
 
-这个很难讲一般情况，因为**没有统一的存放位置**（其实grub也没有，但是各大发行版好像约好一样放在一个位置），所以就拿我使用的Endeavour OS来举例子吧！可能不适合你的系统，但是大差不差。
+这个很难讲一般情况，因为**没有统一的存放位置**，所以就拿我使用的Endeavour OS来举例子吧！可能不适合你的系统，但是大差不差。
 
 在/efi/loader/entries/这个地方，有我们需要编辑的配置文件。
 
