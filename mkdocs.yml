@@ -1,0 +1,4 @@
+site_name: 摆烂领域大蛇的小心思
+
+markdown_extensions:
+  - attr_list
