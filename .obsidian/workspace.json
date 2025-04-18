@@ -49,7 +49,8 @@
               "title": "whisper"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -196,10 +197,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b66352a039ffa44f",
+  "active": "f95a70c133ccdae8",
   "lastOpenFiles": [
-    "docs/diary.md",
     "docs/index.md",
+    "docs/diary.md",
     "docs/whisper.md"
   ]
 }
