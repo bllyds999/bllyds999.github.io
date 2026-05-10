@@ -10,3 +10,5 @@ _multiconfig.yml
 _drafts/
 auto-tags.py
 essay-converter.py
+essay-auto-tags.py
+essay.py

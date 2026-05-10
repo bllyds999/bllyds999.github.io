@@ -618,6 +618,7 @@ waline:
   pageview: false
   option:
     login: disable
+    reaction: true
 
 # Utterances
 # https://utteranc.es/
