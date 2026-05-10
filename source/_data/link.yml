@@ -1,0 +1,135 @@
+- class_name: 我的朋友
+  class_desc: 我添加的友情链接！
+  link_list:
+    - name: 小小小韩
+      link: https://blog.djxx.club/
+      avatar: /assets/images/friend.svg
+      descr: 专注生活和开发的程序员博客！
+    - name: 王科文
+      link: https://wcowin.work/
+      avatar: /assets/images/friend.svg
+      descr: 写的 MkDocs 教程很好！
+    - name: 老米小芬
+      link: https://lm-xiao-fen.github.io/
+      avatar: /assets/images/friend.svg
+      descr: 这个懒狗好像不咋写博客诶！
+    - name: 比特梦想
+      link: https://www.bytedream.org/
+      avatar: /assets/images/friend.svg
+      descr: 是常发互相邮件的朋友哒！
+    - name: 可乐
+      link: https://cola0908.top/
+      avatar: /assets/images/friend.svg
+      descr: 他真的很喜欢网络安全！
+    - name: 慕迟离
+      link: https://muchili-code.github.io/
+      avatar: /assets/images/friend.svg
+      descr: 体制内的好像不咋更新吧？
+    - name: 峰哥
+      link: https://fengcblog.880200.xyz/
+      avatar: /assets/images/friend.svg
+      descr: 他拍的照片真的很好看！
+    - name: 秋葵
+      link: https://qiukui-note.happy365.day/
+      avatar: /assets/images/friend.svg
+      descr: 他写的笔记很好，我很喜欢！
+    - name: 周配萝卜
+      link: https://blog.zplb.top/
+      avatar: /assets/images/friend.svg
+      descr: 好朋友，好像还是个二次元！
+    - name: 乐依利
+      link: https://930309.xyz/
+      avatar: /assets/images/friend.svg
+      descr: 在秋葵笔记评论区认识的小博主！
+    - name: 天渺
+      link: https://tianmiao.site/
+      avatar: /assets/images/friend.svg
+      descr: B 站来的新朋友，会分享很多小技巧！
+    - name: 冷月笙寒
+      link: https://lygalaxy.cn/
+      avatar: /assets/images/friend.svg
+      descr: 他喜欢分享一些有意思的小工具！
+    - name: 芊
+      link: https://hxqblog.cn/
+      avatar: /assets/images/friend.svg
+      descr: 他喜欢分享一些英语学习笔记！
+    - name: 旺东
+      link: https://wang618.cn/
+      avatar: /assets/images/friend.svg
+      descr: 经常看他分享生活，挺有意思的！
+    - name: 阿叶
+      link: https://blog.ayeez.cn/
+      avatar: /assets/images/friend.svg
+      descr: 黑客风网站，他也爱好网络安全！
+    - name: 小废鼠
+      link: https://feishu.xiao-feishu.top/
+      avatar: /assets/images/friend.svg
+      descr: 用 NotionNext 搭建的博客网站！
+    - name: 团子和蛋糕
+      link: https://blog.tsh520.cn/
+      avatar: /assets/images/friend.svg
+      descr: 他很爱学习，还会自己写笔记！
+    - name: 幸荟
+      link: https://www.xinghuisama.top/
+      avatar: /assets/images/friend.svg
+      descr: 他的网站是二次元风格，很不错啊！
+    - name: 奇怪先生
+      link: https://www.20210701.xyz/
+      avatar: /assets/images/friend.svg
+      descr: 他是一个喜欢分享技术的博主！
+    - name: 琳琳
+      link: https://karina.xin/
+      avatar: /assets/images/friend.svg
+      descr: 她的博客内容很随心！
+    - name: 卡瑟布尔
+      link: https://blog.ksable.top/
+      avatar: /assets/images/friend.svg
+      descr: 高中生功课紧，更新少也正常啦！
+    - name: 阿普修
+      link: https://upxuu.com/
+      avatar: /assets/images/friend.svg
+      descr: 他的博客内容很随心！
+    - name: 本尼格
+      link: https://benign.host/
+      avatar: /assets/images/friend.svg
+      descr: 他的博客内容专注技术分享！
+    - name: 暖心向阳
+      link: https://nxxy335.top/
+      avatar: /assets/images/friend.svg
+      descr: 他的博客内容专注自己的生活！
+    - name: 瓦尔杰德赫
+      link: https://wrcbdjdh.cloud/
+      avatar: /assets/images/friend.svg
+      descr: 他是一个最近开始写博客的新手！
+
+- class_name: 实用工具
+  class_desc: 我分享的实用工具！
+  link_list:
+    - name: 图片压缩
+      link: https://www.yysuni.com/image-toolbox
+      avatar: /assets/images/tool.svg
+      descr: 前端大佬写的图片压缩工具！
+    - name: 格式转换
+      link: https://www.freeconvert.com/
+      avatar: /assets/images/tool.svg
+      descr: 最喜欢的免费文件格式在线转换工具！
+    - name: 代码仓库
+      link: https://github.com/
+      avatar: /assets/images/tool.svg
+      descr: 这简直是最开源的一集！
+    - name: 触屏笔记
+      link: https://www.speedynote.org/
+      avatar: /assets/images/tool.svg
+      descr: 群里群主开发的 PDF 触屏笔记工具！
+    - name: 文字笔记
+      link: https://obsidian.md/
+      avatar: /assets/images/tool.svg
+      descr: 最喜欢的笔记工具，以前拿这个写文章！
+    - name: 图标制作
+      link: https://uutool.cn/img-radius/
+      avatar: /assets/images/tool.svg
+      descr: 上传图片，圆角调成 180 大小！
+    - name: 网页应用
+      link: https://iotools.cloud/zh/tool/pwa-web-app-manifest-generator/
+      avatar: /assets/images/tool.svg
+      descr: 图形化操作，网页应用清单生成器！

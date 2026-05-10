@@ -1,0 +1,17 @@
+---
+title: 相册
+date: 2026-04-16 02:57:22
+comments: false
+---
+
+<div class="gallery-group-main">
+{% galleryGroup '我的世界' '我的世界截图。' '/gallery/minecraft' '/assets/images/illustrations/minecraft-1.webp' %}
+{% galleryGroup 'OpenClaw' 'OpenClaw 截图。' '/gallery/openclaw' '/assets/images/illustrations/openclaw-1.webp' %}
+{% galleryGroup 'AstrBot' 'AstrBot 截图。' '/gallery/astrbot' '/assets/images/illustrations/astrbot-1.webp' %}
+{% galleryGroup '宠物龟' '龟龟图片。' '/gallery/turtle' '/assets/images/illustrations/turtle-1.webp' %}
+{% galleryGroup '公园' '公园随手拍。' '/gallery/park' '/assets/images/illustrations/park-1.webp' %}
+{% galleryGroup '评论系统' '评论系统截图。' '/gallery/comments' '/assets/images/illustrations/comments-1.webp' %}
+{% galleryGroup '学校' '学校回忆。' '/gallery/school' '/assets/images/illustrations/school-1.webp' %}
+{% galleryGroup 'LUMEN' 'AI 皮肤创作工具。' '/gallery/lumen' '/assets/images/illustrations/lumen-1.webp' %}
+{% galleryGroup 'VulkanMod' '游戏优化模组。' '/gallery/vulkanmod' '/assets/images/illustrations/vulkanmod-1.webp' %}
+</div>

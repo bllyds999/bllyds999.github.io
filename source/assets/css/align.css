@@ -1,0 +1,4 @@
+.announcement_content, div.content, .wl-content
+{
+  line-break: anywhere;
+}
