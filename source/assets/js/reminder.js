@@ -14,14 +14,14 @@
     const month = now.getMonth() + 1
     const day = now.getDate()
 
-    if (month === 1 && day === 8) return '周恩来总理逝世' + (now.getFullYear() - 1976) + '周年纪念日'
-    if (month === 2 && day === 19) return '邓小平同志逝世' + (now.getFullYear() - 1997) + '周年纪念日'
+    if (month === 1 && day === 8) return '周恩来总理逝世 ' + (now.getFullYear() - 1976) + ' 周年纪念日'
+    if (month === 2 && day === 19) return '邓小平同志逝世 ' + (now.getFullYear() - 1997) + ' 周年纪念日'
     if (month === 4 && (day === 4 || day === 5)) return '清明节'
-    if (month === 5 && day === 12) return '汶川大地震' + (now.getFullYear() - 2008) + '周年纪念日'
-    if (month === 7 && day === 7) return '七七事变' + (now.getFullYear() - 1937) + '周年纪念日'
-    if (month === 8 && day === 15) return '日本投降' + (now.getFullYear() - 1945) + '周年纪念日'
-    if (month === 9 && day === 9) return '毛泽东主席逝世' + (now.getFullYear() - 1976) + '周年纪念日'
-    if (month === 9 && day === 18) return '九一八事变' + (now.getFullYear() - 1931) + '周年纪念日'
+    if (month === 5 && day === 12) return '汶川大地震 ' + (now.getFullYear() - 2008) + ' 周年纪念日'
+    if (month === 7 && day === 7) return '七七事变 ' + (now.getFullYear() - 1937) + ' 周年纪念日'
+    if (month === 8 && day === 15) return '日本投降 ' + (now.getFullYear() - 1945) + ' 周年纪念日'
+    if (month === 9 && day === 9) return '毛泽东主席逝世 ' + (now.getFullYear() - 1976) + ' 周年纪念日'
+    if (month === 9 && day === 18) return '九一八事变 ' + (now.getFullYear() - 1931) + ' 周年纪念日'
     if (month === 9 && day === 30) return '烈士纪念日'
     if (month === 12 && day === 13) return '南京大屠杀死难者国家公祭日'
     return null
