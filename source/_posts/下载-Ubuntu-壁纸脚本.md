@@ -9,6 +9,7 @@ tags:
   - Ubuntu 壁纸
   - 下载脚本
   - 清华镜像
+description: "本文介绍了如何使用 Shell 脚本从清华镜像源下载并提取 Ubuntu 壁纸文件。脚本首先通过 curl 获取 ubuntu-wallpapers 软件包列表，使用 grep 和 tail 提取最新版本的原生 tar.gz 压缩包文件名。接着利用 wget 下载该文件，并创建 ubuntu-wallpapers 和 temp 两个目录。然后使用 tar 解压到 temp 文件夹，再通过 find 命令查找所有 .jpg 和 .png 格式的图片文件，将它们移动到 ubuntu-wallpapers 目录中。最后删除临时目录和下载的压缩包，完成壁纸的提取与整理。整个过程自动化地从清华镜像获取 Ubuntu 官方壁纸资源，适合用于批量收集或本地备份。"
 ---
 
 ```shell

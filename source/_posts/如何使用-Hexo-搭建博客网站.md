@@ -9,6 +9,7 @@ tags:
   - Hexo
   - 个人网站
   - Node.js
+description: "本文介绍了如何在不同操作系统（Windows、Linux 包括 Debian 和 Arch、macOS）上安装 Node.js，以及使用 NPM 安装 Hexo 博客框架。接着描述了初始化网站项目的步骤，即在一个空文件夹中运行 hexo init 命令。然后详细说明了修改 config.yml 配置文件的方法，包括设置网站标题、副标题、描述、关键词、作者、语言和时区等参数，并给出了示例配置。最后介绍了通过 hexo server 命令启动本地服务器，并在浏览器中访问 localhost:4000 查看网站。整个过程覆盖了从环境搭建到网站运行的基本流程，适合初学者快速搭建个人博客。"
 ---
 
 ## 安装 Node.js

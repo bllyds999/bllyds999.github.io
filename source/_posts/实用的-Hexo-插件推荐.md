@@ -9,6 +9,7 @@ tags:
   - 博客搭建
   - 插件推荐
   - 技术折腾
+description: "本文介绍了 Hexo 博客框架的 5 个常用插件及其安装方式，包括：hexo-generator-sitemap 用于生成网站地图，hexo-generator-feed 用于生成订阅链接，hexo-generator-search 提供站内搜索功能，hexo-all-minifier 可压缩网页资源但无法处理字体且不支持 ARM 架构，hexo-helper-live2d 用于添加 Live2D 模型。每个插件都附有简洁的安装命令，方便用户快速配置。"
 ---
 
 ## hexo-generator-sitemap

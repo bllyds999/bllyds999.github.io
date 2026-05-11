@@ -9,6 +9,7 @@ tags:
   - SMTP 配置
   - 评论系统
   - 环境变量
+description: "本文介绍了 Waline 评论系统配置邮箱提醒所需的环境变量，包括 AUTHOR_EMAIL、SITE_URL、SMTP_USER、SMTP_PASS、SMTP_HOST、SMTP_PORT 和 SITE_NAME，并强调一个也不能少。文章指出 SMTP_USER 和 AUTHOR_EMAIL 可以相同，也可使用域名邮箱；同时提醒在 Vercel 或 Docker 部署时，环境变量的写法差异——Docker 版 docker-compose.yml 中值不能带引号。全文旨在帮助已搭建好 Waline 的用户快速完成邮件通知配置，避免遗漏关键变量。"
 ---
 
 Waline 官网对于这部分的介绍过于复杂，折腾的时候总是漏了配置几个变量。最近发现秋葵笔记的评论系统从 Giscus 换到了 Waline，貌似是看到了我写给别人的回复。突然想起来，自己好像没在网站上，写过关于 Waline 配置邮箱提醒的文章。如果你已经搭建好了 Waline 并且已经给博客网站用上了，你还需要配置这几个环境变量（一个也不能少）：

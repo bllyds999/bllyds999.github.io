@@ -9,6 +9,7 @@ tags:
   - 技术折腾
   - 个人网站
   - Hexo
+description: "本文介绍了 Hexo 博客 Butterfly 主题的亮暗色切换实现原理与自定义方法。文章指出 Butterfly 通过 JS 脚本控制 `data-theme` 属性实现颜色模式切换，而非监听浏览器主题，因此刷新页面后才能响应系统主题变化。作者详细解释了暗色模式下的 CSS 变量赋值方式，并给出了具体的代码示例，包括如何为卡片、布局等元素分别设置亮色和暗色背景，以及如何使用 `[data-theme='dark']` 选择器替代 `@media (prefers-color-scheme: dark)` 进行暗色样式定制。文章为需要深度美化 Butterfly 主题的用户提供了实用的 CSS 编写思路。"
 ---
 
 我的博客网站是用 Hexo 做的，主题是 Butterfly。因为 Butterfly 支持外置 CSS 和 JS，所以我一直在为网站美化、添加各种新功能。最近正在亮暗色切换问题上头疼，貌似 Butterfly 主题有套自己的亮暗色控制规则，完全不听 `@media` 的。

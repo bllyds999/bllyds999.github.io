@@ -9,6 +9,7 @@ tags:
   - Pages
   - 技术折腾
   - Hexo
+description: "本文介绍了 Cloudflare Workers 与 Pages 两种原生部署模式的区别。文章从域名入手，指出 Workers 使用 workers.dev 而 Pages 使用 pages.dev。接着深入分析 Workers 的两种形态：Serverless 和静态 Workers。Serverless 以函数形式处理请求，存在冷启动问题，仅有算力无存储，需搭配云数据库如 Neon、MongoDB 使用；静态 Workers 则能连接 GitHub 仓库自动构建静态站点，但每次需回源计算，无法充分利用 Cache Rules。文章还对比了 Workers 与 Pages 在部署流程上的差异，并提供了使用 Wrangler 命令行工具推送代码到 Pages 或 Workers 的实战示例，帮助读者根据项目类型选择合适方案。"
 ---
 
 最近把网站从 Vercel 整体迁移到了 Cloudflare Pages，能直观地感受到速度比以前快了很多。由此接触到了两种 Cloudflare 的原生部署模式——Workers 和 Pages，稍微折腾了一下发现它们其实是不一样的，我决定出篇文章详细地讲讲它们之间的区别。

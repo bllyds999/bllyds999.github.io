@@ -9,6 +9,7 @@ tags:
   - Vercel
   - Cloudflare Pages
   - GitHub Pages
+description: "本文介绍了 Vercel、Cloudflare Pages、Netlify 和 GitHub Pages 四种静态网站部署平台。Vercel 部署 Hexo 简单快速，但默认域名国内被屏蔽，需购买域名；Cloudflare Pages 速度仅次于 Vercel，同样需要自定义域名；Netlify 默认域名国内可访问，无需购买域名；GitHub Pages 最简单但速度最慢，仅支持静态页面和 Jekyll，其他框架需配置 Actions，优点是其 github.io 域名国内可访问。文章最后给出推荐顺序：Vercel 为首选，其次 Cloudflare Pages，再次 Netlify，最后 GitHub Pages。"
 ---
 
 ## Vercel
