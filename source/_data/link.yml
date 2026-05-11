@@ -105,6 +105,10 @@
       link: https://blog.lqay.cn/
       avatar: /assets/images/friend.svg
       descr: 又是一个二次元主题的博客网站！
+    - name: 张洪
+      link: https://blog.zhheo.com/
+      avatar: /assets/images/friend.svg
+      descr: 现在是洪佬的实用工具发布时间！
 
 - class_name: 实用工具
   class_desc: 我分享的实用工具！
