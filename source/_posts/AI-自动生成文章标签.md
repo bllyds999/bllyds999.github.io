@@ -38,131 +38,131 @@ PROMPT_TEMPLATE = """请阅读以下文章内容，为这篇文章生成 5 个�
 
 
 def read_file(path):
-    with open(path, "r", encoding="utf-8") as f:
-        return f.read()
+  with open(path, "r", encoding="utf-8") as f:
+    return f.read()
 
 
 def write_file(path, content):
-    with open(path, "w", encoding="utf-8") as f:
-        f.write(content)
+  with open(path, "w", encoding="utf-8") as f:
+    f.write(content)
 
 
 def build_prompt(article_content, existing_tags):
-    if existing_tags:
-        tags_str = "、".join(sorted(existing_tags))
-        section = "4. 以下是本站已有的标签列表，请优先从中选择合适的标签复用，只有当已有标签无法概括文章时才生成新标签：\n" + tags_str
-    else:
-        section = ""
-    return PROMPT_TEMPLATE.format(existing_tags_section=section) + article_content
+  if existing_tags:
+    tags_str = "、".join(sorted(existing_tags))
+    section = "4. 以下是本站已有的标签列表，请优先从中选择合适的标签复用，只有当已有标签无法概括文章时才生成新标签：\n" + tags_str
+  else:
+    section = ""
+  return PROMPT_TEMPLATE.format(existing_tags_section=section) + article_content
 
 
 def call_api(article_content, existing_tags):
-    headers = {
-        "Content-Type": "application/json",
-        "Authorization": "Bearer " + API_KEY,
-    }
-    payload = {
-        "model": MODEL,
-        "messages": [{"role": "user", "content": build_prompt(article_content, existing_tags)}],
-        "temperature": 0.3,
-    }
-    body = json.dumps(payload).encode("utf-8")
-    req = urllib.request.Request(API_URL, data=body, headers=headers, method="POST")
-    try:
-        with urllib.request.urlopen(req) as resp:
-            result = json.loads(resp.read().decode("utf-8"))
-            return result["choices"][0]["message"]["content"].strip()
-    except urllib.error.HTTPError as e:
-        print("API HTTP error: {} {}".format(e.code, e.reason))
-        sys.exit(1)
-    except urllib.error.URLError as e:
-        print("API request failed: {}".format(e.reason))
-        sys.exit(1)
+  headers = {
+    "Content-Type": "application/json",
+    "Authorization": "Bearer " + API_KEY,
+  }
+  payload = {
+    "model": MODEL,
+    "messages": [{"role": "user", "content": build_prompt(article_content, existing_tags)}],
+    "temperature": 0.3,
+  }
+  body = json.dumps(payload).encode("utf-8")
+  req = urllib.request.Request(API_URL, data=body, headers=headers, method="POST")
+  try:
+    with urllib.request.urlopen(req) as resp:
+      result = json.loads(resp.read().decode("utf-8"))
+      return result["choices"][0]["message"]["content"].strip()
+  except urllib.error.HTTPError as e:
+    print("API HTTP error: {} {}".format(e.code, e.reason))
+    sys.exit(1)
+  except urllib.error.URLError as e:
+    print("API request failed: {}".format(e.reason))
+    sys.exit(1)
 
 
 def parse_tags(response):
-    for sep in ["，", ","]:
-        if sep in response:
-            tags = [t.strip().strip('"').strip("'") for t in response.split(sep)]
-            tags = [t for t in tags if t]
-            return tags[:5]
-    return [response.strip().strip('"').strip("'")][:5]
+  for sep in ["，", ","]:
+    if sep in response:
+      tags = [t.strip().strip('"').strip("'") for t in response.split(sep)]
+      tags = [t for t in tags if t]
+      return tags[:5]
+  return [response.strip().strip('"').strip("'")][:5]
 
 
 def insert_tags_to_frontmatter(content, tags):
-    parts = content.split("---", 2)
-    if len(parts) < 3:
-        print("Error: invalid frontmatter format, cannot find two --- delimiters")
-        sys.exit(1)
-    frontmatter_body = parts[1]
-    article_body = parts[2]
-    if "tags:" in frontmatter_body:
-        print("File already has tags, skipping")
-        return None
-    tag_lines = "tags:"
-    for tag in tags:
-        tag_lines += "\n  - " + tag
-    new_content = "---" + frontmatter_body + tag_lines + "\n---" + article_body
-    return new_content
+  parts = content.split("---", 2)
+  if len(parts) < 3:
+    print("Error: invalid frontmatter format, cannot find two --- delimiters")
+    sys.exit(1)
+  frontmatter_body = parts[1]
+  article_body = parts[2]
+  if "tags:" in frontmatter_body:
+    print("File already has tags, skipping")
+    return None
+  tag_lines = "tags:"
+  for tag in tags:
+    tag_lines += "\n  - " + tag
+  new_content = "---" + frontmatter_body + tag_lines + "\n---" + article_body
+  return new_content
 
 
 def load_existing_tags(tags_file):
-    if not os.path.exists(tags_file):
-        return set()
-    content = read_file(tags_file).strip()
-    if not content:
-        return set()
-    return set(line.strip() for line in content.split("\n") if line.strip())
+  if not os.path.exists(tags_file):
+    return set()
+  content = read_file(tags_file).strip()
+  if not content:
+    return set()
+  return set(line.strip() for line in content.split("\n") if line.strip())
 
 
 def save_tags_diff(tags_file, new_tags, existing_tags):
-    diff = [t for t in new_tags if t not in existing_tags]
-    all_tags = sorted(existing_tags | set(new_tags))
-    write_file(tags_file, "\n".join(all_tags) + "\n")
-    if diff:
-        print("New tags added to tags.md: " + ", ".join(diff))
-    else:
-        print("No new tags to add to tags.md")
+  diff = [t for t in new_tags if t not in existing_tags]
+  all_tags = sorted(existing_tags | set(new_tags))
+  write_file(tags_file, "\n".join(all_tags) + "\n")
+  if diff:
+    print("New tags added to tags.md: " + ", ".join(diff))
+  else:
+    print("No new tags to add to tags.md")
 
 
 def main():
-    if len(sys.argv) < 2:
-        print("Usage: python auto-tags.py <markdown_file_path>")
-        sys.exit(1)
+  if len(sys.argv) < 2:
+    print("Usage: python auto-tags.py <markdown_file_path>")
+    sys.exit(1)
 
-    file_path = os.path.abspath(sys.argv[1])
-    if not os.path.exists(file_path):
-        print("File not found: " + file_path)
-        sys.exit(1)
+  file_path = os.path.abspath(sys.argv[1])
+  if not os.path.exists(file_path):
+    print("File not found: " + file_path)
+    sys.exit(1)
 
-    script_dir = os.path.dirname(os.path.abspath(__file__))
-    tags_file = os.path.join(script_dir, "tags.md")
+  script_dir = os.path.dirname(os.path.abspath(__file__))
+  tags_file = os.path.join(script_dir, "tags.md")
 
-    existing_tags = load_existing_tags(tags_file)
+  existing_tags = load_existing_tags(tags_file)
 
-    content = read_file(file_path)
+  content = read_file(file_path)
 
-    print("Generating tags for: " + file_path)
-    print("Existing tags count: " + str(len(existing_tags)))
-    response = call_api(content, existing_tags)
-    print("API response: " + response)
+  print("Generating tags for: " + file_path)
+  print("Existing tags count: " + str(len(existing_tags)))
+  response = call_api(content, existing_tags)
+  print("API response: " + response)
 
-    tags = parse_tags(response)
-    print("Generated tags: " + ", ".join(tags))
+  tags = parse_tags(response)
+  print("Generated tags: " + ", ".join(tags))
 
-    new_content = insert_tags_to_frontmatter(content, tags)
-    if new_content is None:
-        sys.exit(0)
+  new_content = insert_tags_to_frontmatter(content, tags)
+  if new_content is None:
+    sys.exit(0)
 
-    write_file(file_path, new_content)
-    print("Tags inserted into: " + file_path)
+  write_file(file_path, new_content)
+  print("Tags inserted into: " + file_path)
 
-    existing_tags = load_existing_tags(tags_file)
-    save_tags_diff(tags_file, tags, existing_tags)
+  existing_tags = load_existing_tags(tags_file)
+  save_tags_diff(tags_file, tags, existing_tags)
 
 
 if __name__ == "__main__":
-    main()
+  main()
 ```
 
 它可以自动化这个流程，不需要在写完文章之后，每次都打开聊天框和 AI 说要干什么事情，同时还能确保功能的健壮性。关键是熵增速度还慢，只有一个文件，脚本在生成标签后，会自动检测 AI 用的标签哪些是仓库已经有的，如果这个标签存在，则不增加标签总和；如果这个标签不存在，则将新标签加入进总和。每次运行的时候，上下文开销只有标签总和，因为每次都只载入当前阅读的上下文。建议在使用这个脚本的同时，使用 Git 管理文章目录（这里指静态网站），避免 AI 生成标签之后，破坏了你的文章内容。曾经我为了吐槽吴语涵，写完初稿后拿给 AI 改，结果 AI 直接把我文章吞了，关键是我还没保存，之后那篇是我理清思路后重新写的。
