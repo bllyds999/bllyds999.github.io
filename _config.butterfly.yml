@@ -208,9 +208,9 @@ index_post_content:
 # --------------------------------------
 
 toc:
-  post: false
+  post: true
   page: false
-  number: false
+  number: true
   expand: false
   # Only for post
   style_simple: false
@@ -895,7 +895,7 @@ canvas_fluttering_ribbon:
 # canvas_nest
 # https://github.com/hustcc/canvas-nest.js
 canvas_nest:
-  enable: false
+  enable: true
   # Color of lines, default: '0,0,0'; RGB values: (R,G,B).(note: use ',' to separate.)
   color: '71,107,122'
   # The opacity of line (0~1)
@@ -1086,6 +1086,7 @@ css_prefix: true
 inject:
   head:
     # - <link rel="stylesheet" href="/xxx.css">
+    - <link rel="stylesheet" href="/assets/css/blur.css">
     - <link rel="stylesheet" href="/assets/css/fonts.css">
     - <link rel="stylesheet" href="/assets/css/svg.css">
     - <link rel="stylesheet" href="/assets/css/pagination.css">
