@@ -144,9 +144,9 @@ post_meta:
     label: true
   post:
     # Choose: left / center
-    position: left
+    position: center
     # Choose: created / updated / both
-    date_type: both
+    date_type: created
     # Choose: date / relative
     date_format: date
     categories: true
@@ -220,8 +220,8 @@ post_copyright:
   enable: true
   decode: true
   author_href:
-  license: CC BY-NC-SA 4.0
-  license_url: https://creativecommons.org/licenses/by-nc-sa/4.0/
+  license: Mulan OWL BY-SA V1
+  license_url: https://license.coscl.org.cn/MulanOWLBYSAv1
 
 # Sponsor/reward
 reward:
