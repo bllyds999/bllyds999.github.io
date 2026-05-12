@@ -110,9 +110,13 @@
       avatar: /assets/images/friend.svg
       descr: 现在是洪佬的实用工具发布时间！
     - name: 拾月
-      linke: https://www.skyue.com/
+      link: https://www.skyue.com/
       avatar: /assets/images/friend.svg
       descr: 我喜欢的博主，永不停更！
+    - name: 椰汁
+      link: https://home.132614.xyz
+      avatar: /assets/images/friend.svg
+      descr: 平时很懒的小博主，初中生！
 
 - class_name: 实用工具
   class_desc: 我分享的实用工具！
