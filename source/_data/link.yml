@@ -60,7 +60,7 @@
     - name: 阿叶
       link: https://blog.ayeez.cn/
       avatar: /assets/images/friend.svg
-      descr: 黑客风网站，他也爱好网络安全！
+      descr: 黑客风网站，也爱好网络安全！
     - name: 小废鼠
       link: https://feishu.xiao-feishu.top/
       avatar: /assets/images/friend.svg
@@ -68,11 +68,11 @@
     - name: 团子和蛋糕
       link: https://blog.tsh520.cn/
       avatar: /assets/images/friend.svg
-      descr: 他很爱学习，还会自己写笔记！
+      descr: 很爱学习，还会自己写笔记！
     - name: 幸荟
       link: https://www.xinghuisama.top/
       avatar: /assets/images/friend.svg
-      descr: 他的网站是二次元风格，很不错啊！
+      descr: 网站是二次元风格，很不错啊！
     - name: 奇怪先生
       link: https://www.20210701.xyz/
       avatar: /assets/images/friend.svg
@@ -92,27 +92,27 @@
     - name: 本尼格
       link: https://benign.host/
       avatar: /assets/images/friend.svg
-      descr: 他的博客内容专注技术分享！
+      descr: 博客内容专注技术分享！
     - name: 暖心向阳
       link: https://nxxy335.top/
       avatar: /assets/images/friend.svg
-      descr: 他的博客内容专注自己的生活！
+      descr: 博客内容专注自己的生活！
     - name: 瓦尔杰德赫
       link: https://wrcbdjdh.cloud/
       avatar: /assets/images/friend.svg
-      descr: 他是一个最近开始写博客的新手！
+      descr: 他是最近开始写博客的新手！
     - name: 流欺
       link: https://blog.lqay.cn/
       avatar: /assets/images/friend.svg
-      descr: 又是一个二次元主题的博客网站！
+      descr: 又是个二次元主题的网站！
     - name: 张洪
       link: https://blog.zhheo.com/
       avatar: /assets/images/friend.svg
-      descr: 现在是洪佬的实用工具发布时间！
+      descr: 洪佬的实用工具发布时间！
     - name: 拾月
       link: https://www.skyue.com/
       avatar: /assets/images/friend.svg
-      descr: 我喜欢的博主，永不停更！
+      descr: 喜欢的博主，永不停更！
     - name: 椰汁
       link: https://home.132614.xyz
       avatar: /assets/images/friend.svg
@@ -120,7 +120,7 @@
     - name: 会枝
       link: https://blog.huizhi.ink/
       avatar: /assets/images/friend.svg
-      descr: 他喜欢在网站发一些碎碎念！
+      descr: 喜欢在网站发一些碎碎念！
 
 - class_name: 实用工具
   class_desc: 我分享的实用工具！
