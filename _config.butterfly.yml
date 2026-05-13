@@ -1094,6 +1094,8 @@ inject:
     - <link rel="stylesheet" href="/assets/css/snackbar.css">
     - <link rel="stylesheet" href="/assets/css/meta.css">
     - <link rel="stylesheet" href="/assets/css/spacing.css">
+    - <link rel="stylesheet" href="/assets/css/paragraph.css">
+    - <link rel="stylesheet" href="/assets/css/proportion.css">
   bottom:
     # - <script src="xxxx"></script>
     - <script src="/assets/js/stroll.js"></script>
