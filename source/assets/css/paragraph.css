@@ -2,3 +2,8 @@ article p
 {
   text-indent: 2rem;
 }
+
+div#article-container p
+{
+  text-indent: 2rem;
+}
