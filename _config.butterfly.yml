@@ -1106,6 +1106,7 @@ inject:
     - <script src="/assets/js/reminder.js"></script>
     - <script src="/assets/js/arrow.js"></script>
     - <script src="/assets/js/friends.js"></script>
+    - <script src="/assets/js/avatar.js"></script>
 
 # CDN Settings
 # Don't modify the following settings unless you know how they work
