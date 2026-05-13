@@ -1,0 +1,31 @@
+name: 内容侵权
+description: 提交内容侵权投诉
+title: "[内容侵权] 申请撤销文章"
+labels: ["侵权"]
+body:
+  - type: input
+    id: infringing-url
+    attributes:
+      label: 侵权文章链接
+      description: 请提供涉嫌侵权的文章链接
+      placeholder: https://example.com/infringing-article
+    validations:
+      required: true
+
+  - type: input
+    id: original-url
+    attributes:
+      label: 原始文章链接
+      description: 请提供原始被侵权文章的链接
+      placeholder: https://example.com/original-article
+    validations:
+      required: true
+
+  - type: textarea
+    id: reason
+    attributes:
+      label: 撤销文章理由
+      description: 请说明撤销该文章的原因
+      placeholder: 如：该文章未经授权转载了我的原创内容……
+    validations:
+      required: true
