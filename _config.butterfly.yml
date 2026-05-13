@@ -30,7 +30,7 @@ menu:
     留言: /comments || fas fa-comment-dots
     友链: /friends || fas fa-link
     关于: /about || fas fa-person
-  工单: https://github.com/bllyds999/bllyds999.github.io/issues/new || fas fa-circle-exclamation
+  工单: https://github.com/bllyds999/bllyds999.github.io/issues/ || fas fa-circle-exclamation
   开往: https://www.travellings.cn/go.html || fas fa-train-subway
 
 # --------------------------------------
