@@ -1,5 +1,7 @@
 ---
 title: AI 自动生成文章摘要
+categories: 代码展示
+cover: /assets/images/cover/code.webp
 date: 2026-06-02 00:07:00
 tags:
   - AI 机器人
