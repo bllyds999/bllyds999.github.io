@@ -7,5 +7,5 @@
 	url = https://github.com/bllyds999/avatar
 
 [submodule "saying"]
-  path = saying
-  url = https://github.com/bllyds999/saying
+	path = saying
+	url = https://github.com/bllyds999/saying
