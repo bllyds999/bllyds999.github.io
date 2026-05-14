@@ -132,7 +132,7 @@
     - name: 格式转换
       link: https://www.freeconvert.com/
       avatar: /assets/images/tool.svg
-      descr: 最喜欢的免费文件格式在线转换工具！
+      descr: 免费文件格式在线转换工具！
     - name: 代码仓库
       link: https://github.com/
       avatar: /assets/images/tool.svg
@@ -140,16 +140,20 @@
     - name: 触屏笔记
       link: https://www.speedynote.org/
       avatar: /assets/images/tool.svg
-      descr: 群里群主开发的 PDF 触屏笔记工具！
+      descr: 群主开发的 PDF 触屏笔记工具！
     - name: 文字笔记
       link: https://obsidian.md/
       avatar: /assets/images/tool.svg
-      descr: 最喜欢的笔记工具，以前拿这个写文章！
+      descr: 最喜欢的笔记，以前拿这个写文章！
     - name: 图标制作
       link: https://uutool.cn/img-radius/
       avatar: /assets/images/tool.svg
       descr: 上传图片，圆角调成 180 大小！
-    - name: 网页应用
+    - name: 应用清单
       link: https://iotools.cloud/zh/tool/pwa-web-app-manifest-generator/
       avatar: /assets/images/tool.svg
-      descr: 图形化操作，网页应用清单生成器！
+      descr: 网页应用清单生成器！
+    - name: 图片取色
+      link: https://www.jyshare.com/front-end/6214/#3f6c7f
+      avatar: /assets/images/tool.svg
+      descr: 菜鸟教程站长的取色工具！
