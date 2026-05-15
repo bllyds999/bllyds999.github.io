@@ -18,3 +18,6 @@ date: 2026-05-05 01:37:34
 <div id="saying">
 
 </div>
+
+<link rel="stylesheet" href="/assets/css/saying.css">
+<script src="/assets/js/saying.js"></script>

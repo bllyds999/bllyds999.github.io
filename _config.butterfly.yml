@@ -1098,7 +1098,6 @@ inject:
     - <link rel="stylesheet" href="/assets/css/spacing.css">
     - <link rel="stylesheet" href="/assets/css/paragraph.css">
     - <link rel="stylesheet" href="/assets/css/proportion.css">
-    - <link rel="stylesheet" href="/assets/css/saying.css">
   bottom:
     # - <script src="xxxx"></script>
     - <script src="/assets/js/stroll.js"></script>
@@ -1108,7 +1107,6 @@ inject:
     - <script src="/assets/js/arrow.js"></script>
     - <script src="/assets/js/friends.js"></script>
     - <script src="/assets/js/avatar.js"></script>
-    - <script src="/assets/js/saying.js"></script>
 
 # CDN Settings
 # Don't modify the following settings unless you know how they work
