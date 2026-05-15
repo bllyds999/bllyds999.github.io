@@ -7,3 +7,8 @@ div#article-container p
 {
   text-indent: 2rem;
 }
+
+.wl-content p
+{
+  text-indent: 0rem !important;
+}
