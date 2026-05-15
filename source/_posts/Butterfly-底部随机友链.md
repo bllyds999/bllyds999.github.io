@@ -37,7 +37,10 @@ tags:
 接下来从文档中找到第一个 flink-list（也就是“我的朋友”那一部分），提取出所有的链接项，过滤掉无效数据，得到一份干净的友链数组。最后根据屏幕宽度随机抽取三到六个不重复的友链，动态生成链接元素并插入到页脚容器中：
 
 ```javascript
-(async function () {
+async function loadFriends() {
+  const container = document.querySelector('#friends');
+  if (!container || container.children.length > 0) return;
+
   const response = await fetch('/friends');
   const html = await response.text();
   const parser = new DOMParser();
@@ -56,7 +59,6 @@ tags:
   const shuffled = friendList.sort(() => Math.random() - 0.5);
   const selected = shuffled.slice(0, count);
 
-  const container = document.querySelector('#friends');
   selected.forEach((f, i) => {
     if (i > 0) {
       container.appendChild(document.createTextNode(' '));
@@ -70,7 +72,10 @@ tags:
     span.appendChild(a);
     container.appendChild(span);
   });
-})();
+}
+
+document.addEventListener('pjax:complete', loadFriends);
+loadFriends();
 ```
 
 上面那段代码里最关键的一个细节在于响应式的处理逻辑。当屏幕宽度小于或等于 768 像素时，也就是手机端的典型布局，脚本只会随机抽取并显示三个友链；而当屏幕宽度大于 768 像素时，则显示六个友链。
