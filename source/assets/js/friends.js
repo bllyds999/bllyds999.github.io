@@ -1,4 +1,7 @@
-(async function () {
+async function loadFriends() {
+  const container = document.querySelector('#friends');
+  if (!container || container.children.length > 0) return;
+
   const response = await fetch('/friends');
   const html = await response.text();
   const parser = new DOMParser();
@@ -17,7 +20,6 @@
   const shuffled = friendList.sort(() => Math.random() - 0.5);
   const selected = shuffled.slice(0, count);
 
-  const container = document.querySelector('#friends');
   selected.forEach((f, i) => {
     if (i > 0) {
       container.appendChild(document.createTextNode(' '));
@@ -31,4 +33,7 @@
     span.appendChild(a);
     container.appendChild(span);
   });
-})();
+}
+
+document.addEventListener('pjax:complete', loadFriends);
+loadFriends();

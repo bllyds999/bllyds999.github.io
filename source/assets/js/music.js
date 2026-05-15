@@ -18,7 +18,7 @@
       const data = await response.json();
       playlist = data.music || [];
       if (playlist.length === 0) return;
-      window.addEventListener('scroll', playRandom, { once: true });
+      window.addEventListener('click', playRandom, { once: true });
     } catch (e) {}
   }
 
