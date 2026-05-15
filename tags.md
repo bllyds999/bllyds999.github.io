@@ -15,6 +15,7 @@ Dotfiles
 Frontmatter
 Giscus
 GitHub Pages
+Gravatar
 Hexo
 Hexo 教程
 LUMEN
@@ -58,6 +59,7 @@ Workers
 大语言模型
 天文比赛
 太空旅行
+头像解析
 小学回忆
 崩坏三
 帧率提升
