@@ -9,7 +9,7 @@ tags:
   - Hexo
   - 技术折腾
   - 前端脚本
-description: "本文介绍了在 Butterfly 主题中启用深色模式并解决 SVG 图片颜色冲突的方法。通过在 `_config.butterfly.yml` 中配置 `darkmode` 选项，可以开启深色模式切换按钮，并设置自动跟随系统或固定时间段切换。然而，手动引入的 `.svg` 图片在深色模式下不会自动变色，仍显示为黑色。为解决此问题，使用 CSS 媒体查询 `@media (prefers-color-scheme: dark)` 和滤镜 `filter: brightness(0) invert(1) !important;`，将 SVG 图片在深色模式下反转成白色。将该样式保存为 `svg.css`，并通过 `inject.head` 配置注入到网站中，从而实现深色模式下 SVG 图片变为白色、浅色模式下保持黑色，避免颜色冲突。"
+description: "本文介绍了在 Butterfly 主题中启用深色模式并解决 SVG 图片颜色冲突的方法。通过在 _config.butterfly.yml 中配置 darkmode 选项，可以开启深色模式切换按钮，并设置自动跟随系统或固定时间段切换。然而，手动引入的 .svg 图片在深色模式下不会自动变色，仍显示为黑色。为解决此问题，使用 CSS 媒体查询 @media (prefers-color-scheme: dark) 和滤镜 filter: brightness(0) invert(1) !important，将 SVG 图片在深色模式下反转成白色。将该样式保存为 svg.css，并通过 inject.head 配置注入到网站中，从而实现深色模式下 SVG 图片变为白色、浅色模式下保持黑色，避免颜色冲突。"
 ---
 
 在 `_config.butterfly.yml` 改一下配置：
