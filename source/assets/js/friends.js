@@ -1,6 +1,7 @@
 async function loadFriends() {
   const container = document.querySelector('#friends');
-  if (!container || container.children.length > 0) return;
+  if (!container) return;
+  container.innerHTML = '';
 
   const response = await fetch('/friends');
   const html = await response.text();
