@@ -827,7 +827,7 @@ preloader:
   # 2. pace (progress bar)
   source: 2
   # pace theme (see https://codebyzach.github.io/pace/)
-  pace_css_url:
+  pace_css_url: /assets/css/loading-bar.css
 
 # Page Transition
 enter_transitions: true
