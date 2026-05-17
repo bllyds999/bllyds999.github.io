@@ -311,9 +311,9 @@ aside:
     description: "人总要向前看，对吧？"
     button:
       enable: true
-      icon: fab fa-github
-      text: "关注我"
-      link: https://github.com/bllyds999/
+      icon: fas fa-envelope
+      text: "邮件订阅"
+      link: mailto:subscribe@090909.top?subject=订阅博客更新&body=请原样发送这封邮件，我已知晓当有新的文章发布时，提醒邮件会发送到这个邮箱！如果我想取消订阅，可以向 contact@090909.top 发送申请退订邮件，致上！
   card_announcement:
     enable: true
     content: |
