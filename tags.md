@@ -29,6 +29,7 @@ Pages
 QQ 空间
 QQ 群退群
 SMTP 配置
+SMTP配置
 Shell命令
 Token 消耗
 Ubuntu 壁纸
