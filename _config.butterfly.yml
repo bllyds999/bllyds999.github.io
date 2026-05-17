@@ -1107,6 +1107,7 @@ inject:
     - <script src="/assets/js/friends.js"></script>
     - <script src="/assets/js/avatar.js"></script>
     - <script src="/assets/js/music.js"></script>
+    - <script src="/assets/js/height.js"></script>
 
 # CDN Settings
 # Don't modify the following settings unless you know how they work
