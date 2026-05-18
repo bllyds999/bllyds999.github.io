@@ -1109,6 +1109,7 @@ inject:
     - <script src="/assets/js/music.js"></script>
     - <script src="/assets/js/height.js"></script>
     - <script src="/assets/js/routing.js"></script>
+    - <script src="/assets/js/fix.js"></script>
 
 # CDN Settings
 # Don't modify the following settings unless you know how they work
