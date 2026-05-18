@@ -1,5 +1,5 @@
 ---
-title: school
+title: 学校
 date: 2026-04-25 15:11:41
 comments: false
 ---
