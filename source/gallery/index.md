@@ -14,4 +14,5 @@ comments: false
 {% galleryGroup '学校' '学校回忆。' '/gallery/school' '/assets/images/illustrations/school-1.webp' %}
 {% galleryGroup 'LUMEN' 'AI 皮肤创作工具。' '/gallery/lumen' '/assets/images/illustrations/lumen-1.webp' %}
 {% galleryGroup 'VulkanMod' '游戏优化模组。' '/gallery/vulkanmod' '/assets/images/illustrations/vulkanmod-1.webp' %}
+{% galleryGroup '零食' '带来快乐的点心。' '/gallery/snacks' '/assets/images/illustrations/snacks-1.webp' %}
 </div>

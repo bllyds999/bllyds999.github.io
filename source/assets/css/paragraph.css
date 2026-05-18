@@ -12,3 +12,8 @@ div#article-container p
 {
   text-indent: 0rem !important;
 }
+
+figure.gallery-group p
+{
+  text-indent: 0rem !important;
+}
