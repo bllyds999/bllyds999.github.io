@@ -1,5 +1,5 @@
 (async function () {
-  const container = document.querySelector('#error-content');
+  const container = document.querySelector('.error-content');
   if (!container) return;
 
   const currentPath = window.location.pathname;
@@ -32,7 +32,11 @@ async function tryRoute(targetPath) {
     if (!bestPath) return;
 
     const bestIndex = sitemapPaths.indexOf(bestPath);
-    const bestUrl = urls[bestIndex];
+    let bestUrl = urls[bestIndex];
+
+    if (bestUrl.endsWith('/index.html')) {
+      bestUrl = bestUrl.slice(0, -'index.html'.length);
+    }
 
     btf.snackbarShow('未找到页面，五秒后跳转至正确路径……');
 
