@@ -620,7 +620,7 @@ waline:
   pageview: false
   option:
     login: disable
-    turnstileKey: 0x4AAAAAADSjE2yldsTkkXoR
+    turnstileKey: "0x4AAAAAADSjE2yldsTkkXoR"
 
 # Utterances
 # https://utteranc.es/
