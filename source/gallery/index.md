@@ -15,4 +15,5 @@ comments: false
 {% galleryGroup 'LUMEN' 'AI 皮肤创作工具。' '/gallery/lumen' '/assets/images/illustrations/lumen-1.webp' %}
 {% galleryGroup 'VulkanMod' '游戏优化模组。' '/gallery/vulkanmod' '/assets/images/illustrations/vulkanmod-1.webp' %}
 {% galleryGroup '零食' '带来快乐的点心。' '/gallery/snacks' '/assets/images/illustrations/snacks-1.webp' %}
+{% galleryGroup '广州' '美好总是短暂的。' '/gallery/guangzhou' '/assets/images/illustrations/guangzhou-1.webp' %}
 </div>
