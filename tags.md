@@ -19,6 +19,7 @@ Gravatar
 Hexo
 Hexo 教程
 LUMEN
+Linux
 Linux 脚本
 Markdown 教程
 Markdown 语法
@@ -32,6 +33,7 @@ SMTP 配置
 SMTP配置
 Shell命令
 Token 消耗
+Ubuntu
 Ubuntu 壁纸
 Vercel
 VulkanMod
