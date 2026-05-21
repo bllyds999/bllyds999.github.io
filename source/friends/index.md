@@ -9,6 +9,6 @@ type: link
 | 项目 | 描述 |
 | --- | --- |
 | 名称 | 他说 |
-| 图标 | http://090909.top/assets/images/logo.ico |
-| 网址 | http://090909.top/ |
+| 图标 | https://090909.top/assets/images/logo.ico |
+| 网址 | https://090909.top/ |
 | 描述 | 梁栋烨的博客网站。 |
