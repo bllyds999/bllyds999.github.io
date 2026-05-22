@@ -1087,6 +1087,7 @@ css_prefix: true
 inject:
   head:
     # - <link rel="stylesheet" href="/xxx.css">
+    - <link rel="stylesheet" href="/assets/css/name.css">
     - <link rel="stylesheet" href="/assets/css/transparent.css">
     - <link rel="stylesheet" href="/assets/css/fonts.css">
     - <link rel="stylesheet" href="/assets/css/svg.css">
