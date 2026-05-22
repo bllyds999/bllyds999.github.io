@@ -316,8 +316,7 @@ aside:
       link: mailto:subscribe@090909.top?subject=订阅博客更新&body=请原样发送这封邮件，我已知晓当有新的文章发布时，提醒邮件会发送到这个邮箱！如果我想取消订阅，可以向 contact@090909.top 发送申请退订邮件，致上！
   card_announcement:
     enable: true
-    content: |
-      编程爱好者、养龟业余户。不定期更新个人生活、深度思考、游戏图文、代码展示等。希望在未来的每一天里，我们无限进步！
+    content: 任何问题，详见<a href="/announcement/">本站公告</a>。
   card_recent_post:
     enable: false
     # If set 0 will show all
@@ -1093,7 +1092,7 @@ inject:
     - <link rel="stylesheet" href="/assets/css/svg.css">
     - <link rel="stylesheet" href="/assets/css/pagination.css">
     - <link rel="stylesheet" href="/assets/css/social.css">
-    - <link rel="stylesheet" href="/assets/css/align.css">
+    - <link rel="stylesheet" href="/assets/css/comments.css">
     - <link rel="stylesheet" href="/assets/css/snackbar.css">
     - <link rel="stylesheet" href="/assets/css/meta.css">
     - <link rel="stylesheet" href="/assets/css/spacing.css">
