@@ -282,11 +282,11 @@ footer:
     enable: true
     version: true
   custom_text: |
-    <span><a href="/sitemap.xml">网站地图</a></span> | 
-    <span><a href="/atom.xml">RSS</a></span> | 
-    <span><a href="javascript:stroll()">闲逛</a></span> | 
-    <span><a href="javascript:blindbox()">盲盒</a></span> | 
-    <span><a href="https://www.foreverblog.cn/">十年之约</a></span>
+    <a href="/sitemap.xml">网站地图</a>
+    <a href="/atom.xml">RSS</a>
+    <a href="javascript:stroll()">闲逛</a>
+    <a href="javascript:blindbox()">盲盒</a>
+    <a href="https://www.foreverblog.cn/">十年之约</a>
     <br>
     <div id="friends"></div>
 
