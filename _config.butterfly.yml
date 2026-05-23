@@ -1095,7 +1095,7 @@ inject:
     - <link rel="stylesheet" href="/assets/css/social.css">
     - <link rel="stylesheet" href="/assets/css/comments.css">
     - <link rel="stylesheet" href="/assets/css/snackbar.css">
-    - <link rel="stylesheet" href="/assets/css/meta.css">
+    - <link rel="stylesheet" href="/assets/css/mobile-meta.css">
     - <link rel="stylesheet" href="/assets/css/spacing.css">
     - <link rel="stylesheet" href="/assets/css/paragraph.css">
     - <link rel="stylesheet" href="/assets/css/proportion.css">
