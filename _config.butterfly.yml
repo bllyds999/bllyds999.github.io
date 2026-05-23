@@ -283,7 +283,7 @@ footer:
     version: true
   custom_text: |
     <a href="/sitemap.xml">网站地图</a>
-    <a href="/atom.xml">RSS</a>
+    <a href="/privacy">隐私</a>
     <a href="javascript:stroll()">闲逛</a>
     <a href="javascript:blindbox()">盲盒</a>
     <a href="https://www.foreverblog.cn/">十年之约</a>
@@ -311,9 +311,9 @@ aside:
     description: "人总要向前看，对吧？"
     button:
       enable: true
-      icon: fas fa-envelope
-      text: "邮件订阅"
-      link: mailto:subscribe@090909.top?subject=订阅博客更新&body=请原样发送这封邮件，我已知晓当有新的文章发布时，提醒邮件会发送到这个邮箱！如果我想取消订阅，可以向 contact@090909.top 发送申请退订邮件，致上！
+      icon: fas fa-rss
+      text: "订阅我"
+      link: /atom.xml
   card_announcement:
     enable: true
     content: 任何问题，详见<a href="/announcement/">本站公告</a>。
