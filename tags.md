@@ -22,6 +22,7 @@ Hexo 教程
 LUMEN
 Linux
 Linux 脚本
+Mac 游戏
 Markdown 教程
 Markdown 语法
 MkDocs
@@ -34,6 +35,7 @@ QQ 群退群
 SMTP 配置
 SMTP配置
 Shell命令
+Steam 客户端
 Token 消耗
 Ubuntu
 Ubuntu 壁纸
@@ -101,11 +103,14 @@ Workers
 梦
 毛玻璃效果
 泡面
+泰拉瑞亚
 洗牙
 流浪猫
 深夜故事
 清华镜像
 游戏优化
+游戏体验
+游戏回坑
 游戏探索
 游戏攻略
 游戏皮肤生成
