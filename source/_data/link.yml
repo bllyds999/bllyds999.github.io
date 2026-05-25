@@ -129,6 +129,10 @@
       link: https://hanchan.vip/
       avatar: /assets/images/friend.svg
       descr: 论坛上认识的老熟人！
+    - name: 安知鱼
+      link: https://blog.anheyu.com/
+      avatar: /assets/images/friend.svg
+      descr: 很有趣的主题开发者！
 
 - class_name: 实用工具
   class_desc: 我分享的实用工具！
