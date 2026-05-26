@@ -11,7 +11,7 @@
 
 nav:
   # Navigation bar logo image
-  logo:
+  logo: /assets/images/logo.ico
   display_title: true
   display_post_title: false
   # Whether to fix navigation bar
@@ -318,7 +318,7 @@ aside:
     enable: true
     content: 任何问题，详见<a href="/announcement/">本站公告</a>。
   card_recent_post:
-    enable: false
+    enable: true
     # If set 0 will show all
     limit: 5
     # Sort: date / updated
@@ -327,21 +327,21 @@ aside:
   card_newest_comments:
     enable: true
     sort_order:
-    limit: 3
+    limit: 6
     # Unit: mins, save data to localStorage
     storage: 10
     avatar: true
   card_categories:
     enable: true
     # If set 0 will show all
-    limit: 4
+    limit: 8
     # Choose: none / true / false
     expand: true
     sort_order:
   card_tags:
     enable: true
     # If set 0 will show all
-    limit: 20
+    limit: 40
     color: false
     custom_colors:
     # Order of tags, random/name/length
@@ -358,7 +358,7 @@ aside:
     # Sort of order. 1, asc for ascending; -1, desc for descending
     order: 1
     # If set 0 will show all
-    limit: 4
+    limit: 8
     sort_order:
   card_post_series:
     enable: true
@@ -786,21 +786,21 @@ site_verification:
 
 theme_color:
   enable: true
-  main: "#8AD0EF"
-  paginator: "#B4CAD5"
-  button_hover: "#C5C3EA"
-  text_selection: "#004D63"
-  link_color: "#8AD0EF"
-  meta_color: "#C0C8CD"
-  hr_color: "#8A9297"
-  code_foreground: "#FFB4AB"
-  code_background: "rgba(64, 72, 76, .3)"
-  toc_color: "#8AD0EF"
-  blockquote_padding_color: "#8AD0EF"
-  blockquote_background_color: "#004D63"
-  scrollbar_color: "#8AD0EF"
-  meta_theme_color_light: "#F6FAFD"
-  meta_theme_color_dark: "#0F1417"
+  main: "#006879"
+  paginator: "#70797B"
+  button_hover: "#AAEDFF"
+  text_selection: "#006879"
+  link_color: "#006879"
+  meta_color: "#3F484B"
+  hr_color: "#70797B"
+  code_foreground: "#001F26"
+  code_background: "rgba(219, 228, 231, .5)"
+  toc_color: "#006879"
+  blockquote_padding_color: "#006879"
+  blockquote_background_color: "#AAEDFF"
+  scrollbar_color: "#006879"
+  meta_theme_color_light: "#F5FAFC"
+  meta_theme_color_dark: "#0F1416"
 
 # The user interface setting of category and tag page
 # Choose: index - same as Homepage UI / default - same as archives UI
@@ -833,7 +833,7 @@ preloader:
 enter_transitions: true
 
 # Default display mode - light (default) / dark
-display_mode: dark
+display_mode: light
 
 # Configuration for beautifying the content of the article
 beautify:
@@ -879,7 +879,7 @@ activate_power_mode:
 # canvas_ribbon
 # See: https://github.com/hustcc/ribbon.js
 canvas_ribbon:
-  enable: true
+  enable: false
   # The size of ribbon
   size: 150
   # The opacity of ribbon (0 ~ 1)
@@ -896,9 +896,9 @@ canvas_fluttering_ribbon:
 # canvas_nest
 # https://github.com/hustcc/canvas-nest.js
 canvas_nest:
-  enable: false
+  enable: true
   # Color of lines, default: '0,0,0'; RGB values: (R,G,B).(note: use ',' to separate.)
-  color: '71,107,122'
+  color: "0,104,121"
   # The opacity of line (0~1)
   opacity: 0.7
   # The z-index property of the background
@@ -1088,11 +1088,9 @@ inject:
   head:
     # - <link rel="stylesheet" href="/xxx.css">
     - <link rel="stylesheet" href="/assets/css/name.css">
-    - <link rel="stylesheet" href="/assets/css/blur.css">
     - <link rel="stylesheet" href="/assets/css/fonts.css">
     - <link rel="stylesheet" href="/assets/css/svg.css">
     - <link rel="stylesheet" href="/assets/css/pagination.css">
-    - <link rel="stylesheet" href="/assets/css/social.css">
     - <link rel="stylesheet" href="/assets/css/comments.css">
     - <link rel="stylesheet" href="/assets/css/snackbar.css">
     - <link rel="stylesheet" href="/assets/css/mobile-meta.css">
@@ -1108,7 +1106,6 @@ inject:
     - <script src="/assets/js/friends.js"></script>
     - <script src="/assets/js/avatar.js"></script>
     - <script src="/assets/js/music.js"></script>
-    - <script src="/assets/js/height.js"></script>
     - <script src="/assets/js/routing.js"></script>
     - <script src="/assets/js/fix.js"></script>
 
