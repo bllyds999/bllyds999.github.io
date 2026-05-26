@@ -133,6 +133,10 @@
       link: https://blog.anheyu.com/
       avatar: /assets/images/friend.svg
       descr: 很有趣的主题开发者！
+    - name: 武柳先生
+      link: https://mrwuliu.top/
+      avatar: /assets/images/friend.svg
+      descr: 他的写作内容很随心！
 
 - class_name: 实用工具
   class_desc: 我分享的实用工具！
