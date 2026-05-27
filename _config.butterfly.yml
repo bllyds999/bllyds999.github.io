@@ -31,7 +31,6 @@ menu:
     友链: /friends || fas fa-link
     关于: /about || fas fa-person
   工单: https://github.com/bllyds999/bllyds999.github.io/issues/ || fas fa-circle-exclamation
-  开往: https://www.travellings.cn/go.html || fas fa-train-subway
 
 # --------------------------------------
 # Code Blocks Settings
@@ -286,7 +285,7 @@ footer:
     <a href="/privacy">隐私</a>
     <a href="javascript:stroll()">闲逛</a>
     <a href="javascript:blindbox()">盲盒</a>
-    <a href="https://www.foreverblog.cn/">十年之约</a>
+    <a href="mailto:subscribe@090909.top">邮件推送</a>
     <br>
     <div id="friends"></div>
 
