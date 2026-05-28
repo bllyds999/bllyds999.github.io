@@ -1,13 +1,13 @@
 @media screen and (max-width: 768px) {
-  span.page-number.current
+  .pagination span.page-number.current
   {
     display:none !important;
   }
-  a.page-number
+  .pagination a.page-number
   {
     display:none !important;
   }
-  span.space
+  .pagination span.space
   {
     display:none !important;
   }
