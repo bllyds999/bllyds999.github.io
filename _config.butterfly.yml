@@ -1088,11 +1088,8 @@ inject:
     # - <link rel="stylesheet" href="/xxx.css">
     - <link rel="stylesheet" href="/assets/css/name.css">
     - <link rel="stylesheet" href="/assets/css/fonts.css">
-    - <link rel="stylesheet" href="/assets/css/svg.css">
-    - <link rel="stylesheet" href="/assets/css/pagination.css">
     - <link rel="stylesheet" href="/assets/css/comments.css">
     - <link rel="stylesheet" href="/assets/css/snackbar.css">
-    - <link rel="stylesheet" href="/assets/css/mobile-meta.css">
     - <link rel="stylesheet" href="/assets/css/spacing.css">
     - <link rel="stylesheet" href="/assets/css/paragraph.css">
     - <link rel="stylesheet" href="/assets/css/proportion.css">
