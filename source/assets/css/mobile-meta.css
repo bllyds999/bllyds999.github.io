@@ -1,6 +1,6 @@
-@media screen and (max-width: 768px) {
-  #recent-posts .recent-post-item >.recent-post-info > .article-meta-wrap
+@media screen and (max-width: 390px) {
+  .article-meta-label
   {
-    font-size: 0.6rem;
+    display: none;
   }
 }
