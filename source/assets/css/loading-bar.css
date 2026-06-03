@@ -1,4 +1,5 @@
-.pace {
+.pace
+{
 	-webkit-pointer-events: none;
 	pointer-events: none;
 
@@ -32,7 +33,8 @@
 	overflow: hidden;
 }
 
-.pace .pace-progress {
+.pace .pace-progress
+{
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
 	-ms-box-sizing: border-box;
@@ -69,7 +71,8 @@
 	box-shadow: 120px 0 #F5FAFC, 240px 0 #F5FAFC;
 }
 
-.pace .pace-progress:after {
+.pace .pace-progress:after
+{
 	content: attr(data-progress-text);
 	display: inline-block;
 	position: fixed;
@@ -183,7 +186,8 @@
 .pace .pace-progress[data-progress-text="100%"]:after { right: -14px }
 
 
-.pace .pace-activity {
+.pace .pace-activity
+{
 	position: absolute;
 	width: 100%;
 	height: 28px;
@@ -192,6 +196,21 @@
 	border-radius: 10px;
 }
 
-.pace.pace-inactive {
+.pace.pace-inactive
+{
 	display: none;
+}
+
+[data-theme="dark"]
+{
+  .pace .pace-progress
+  {
+    -webkit-box-shadow: 120px 0 #0F1416, 240px 0 #0F1416;
+	  -ms-box-shadow: 120px 0 #0F1416, 240px 0 #0F1416;
+	  box-shadow: 120px 0 #0F1416, 240px 0 #0F1416;
+  }
+  .pace .pace-activity
+  {
+    box-shadow: inset 0 0 0 2px #006879, inset 0 0 0 7px #0F1416;
+  }
 }
