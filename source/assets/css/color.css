@@ -14,7 +14,7 @@
   --tab-button-color: #171C1E;
   --tab-button-hover-bg: #E4E9EB;
   --tab-button-active-bg: #FFFFFF;
-  --card-bg: #FFFFFF;
+  --card-bg: var(--global-bg);
   --card-meta: #3F484B;
   --sidebar-bg: #EFF4F6;
   --sidebar-menu-bg: #FFFFFF;
@@ -38,4 +38,14 @@
   --default-bg-color: #006879;
   --zoom-bg: #FFFFFF;
   --mark-bg: rgba(0,0,0,0.3);
+}
+
+.wl-panel
+{
+  background: var(--global-bg) !important;
+}
+
+nav#nav.show.hide-menu
+{
+  background: #F5FAFCB3 !important;
 }
