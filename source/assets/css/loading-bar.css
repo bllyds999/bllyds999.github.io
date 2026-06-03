@@ -64,9 +64,9 @@
 	font-weight: bold;
 	font-family: Helvetica, Arial, "Lucida Grande", sans-serif;
 
-	-webkit-box-shadow: 120px 0 #FFFFFF, 240px 0 #FFFFFF;
-	-ms-box-shadow: 120px 0 #FFFFFF, 240px 0 #FFFFFF;
-	box-shadow: 120px 0 #FFFFFF, 240px 0 #FFFFFF;
+	-webkit-box-shadow: 120px 0 #F5FAFC, 240px 0 #F5FAFC;
+	-ms-box-shadow: 120px 0 #F5FAFC, 240px 0 #F5FAFC;
+	box-shadow: 120px 0 #F5FAFC, 240px 0 #F5FAFC;
 }
 
 .pace .pace-progress:after {
@@ -188,7 +188,7 @@
 	width: 100%;
 	height: 28px;
 	z-index: 2001;
-	box-shadow: inset 0 0 0 2px #006879, inset 0 0 0 7px #FFFFFF;
+	box-shadow: inset 0 0 0 2px #006879, inset 0 0 0 7px #F5FAFC;
 	border-radius: 10px;
 }
 
