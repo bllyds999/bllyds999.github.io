@@ -1,0 +1,41 @@
+:root
+{
+  --global-bg: #F5FAFC;
+  --font-color: #171C1E;
+  --hr-border: #BFC8CB;
+  --hr-before-color: #3F484B;
+  --search-bg: #EFF4F6;
+  --search-input-color: #171C1E;
+  --search-a-color: #171C1E;
+  --preloader-bg: #2B3133;
+  --preloader-color: #ECF2F4;
+  --tab-border-color: #DBE4E7;
+  --tab-button-bg: #EFF4F6;
+  --tab-button-color: #171C1E;
+  --tab-button-hover-bg: #E4E9EB;
+  --tab-button-active-bg: #FFFFFF;
+  --card-bg: #FFFFFF;
+  --card-meta: #3F484B;
+  --sidebar-bg: #EFF4F6;
+  --sidebar-menu-bg: #FFFFFF;
+  --btn-hover-color: #AAEDFF;
+  --btn-color: #FFFFFF;
+  --btn-bg: #006879;
+  --text-bg-hover: rgba(0,104,121,0.7);
+  --light-grey: #E4E9EB;
+  --dark-grey: #BFC8CB;
+  --white: #FFFFFF;
+  --text-highlight-color: #171C1E;
+  --blockquote-color: #3F484B;
+  --blockquote-bg: rgba(170,237,255,0.1);
+  --reward-pop: #EFF4F6;
+  --toc-link-color: #3F484B;
+  --card-box-shadow: 0 3px 8px 6px rgba(0,0,0,0.06);
+  --card-hover-box-shadow: 0 3px 8px 6px rgba(0,0,0,0.10);
+  --pseudo-hover: #AAEDFF;
+  --headline-presudo: #3F484B;
+  --scrollbar-color: #006879;
+  --default-bg-color: #006879;
+  --zoom-bg: #FFFFFF;
+  --mark-bg: rgba(0,0,0,0.3);
+}
