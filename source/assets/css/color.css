@@ -38,6 +38,10 @@
   --default-bg-color: #006879;
   --zoom-bg: #FFFFFF;
   --mark-bg: rgba(0,0,0,0.3);
+
+  --waline-bg-color-light: var(--global-bg) !important;
+  --waline-disable-bg-color: var(--global-bg) !important;
+  --waline-info-bg-color: var(--global-bg) !important;
 }
 
 .wl-panel
