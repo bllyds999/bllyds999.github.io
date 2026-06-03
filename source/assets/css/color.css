@@ -14,7 +14,7 @@
   --tab-button-color: #171C1E;
   --tab-button-hover-bg: #E4E9EB;
   --tab-button-active-bg: #FFFFFF;
-  --card-bg: var(--global-bg);
+  --card-bg: #F5FAFCB3;
   --card-meta: #3F484B;
   --sidebar-bg: #EFF4F6;
   --sidebar-menu-bg: #FFFFFF;
@@ -42,10 +42,10 @@
 
 .wl-panel
 {
-  background: var(--global-bg) !important;
+  background: var(--card-bg) !important;
 }
 
 nav#nav.show.hide-menu
 {
-  background: #F5FAFCB3 !important;
+  background: var(--card-bg) !important;
 }
