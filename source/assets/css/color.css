@@ -53,3 +53,59 @@ nav#nav.show.hide-menu
 {
   background: var(--card-bg) !important;
 }
+
+[data-theme="dark"]
+{
+  --global-bg: #0F1416;
+  --font-color: #DEE3E5;
+  --hr-border: #3F484B;
+  --hr-before-color: #BFC8CB;
+  --search-bg: #171C1E;
+  --search-input-color: #DEE3E5;
+  --search-a-color: #DEE3E5;
+  --preloader-bg: #DEE3E5;
+  --preloader-color: #2B3133;
+  --tab-border-color: #3F484B;
+  --tab-button-bg: #171C1E;
+  --tab-button-color: #DEE3E5;
+  --tab-button-hover-bg: #252B2D;
+  --tab-button-active-bg: #090F11;
+  --card-bg: #0F1416;
+  --card-meta: #BFC8CB;
+  --sidebar-bg: #171C1E;
+  --sidebar-menu-bg: #090F11;
+  --btn-hover-color: #AAEDFF;
+  --btn-color: #003640;
+  --btn-bg: #84D2E6;
+  --text-bg-hover: rgba(132,210,230,0.7);
+  --light-grey: #E4E9EB;
+  --dark-grey: #3F484B;
+  --white: #FFFFFF;
+  --text-highlight-color: #DEE3E5;
+  --blockquote-color: #BFC8CB;
+  --blockquote-bg: rgba(0,78,92,0.1);
+  --reward-pop: #171C1E;
+  --toc-link-color: #BFC8CB;
+  --card-box-shadow: 0 3px 8px 6px rgba(0,0,0,0.06);
+  --card-hover-box-shadow: 0 3px 8px 6px rgba(0,0,0,0.10);
+  --pseudo-hover: #AAEDFF;
+  --headline-presudo: #BFC8CB;
+  --scrollbar-color: #84D2E6;
+  --default-bg-color: #84D2E6;
+  --zoom-bg: #090F11;
+  --mark-bg: rgba(0,0,0,0.6);
+
+  --waline-bg-color-light: var(--global-bg) !important;
+  --waline-disable-bg-color: var(--global-bg) !important;
+  --waline-info-bg-color: var(--global-bg) !important;
+
+  .wl-panel
+  {
+    background: var(--card-bg) !important;
+  }
+
+  nav#nav.show.hide-menu
+  {
+    background: #0F1416B3 !important;
+  }
+}

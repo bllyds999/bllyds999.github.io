@@ -2,3 +2,11 @@
 {
   backdrop-filter: blur(7px);
 }
+
+[data-theme="dark"]
+{
+  .cardHover, .type-404 .error-content, .layout > div:first-child:not(.nc), #recent-posts .recent-post-item, #article-container .shuoshuo-item, #aside-content .card-widget, .layout .pagination > *:not(.space)
+  {
+
+  }
+}
