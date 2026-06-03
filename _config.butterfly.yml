@@ -341,10 +341,10 @@ aside:
     enable: true
     # If set 0 will show all
     limit: 40
-    color: false
+    color: true
     custom_colors:
     # Order of tags, random/name/length
-    orderby: length
+    orderby: random
     # Sort of order. 1, asc for ascending; -1, desc for descending
     order: 1
     sort_order:
@@ -1101,6 +1101,7 @@ inject:
     - <link rel="stylesheet" href="/assets/css/proportion.css">
   bottom:
     # - <script src="xxxx"></script>
+    - <script src="/assets/js/tags-cloud.js"></script>
     - <script src="/assets/js/stroll.js"></script>
     - <script src="/assets/js/blindbox.js"></script>
     - <script src="/assets/js/mourn.js"></script>
