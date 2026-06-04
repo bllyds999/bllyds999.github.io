@@ -1,5 +1,5 @@
 ---
-title: Giscus 修改 CSS 样式
+title: 网站 Giscus 评论区 CSS 美化，与亮暗主题配置教程
 categories: 代码展示
 cover: /assets/images/cover/code.webp
 date: 2026-05-02 11:05:31

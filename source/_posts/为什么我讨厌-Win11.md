@@ -1,5 +1,5 @@
 ---
-title: 为什么我讨厌 Win11
+title: 一个用户的系统折腾血泪史：从 Windows 到 Linux 又回 Windows
 categories: 杂谈
 cover: /assets/images/cover/other.webp
 date: 2026-05-10 21:22:25

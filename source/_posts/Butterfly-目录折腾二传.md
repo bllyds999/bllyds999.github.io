@@ -1,5 +1,5 @@
 ---
-title: Butterfly 目录折腾二传
+title: 网站目录问题用 JS 自动刷新、解决并删除错误 CSS
 date: 2026-04-10 18:31:37
 categories: 代码展示
 cover: /assets/images/cover/code.webp

@@ -1,5 +1,5 @@
 ---
-title: DeepSeek TUI 初尝试
+title: DeepSeek TUI 开源命令行工具，使用体验与修复分享
 categories: 杂谈
 cover: /assets/images/cover/other.webp
 date: 2026-05-17 10:56:55

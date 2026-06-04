@@ -1,5 +1,5 @@
 ---
-title: 记一次为域名配置 DMARC
+title: 解决 Waline 未收到评论邮件提醒：Cloudflare 配置 DMARC 策略
 categories: 代码展示
 cover: /assets/images/cover/code.webp
 date: 2026-05-24 00:09:46

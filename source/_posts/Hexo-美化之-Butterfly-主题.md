@@ -1,5 +1,5 @@
 ---
-title: Hexo 美化之 Butterfly 主题
+title: Hexo 博客 Butterfly 主题安装，与配置完整教程指南
 date: 2026-04-04 08:48:16
 updated: 2026-04-09 23:08:00
 categories: Hexo 教程

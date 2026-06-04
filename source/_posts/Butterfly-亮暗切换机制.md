@@ -1,5 +1,5 @@
 ---
-title: Butterfly 亮暗切换机制
+title: Hexo Butterfly 亮暗色切换：data-theme 替代 @media 实现方法
 categories: 代码展示
 cover: /assets/images/cover/code.webp
 date: 2026-05-01 03:43:57

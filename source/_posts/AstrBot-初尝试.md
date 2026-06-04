@@ -1,5 +1,5 @@
 ---
-title: AstrBot 初尝试
+title: 树莓派安装 AstrBot 与 OpenClaw 对比，体验及折腾实战全记录
 date: 2026-04-10 20:25:04
 categories: 杂谈
 cover: /assets/images/illustrations/astrbot-1.webp

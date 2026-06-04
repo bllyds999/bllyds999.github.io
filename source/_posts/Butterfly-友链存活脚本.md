@@ -1,5 +1,5 @@
 ---
-title: Butterfly 友链存活脚本
+title: 使用 Ping 批量检测链接存活状态的 Shell 命令
 date: 2026-04-06 12:48:24
 categories: 代码展示
 cover: /assets/images/cover/code.webp

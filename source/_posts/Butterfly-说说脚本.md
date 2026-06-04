@@ -1,5 +1,5 @@
 ---
-title: Butterfly 说说脚本
+title: Shell 脚本自动创建，并追加内容到说说 YAML 文件
 date: 2026-04-05 11:22:35
 updated: 2026-04-08 21:12:23
 categories: 代码展示

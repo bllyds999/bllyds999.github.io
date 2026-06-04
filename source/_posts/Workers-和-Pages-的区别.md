@@ -1,5 +1,5 @@
 ---
-title: Workers 和 Pages 的区别
+title: Cloudflare Workers 与 Pages：从冷启动到静态部署的全面对比
 categories: 杂谈
 cover: /assets/images/cover/other.webp
 date: 2026-04-19 03:18:36

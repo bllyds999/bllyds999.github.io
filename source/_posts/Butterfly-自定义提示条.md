@@ -1,5 +1,5 @@
 ---
-title: Butterfly 自定义提示条
+title: 让博客更有人情味：Butterfly 主题自定义 Snackbar 时段问候
 date: 2026-05-05 02:45:19
 updated: 2026-05-05 16:02:12
 categories: 代码展示

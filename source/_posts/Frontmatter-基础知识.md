@@ -1,5 +1,5 @@
 ---
-title: Frontmatter 基础知识
+title: Hexo Frontmatter 元数据教程详解：一篇搞懂所有字段
 date: 2026-04-04 23:39:16
 categories: Hexo 教程
 cover: /assets/images/cover/hexo.webp

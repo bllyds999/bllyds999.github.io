@@ -1,5 +1,5 @@
 ---
-title: 下载 Ubuntu 壁纸脚本
+title: 一个脚本，从清华镜像下载并提取 Ubuntu 壁纸
 date: 2026-04-06 18:14:34
 categories: 代码展示
 cover: /assets/images/cover/code.webp

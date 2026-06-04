@@ -1,5 +1,5 @@
 ---
-title: Shell 写的大语言模型客户端
+title: 用 Shell 脚本打造 OpenAI API 智能命令行对话机器人
 date: 2026-04-07 17:43:55
 categories: 代码展示
 cover: /assets/images/cover/code.webp

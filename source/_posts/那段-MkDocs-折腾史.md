@@ -1,5 +1,5 @@
 ---
-title: 那段 MkDocs 折腾史
+title: 从 MkDocs 起步的个人博客，一段值得怀念的折腾经历
 categories: 纪实
 cover: /assets/images/cover/history.webp
 date: 2026-04-24 16:32:12

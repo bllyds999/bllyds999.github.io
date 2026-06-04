@@ -1,5 +1,5 @@
 ---
-title: Butterfly 底部随机友链
+title: 博客页脚随机展示友链的小技巧，与响应式实现
 date: 2026-05-14 22:34:02
 categories: 代码展示
 cover: /assets/images/cover/code.webp

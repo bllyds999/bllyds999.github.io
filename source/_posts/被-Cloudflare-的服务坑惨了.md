@@ -1,5 +1,5 @@
 ---
-title: 被 Cloudflare 的服务坑惨了
+title: Cloudflare 邮箱混淆，导致 PJAX 网站邮箱显示异常解决方法
 categories: 杂谈
 cover: /assets/images/cover/other.webp
 date: 2026-05-23 14:17:56

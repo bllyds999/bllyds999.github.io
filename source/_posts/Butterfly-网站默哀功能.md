@@ -1,5 +1,5 @@
 ---
-title: Butterfly 网站默哀功能
+title: 网站纪念日自动变灰功能的 JS 实现方法
 date: 2026-04-18 22:15:43
 categories: 代码展示
 cover: /assets/images/cover/code.webp

@@ -1,5 +1,5 @@
 ---
-title: 主流的 Hexo 部署平台
+title: Hexo 博客部署平台选哪个？四大平台优缺点对比
 categories: Hexo 教程
 cover: /assets/images/cover/hexo.webp
 date: 2026-04-04 17:32:09

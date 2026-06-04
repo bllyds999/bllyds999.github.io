@@ -1,5 +1,5 @@
 ---
-title: AI 生成我的世界皮肤
+title: 一张图片，就能生成我的世界专属皮肤教程
 date: 2026-05-03 14:03:03
 categories: 游戏
 cover: /assets/images/illustrations/lumen-1.webp

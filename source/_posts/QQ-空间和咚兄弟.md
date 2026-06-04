@@ -1,5 +1,5 @@
 ---
-title: QQ 空间和咚兄弟
+title: 我的梦到在 QQ 空间发文章，并变身暴太郎咚兄弟
 date: 2026-04-13 10:18:25
 categories: 梦
 cover: /assets/images/cover/dream.webp

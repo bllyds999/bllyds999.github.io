@@ -1,5 +1,5 @@
 ---
-title: 尝试压缩图片成 WebP
+title: 网站无法访问？用 cwebp 本地轻松压缩 WebP 图片
 date: 2026-04-11 00:27:07
 categories: 杂谈
 cover: /assets/images/cover/other.webp

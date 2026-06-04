@@ -1,5 +1,5 @@
 ---
-title: 如何使用 Hexo 搭建博客网站
+title: Hexo 博客搭建完整教程，从 Node.js 安装到配置启动
 date: 2026-04-03 23:57:40
 categories: Hexo 教程
 cover: /assets/images/cover/hexo.webp

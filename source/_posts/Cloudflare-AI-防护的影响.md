@@ -1,5 +1,5 @@
 ---
-title: Cloudflare AI 防护的影响
+title: Cloudflare AI 防护，导致搜索引擎排名下降
 date: 2026-04-19 19:51:19
 categories: 杂谈
 cover: /assets/images/cover/other.webp

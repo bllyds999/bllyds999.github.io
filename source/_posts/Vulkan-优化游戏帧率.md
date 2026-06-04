@@ -1,5 +1,5 @@
 ---
-title: Vulkan 优化游戏帧率
+title: 我的世界装上 VulkanMod 和 Beryl，光影帧率飙升到 1000 帧
 date: 2026-05-04 13:50:44
 categories: 游戏
 cover: /assets/images/illustrations/vulkanmod-1.webp

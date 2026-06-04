@@ -1,5 +1,5 @@
 ---
-title: 记一次 Hexo 博客迁移
+title: GitHub 被封后，我将网站迁移到 Cloudflare Pages，速度飞快
 categories: 杂谈
 cover: /assets/images/cover/other.webp
 date: 2026-04-18 11:46:35

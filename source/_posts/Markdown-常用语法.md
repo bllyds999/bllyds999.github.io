@@ -1,5 +1,5 @@
 ---
-title: Markdown 常用语法
+title: Markdown 常用语法，与对应 HTML 标签完整对照教程
 date: 2026-04-04 23:11:39
 categories: Hexo 教程
 cover: /assets/images/cover/hexo.webp

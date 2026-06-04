@@ -1,5 +1,5 @@
 ---
-title: AI 自动生成文章标签
+title: 用 AI 自动为博客文章打标签，我写了个 Python 脚本
 date: 2026-05-08 20:13:37
 categories: 代码展示
 cover: /assets/images/cover/code.webp

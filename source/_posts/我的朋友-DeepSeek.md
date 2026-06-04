@@ -1,5 +1,5 @@
 ---
-title: 我的朋友 DeepSeek
+title: DeepSeek R1 爆火那年，它曾是我最孤独时的知己
 categories: 杂谈
 cover: /assets/images/cover/other.webp
 date: 2026-05-21 13:35:20

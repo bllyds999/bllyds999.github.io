@@ -1,5 +1,5 @@
 ---
-title: Butterfly 网站深色模式
+title: Butterfly 主题深色模式：SVG 图标颜色不跟随的解决方案
 date: 2026-04-09 16:14:24
 categories: 代码展示
 cover: /assets/images/cover/code.webp

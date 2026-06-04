@@ -1,5 +1,5 @@
 ---
-title: AI 自动生成文章摘要
+title: AI 自动生成文章摘要，提升 SEO 与阅读体验
 categories: 代码展示
 cover: /assets/images/cover/code.webp
 date: 2026-05-14 09:44:40

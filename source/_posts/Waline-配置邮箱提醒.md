@@ -1,5 +1,5 @@
 ---
-title: Waline 配置邮箱提醒
+title: Waline 邮箱提醒：七个环境变量一个都不能少
 date: 2026-04-13 17:14:23
 categories: 杂谈
 cover: /assets/images/cover/other.webp

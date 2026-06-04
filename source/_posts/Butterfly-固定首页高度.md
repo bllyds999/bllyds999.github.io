@@ -1,5 +1,5 @@
 ---
-title: Butterfly 固定首页高度
+title: Butterfly 主题首页文章列表，固定高度动态补齐方法
 categories: 代码展示
 cover: /assets/images/cover/code.webp
 date: 2026-05-18 16:21:15

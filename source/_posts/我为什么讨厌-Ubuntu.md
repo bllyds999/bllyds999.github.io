@@ -1,5 +1,5 @@
 ---
-title: 我为什么讨厌 Ubuntu
+title: Ubuntu 的 Snap 糟糕体验，让我从喜欢到彻底弃坑
 categories: 杂谈
 cover: /assets/images/cover/other.webp
 date: 2026-05-20 18:58:58

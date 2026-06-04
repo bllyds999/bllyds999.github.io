@@ -1,5 +1,5 @@
 ---
-title: Butterfly 友链随机跳转
+title: Butterfly 主题实现：友链随机跳转的简单方法
 date: 2026-04-12 16:06:02
 categories: 代码展示
 cover: /assets/images/cover/code.webp

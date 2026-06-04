@@ -1,5 +1,5 @@
 ---
-title: Dotfiles 备份脚本
+title: 使用 Git 一键自动备份配置文件的简易脚本
 date: 2026-04-05 16:04:09
 categories: 代码展示
 cover: /assets/images/cover/code.webp

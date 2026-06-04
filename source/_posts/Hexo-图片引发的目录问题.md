@@ -1,5 +1,5 @@
 ---
-title: Hexo 图片引发的目录问题
+title: 巧用 CSS 容器一步修复 Butterfly 主题，目录加载图片大小问题
 date: 2026-04-09 21:58:34
 categories: 代码展示
 cover: /assets/images/cover/code.webp
