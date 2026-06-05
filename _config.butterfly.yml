@@ -725,11 +725,11 @@ microsoft_clarity:
 
 # https://umami.is/
 umami_analytics:
-  enable: false
+  enable: true
   # For self-hosted setups, configure the hostname of the Umami instance
-  serverURL:
+  serverURL: https://statistics.090909.top/
   script_name: script.js
-  website_id:
+  website_id: c6e39aa4-681a-4d9a-ba89-33415a3ba7ca
   option:
   UV_PV:
     site_uv: false
