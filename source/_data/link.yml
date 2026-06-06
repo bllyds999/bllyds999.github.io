@@ -153,6 +153,10 @@
       descr: 他希望自己美梦成真！
       link: https://lemonadorable.github.io/
       avatar: /assets/images/friend.svg
+    - name: 麦卡杰斯
+      descr: 他等待一个迷路的夜！
+      link: https://blog.seln.cn/
+      avatar: /assets/images/friend.svg
 
 - class_name: 实用工具
   class_desc: 我分享的实用工具！
