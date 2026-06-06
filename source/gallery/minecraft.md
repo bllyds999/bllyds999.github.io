@@ -63,4 +63,7 @@ comments: false
 ![](/assets/images/illustrations/minecraft-56.webp)
 ![](/assets/images/illustrations/minecraft-57.webp)
 ![](/assets/images/illustrations/minecraft-58.webp)
+![](/assets/images/illustrations/minecraft-59.webp)
+![](/assets/images/illustrations/minecraft-60.webp)
+![](/assets/images/illustrations/minecraft-61.webp)
 {% endgallery %}

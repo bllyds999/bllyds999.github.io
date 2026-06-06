@@ -6,6 +6,7 @@ AI 防护
 AstrBot
 Beryl 光影
 Butterfly
+B站小站
 CSS 美化
 CSS 阴影
 Cloudflare
@@ -23,6 +24,7 @@ LUMEN
 Linux
 Linux 脚本
 Mac 游戏
+MacBook
 Markdown 教程
 Markdown 语法
 MkDocs
@@ -30,6 +32,8 @@ Node.js
 OpenClaw
 PJAX
 Pages
+Playwright
+Python脚本
 QQ 空间
 QQ 群退群
 SMTP 配置
@@ -96,6 +100,7 @@ Workers
 我的世界皮肤
 技术折腾
 技术聚会
+拔刀剑
 挂面
 插件推荐
 数据包
@@ -127,6 +132,7 @@ Workers
 游戏皮肤生成
 游戏装饰
 游戏趣味玩法
+爬虫技术
 牙龈炎
 特摄剧
 环境变量
@@ -146,6 +152,7 @@ Workers
 网络速度
 自定义提示条
 蛋糕
+西瓜
 角色分析
 评论系统
 豆包 AI
@@ -160,5 +167,8 @@ Workers
 部署平台
 除夕夜
 随机跳转
+零食
 魔法学校
+鼠须管
 鼻炎
+龟苓膏

@@ -6,4 +6,5 @@ comments: false
 
 {% gallery %}
 ![](/assets/images/illustrations/snacks-1.webp)
+![](/assets/images/illustrations/snacks-2.webp)
 {% endgallery %}
