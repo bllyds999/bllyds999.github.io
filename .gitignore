@@ -14,4 +14,5 @@ essay-auto-tags.py
 essay.py
 auto-description.py
 auto-title.py
+article.sh
 .deepseek/
