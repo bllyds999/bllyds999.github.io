@@ -6,9 +6,9 @@ AI 防护
 AI检测
 AstrBot
 B 站
+B 站小站
 Beryl 光影
 Butterfly
-B 站小站
 CSS 美化
 CSS 阴影
 Cloudflare
@@ -141,6 +141,7 @@ Workers
 泰拉瑞亚
 洗牙
 洗鼻
+活动行
 流浪猫
 深夜故事
 清华镜像
@@ -168,6 +169,7 @@ Workers
 空岛生存
 童年时光
 粉丝统计
+系统错误
 编程工具
 网站默哀
 网络安全
@@ -177,6 +179,7 @@ Workers
 蛋糕
 西瓜
 角色分析
+订票取消
 评论系统
 误判
 豆包 AI

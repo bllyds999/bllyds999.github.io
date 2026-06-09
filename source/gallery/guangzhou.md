@@ -6,4 +6,5 @@ comments: false
 
 {% gallery %}
 ![](/assets/images/illustrations/guangzhou-1.webp)
+![](/assets/images/illustrations/guangzhou-2.webp)
 {% endgallery %}
