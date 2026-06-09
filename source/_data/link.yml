@@ -137,11 +137,11 @@
       link: https://mrwuliu.top/
       avatar: /assets/images/friend.svg
       descr: 他的写作内容很随心！
-    - name: 葱葱
+    - name: 葱葱小窝
       link: https://blog.mosicong.top/
       avatar: /assets/images/friend.svg
       descr: 他的梦想是星辰大海！
-    - name: 楠楠
+    - name: 楠枝小笺
       descr: 安安静静存在就很好！
       link: https://www.nannax.top/
       avatar: /assets/images/friend.svg
@@ -149,7 +149,7 @@
       descr: 他想要走遍世界各地！
       link: https://blog.apodfg.com/
       avatar: /assets/images/friend.svg
-    - name: 柠檬
+    - name: 灵的梦境
       descr: 他希望自己美梦成真！
       link: https://lemonadorable.github.io/
       avatar: /assets/images/friend.svg
@@ -164,6 +164,10 @@
     - name: 桃之夭夭
       descr: 这是桃之夭夭的小屋！
       link: https://taozhiyy.top/
+      avatar: /assets/images/friend.svg
+    - name: 风舞心弦
+      descr: 又是一个有趣的灵魂！
+      link: https://fengwu.art/
       avatar: /assets/images/friend.svg
 
 - class_name: 实用工具
