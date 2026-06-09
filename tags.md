@@ -8,6 +8,7 @@ AstrBot
 B 站
 B 站小站
 Beryl 光影
+Brave 浏览器
 Butterfly
 CSS 美化
 CSS 阴影
@@ -52,6 +53,7 @@ VulkanMod
 Waline
 WebP
 Workers
+macOS
 七年坚持
 下载脚本
 个人经历
@@ -178,6 +180,7 @@ Workers
 良师益友
 蛋糕
 西瓜
+覆盖安装
 角色分析
 订票取消
 评论系统
