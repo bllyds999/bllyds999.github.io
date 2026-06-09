@@ -8,7 +8,7 @@ AstrBot
 B 站
 Beryl 光影
 Butterfly
-B站小站
+B 站小站
 CSS 美化
 CSS 阴影
 Cloudflare
