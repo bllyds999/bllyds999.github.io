@@ -40,6 +40,7 @@ Python 脚本
 QQ
 QQ 空间
 QQ 群退群
+RSSHub
 SMTP 配置
 SMTP配置
 Shell命令
