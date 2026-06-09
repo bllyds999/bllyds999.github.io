@@ -7,6 +7,7 @@ AI检测
 AstrBot
 Beryl 光影
 Butterfly
+B 站
 B站小站
 CSS 美化
 CSS 阴影
@@ -34,7 +35,7 @@ OpenClaw
 PJAX
 Pages
 Playwright
-Python脚本
+Python 脚本
 QQ
 QQ 空间
 QQ 群退群
@@ -112,6 +113,7 @@ Workers
 技术折腾
 技术聚会
 技术讨论
+抄袭争议
 拔刀剑
 挂面
 插件推荐
@@ -128,6 +130,7 @@ Workers
 暴雨
 末影龙
 权限管理
+材质包
 树莓派
 校园回忆
 梦
