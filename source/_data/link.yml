@@ -13,10 +13,10 @@
       link: https://xfcnl.github.io/
       avatar: /assets/images/friend.svg
       descr: 这个懒狗好像不咋写博客诶！
-    - name: 比特梦想
-      link: https://www.bytedream.org/
-      avatar: /assets/images/friend.svg
-      descr: 是常发互相邮件的朋友哒！
+    # - name: 比特梦想
+    #   link: https://www.bytedream.org/
+    #   avatar: /assets/images/friend.svg
+    #   descr: 是常发互相邮件的朋友哒！
     - name: 可乐
       link: https://cola0908.top/
       avatar: /assets/images/friend.svg
