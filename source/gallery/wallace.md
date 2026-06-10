@@ -8,4 +8,6 @@ comments: false
 ![](/assets/images/illustrations/wallace-1.webp)
 ![](/assets/images/illustrations/wallace-2.webp)
 ![](/assets/images/illustrations/wallace-3.webp)
+![](/assets/images/illustrations/wallace-4.webp)
+![](/assets/images/illustrations/wallace-5.webp)
 {% endgallery %}
