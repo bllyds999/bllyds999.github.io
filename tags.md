@@ -12,9 +12,11 @@ Brave 浏览器
 Butterfly
 CSS 美化
 CSS 阴影
+Clash Verge
 Cloudflare
 Cloudflare Pages
 DMARC
+DNS 配置
 DeepSeek
 Dotfiles
 Frontmatter
@@ -46,6 +48,7 @@ SMTP配置
 Shell命令
 Steam 客户端
 Steam 骗局
+Tahoe
 Token 消耗
 Ubuntu
 Ubuntu 壁纸
@@ -55,13 +58,13 @@ Waline
 WebP
 Workers
 macOS
-Tahoe
 七年坚持
 下载脚本
 个人经历
 个人网站
 中美对账
 二手回收
+代理软件
 使用体验
 保存的快捷栏
 儿童套餐
@@ -177,6 +180,7 @@ Tahoe
 编程工具
 网站默哀
 网络安全
+网络故障
 网络速度
 自定义提示条
 良师益友
