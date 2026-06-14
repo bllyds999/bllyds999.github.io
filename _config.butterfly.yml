@@ -370,7 +370,7 @@ aside:
   card_webinfo:
     enable: true
     post_count: true
-    last_push_date: true
+    last_push_date: false
     sort_order:
     # Time difference between publish date and now
     # Formal: Month/Day/Year Time or Year/Month/Day Time
