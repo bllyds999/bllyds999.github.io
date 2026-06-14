@@ -11,7 +11,7 @@
 
 nav:
   # Navigation bar logo image
-  logo: /assets/images/logo.ico
+  logo:
   display_title: true
   display_post_title: false
   # Whether to fix navigation bar
@@ -324,7 +324,7 @@ aside:
     sort: date
     sort_order:
   card_newest_comments:
-    enable: true
+    enable: false
     sort_order:
     limit: 6
     # Unit: mins, save data to localStorage
@@ -786,21 +786,21 @@ site_verification:
 
 theme_color:
   enable: true
-  main: "#006879"
-  paginator: "#70797B"
-  button_hover: "#AAEDFF"
-  text_selection: "#006879"
-  link_color: "#006879"
-  meta_color: "#3F484B"
-  hr_color: "#70797B"
-  code_foreground: "#001F26"
-  code_background: "rgba(219, 228, 231, .5)"
-  toc_color: "#006879"
-  blockquote_padding_color: "#006879"
-  blockquote_background_color: "#AAEDFF"
-  scrollbar_color: "#006879"
-  meta_theme_color_light: "#F5FAFC"
-  meta_theme_color_dark: "#0F1416"
+  main: "#E0B9EE"
+  paginator: "#988D9D"
+  button_hover: "#F7D8FF"
+  text_selection: "#E0B9EE"
+  link_color: "#E0B9EE"
+  meta_color: "#CFC2D3"
+  hr_color: "#988D9D"
+  code_foreground: "#EADFEA"
+  code_background: "rgba(35, 30, 37, .5)"
+  toc_color: "#E0B9EE"
+  blockquote_padding_color: "#E0B9EE"
+  blockquote_background_color: "rgba(90, 59, 103, .3)"
+  scrollbar_color: "#E0B9EE"
+  meta_theme_color_light: "#FFF7FD"
+  meta_theme_color_dark: "#161219"
 
 # The user interface setting of category and tag page
 # Choose: index - same as Homepage UI / default - same as archives UI
@@ -850,13 +850,13 @@ beautify:
 font:
   global_font_size: 1rem
   code_font_size: 1rem
-  font_family: 'ZCOOLXiaoWei, sans-serif'
-  code_font_family: 'Fira Code, ZCOOLXiaoWei, monospace'
+  font_family: '字小魂阿开童漫体, sans-serif'
+  code_font_family: 'MapleMono, monospace'
 
 # Font settings for the site title and site subtitle
 blog_title_font:
   font_link:
-  font_family: "ZCOOLXiaoWei, sans-serif"
+  font_family: "字小魂阿开童漫体, sans-serif"
 
 # The setting of divider icon
 hr_icon:
@@ -1087,8 +1087,6 @@ css_prefix: true
 inject:
   head:
     # - <link rel="stylesheet" href="/xxx.css">
-    - <link rel="stylesheet" href="/assets/css/canvas.css">
-    - <link rel="stylesheet" href="/assets/css/name.css">
     - <link rel="stylesheet" href="/assets/css/fonts.css">
     - <link rel="stylesheet" href="/assets/css/mobile-meta.css">
     - <link rel="stylesheet" href="/assets/css/pagination.css">
@@ -1101,11 +1099,9 @@ inject:
     - <link rel="stylesheet" href="/assets/css/proportion.css">
   bottom:
     # - <script src="xxxx"></script>
-    - <script src="/assets/js/tags-cloud.js"></script>
     - <script src="/assets/js/comments.js"></script>
     - <script src="/assets/js/stroll.js"></script>
     - <script src="/assets/js/blindbox.js"></script>
-    - <script src="/assets/js/mourn.js"></script>
     - <script src="/assets/js/reminder.js"></script>
     - <script src="/assets/js/friends.js"></script>
     - <script src="/assets/js/avatar.js"></script>
