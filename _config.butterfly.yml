@@ -1179,4 +1179,4 @@ CDN:
     # utils:
     # valine:
     # waline_css:
-    # waline_js:
+    waline_js: https://unpkg.com/@waline/client@v3.8.0/dist/waline.js
