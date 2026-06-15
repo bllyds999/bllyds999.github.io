@@ -7,7 +7,7 @@
     if (playlist.length === 0) return;
     const index = Math.floor(Math.random() * playlist.length);
     const audio = new Audio(playlist[index]);
-    audio.volume = 0.5;
+    audio.volume = 0.3;
     audio.play();
     audio.addEventListener('ended', () => playRandom());
   }
