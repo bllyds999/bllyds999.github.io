@@ -1104,7 +1104,6 @@ inject:
     - <script src="/assets/js/blindbox.js"></script>
     - <script src="/assets/js/friends.js"></script>
     - <script src="/assets/js/avatar.js"></script>
-    - <script src="/assets/js/music.js"></script>
     - <script src="/assets/js/routing.js"></script>
     - <script src="/assets/js/fix.js"></script>
 

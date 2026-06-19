@@ -9,7 +9,3 @@
 [submodule "saying"]
 	path = saying
 	url = https://github.com/bllyds999/saying
-
-[submodule "music"]
-	path = music
-	url = https://github.com/bllyds999/music
