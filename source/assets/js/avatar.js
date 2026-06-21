@@ -1,5 +1,7 @@
 (async function () {
-  const response = await fetch('https://avatar.090909.top/avatar.json');
+  const response = await fetch('https://avatar.090909.top/avatar.json', {
+    cache: 'no-store'
+  });
   const map = await response.json();
 
   const rules = Object.entries(map)
