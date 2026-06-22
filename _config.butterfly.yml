@@ -225,7 +225,7 @@ post_copyright:
 # Sponsor/reward
 reward:
   enable: true
-  text: 喜欢这篇文章，可以赏我一杯咖啡吗？
+  text: 支持我
   QR_code:
     - img: /assets/images/reward/wechat.webp
       link:
