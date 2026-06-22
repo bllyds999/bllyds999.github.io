@@ -38,11 +38,11 @@ async function tryRoute(targetPath) {
       bestUrl = bestUrl.slice(0, -'index.html'.length);
     }
 
-    btf.snackbarShow('未找到页面，五秒后跳转至正确路径……');
+    btf.snackbarShow('未找到页面，三秒后跳转至正确路径');
 
     setTimeout(() => {
       window.location.href = bestUrl;
-    }, 5000);
+    }, 3000);
   } catch (e) {}
 }
 
