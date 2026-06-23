@@ -189,6 +189,10 @@
       descr: 分享花谱的艺术小站！
       link: https://nnnj.net/
       avatar: /assets/images/friend.svg
+    - name: 番茄主理人
+      descr: 分享建站教程的博主！
+      link: https://www.fqzlr.com/
+      avatar: /assets/images/friend.svg
 
 - class_name: 实用工具
   class_desc: 我分享的实用工具！
