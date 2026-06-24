@@ -1,5 +1,5 @@
 ---
-title: 从通义灵码到 Trae：我的 AI 编辑器进化之旅
+title: 我的 AI 编辑器迁移史：从通义灵码到 Trae，我都用过哪些 AI 编辑器
 date: 2026-04-16 20:35:25
 categories: 纪实
 cover: /assets/images/cover/history.webp
