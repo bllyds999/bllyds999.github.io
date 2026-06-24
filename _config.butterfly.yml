@@ -849,14 +849,14 @@ beautify:
 # Don't modify the following settings unless you know how they work
 font:
   global_font_size: 1rem
-  code_font_size: 1rem
+  code_font_size:
   font_family: '字小魂阿开童漫体, sans-serif'
   code_font_family: 'MapleMono, monospace'
 
 # Font settings for the site title and site subtitle
 blog_title_font:
   font_link:
-  font_family: "字小魂阿开童漫体, sans-serif"
+  font_family:
 
 # The setting of divider icon
 hr_icon:
@@ -1088,6 +1088,7 @@ inject:
   head:
     # - <link rel="stylesheet" href="/xxx.css">
     - <link rel="stylesheet" href="/assets/css/fonts.css">
+    - <link rel="stylesheet" href="/assets/css/size.css">
     - <link rel="stylesheet" href="/assets/css/mobile-meta.css">
     - <link rel="stylesheet" href="/assets/css/pagination.css">
     - <link rel="stylesheet" href="/assets/css/svg.css">
