@@ -193,6 +193,10 @@
       descr: 分享建站教程的博主！
       link: https://www.fqzlr.com/
       avatar: /assets/images/friend.svg
+    - name: 希格鲁特
+      descr: 他的内容主要是编程！
+      link: https://xgrblog.cn/
+      avatar: /assets/images/friend.svg
 
 - class_name: 实用工具
   class_desc: 我分享的实用工具！
