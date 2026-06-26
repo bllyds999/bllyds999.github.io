@@ -10,4 +10,5 @@ comments: false
 ![](/assets/images/illustrations/park-3.webp)
 ![](/assets/images/illustrations/park-4.webp)
 ![](/assets/images/illustrations/park-5.webp)
+![](/assets/images/illustrations/park-6.webp)
 {% endgallery %}
