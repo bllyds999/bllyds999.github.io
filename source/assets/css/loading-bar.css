@@ -205,12 +205,12 @@
 {
   .pace .pace-progress
   {
-    -webkit-box-shadow: 120px 0 #161219, 240px 0 #161219;
-	  -ms-box-shadow: 120px 0 #161219, 240px 0 #161219;
-	  box-shadow: 120px 0 #161219, 240px 0 #161219;
+    -webkit-box-shadow: 120px 0 #121212, 240px 0 #121212;
+	  -ms-box-shadow: 120px 0 #121212, 240px 0 #121212;
+	  box-shadow: 120px 0 #121212, 240px 0 #121212;
   }
   .pace .pace-activity
   {
-    box-shadow: inset 0 0 0 2px #E0B9EE, inset 0 0 0 7px #161219;
+    box-shadow: inset 0 0 0 2px #E0B9EE, inset 0 0 0 7px #121212;
   }
 }
