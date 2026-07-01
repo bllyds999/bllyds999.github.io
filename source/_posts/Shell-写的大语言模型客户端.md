@@ -4,7 +4,7 @@ date: 2026-04-07 17:43:55
 categories: 代码展示
 cover: /assets/images/cover/code.webp
 tags:
-  - Shell命令
+  - Shell 命令
   - 大语言模型
   - Token 消耗
   - 技术折腾

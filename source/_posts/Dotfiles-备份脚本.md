@@ -4,7 +4,7 @@ date: 2026-04-05 16:04:09
 categories: 代码展示
 cover: /assets/images/cover/code.webp
 tags:
-  - Shell命令
+  - Shell 命令
   - 技术折腾
   - 运维
   - Dotfiles

@@ -4,7 +4,7 @@ date: 2026-04-06 18:14:34
 categories: 代码展示
 cover: /assets/images/cover/code.webp
 tags:
-  - Shell命令
+  - Shell 命令
   - 技术折腾
   - Ubuntu 壁纸
   - 下载脚本

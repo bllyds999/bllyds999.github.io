@@ -45,7 +45,7 @@ QQ 空间
 QQ 群退群
 RSSHub
 SMTP 配置
-Shell命令
+Shell 命令
 Steam 客户端
 Steam 骗局
 Tahoe
