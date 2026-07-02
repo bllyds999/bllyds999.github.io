@@ -3,7 +3,7 @@ AI 机器人
 AI 生成皮肤
 AI 编辑器
 AI 防护
-AI检测
+AI 检测
 AstrBot
 B 站
 B 站小站
@@ -14,11 +14,13 @@ CDN
 CSS 美化
 CSS 阴影
 Clash Verge
+Claude Code
 Cloudflare
 Cloudflare Pages
 DMARC
 DNS 配置
 DeepSeek
+DeepSeek API
 Dotfiles
 Frontmatter
 Giscus

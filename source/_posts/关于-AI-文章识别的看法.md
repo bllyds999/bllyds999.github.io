@@ -4,7 +4,7 @@ categories: 杂谈
 cover: /assets/images/cover/other.webp
 date: 2026-06-07 12:54:49
 tags:
-  - AI检测
+  - AI 检测
   - 文章识别
   - 大语言模型
   - 写作风格
