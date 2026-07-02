@@ -93,4 +93,11 @@ comments: false
 ![](/assets/images/illustrations/minecraft-86.webp)
 ![](/assets/images/illustrations/minecraft-87.webp)
 ![](/assets/images/illustrations/minecraft-88.webp)
+![](/assets/images/illustrations/minecraft-89.webp)
+![](/assets/images/illustrations/minecraft-90.webp)
+![](/assets/images/illustrations/minecraft-91.webp)
+![](/assets/images/illustrations/minecraft-92.webp)
+![](/assets/images/illustrations/minecraft-93.webp)
+![](/assets/images/illustrations/minecraft-94.webp)
+![](/assets/images/illustrations/minecraft-95.webp)
 {% endgallery %}
