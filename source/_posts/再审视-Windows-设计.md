@@ -1,5 +1,5 @@
 ---
-title: 再审视 Windows 设计：从 Win11 的广告沼泽，我逃向 UNIX 的清净世界
+title: 再审视 Windows 设计：从 Win11 的广告沼泽，逃向 UNIX 的清净世界
 date: 2026-07-03 01:10:05
 categories: 杂谈
 cover: /assets/images/cover/other.webp
