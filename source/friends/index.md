@@ -12,3 +12,4 @@ type: link
 | 图标 | https://090909.top/assets/images/logo.ico |
 | 网址 | https://090909.top/ |
 | 描述 | 梁栋烨的博客网站。 |
+| 截图 | https://090909.top/assets/images/screenshot.webp |
