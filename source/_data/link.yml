@@ -253,3 +253,15 @@
       link: https://www.nullgo.com/web/video-frame
       avatar: /assets/images/tool.svg
       descr: 博主看川编写的取色工具！
+
+- class_name: 有趣网站
+  class_desc: 我逛过的有趣网站！
+  link_list:
+    - name: 个站商店
+      link: https://storeweb.cn/
+      avatar: /assets/images/toy.svg
+      descr: 社交元素的博客收录网站！
+    - name: 博客宇宙
+      link: https://links.needhelp.icu/
+      avatar: /assets/images/toy.svg
+      descr: 像宇宙一样收录博客网站！
