@@ -261,6 +261,10 @@
       link: https://www.nullgo.com/web/video-frame
       avatar: /assets/images/tool.svg
       descr: 博主看川编写的取色工具！
+    - name: 归属查询
+      link: https://tools.top/ip-location.html
+      avatar: /assets/images/tool.svg
+      descr: 通过互联网地址查询归属！
 
 - class_name: 有趣网站
   class_desc: 我逛过的有趣网站！
