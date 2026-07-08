@@ -100,4 +100,8 @@ comments: false
 ![](/assets/images/illustrations/minecraft-93.webp)
 ![](/assets/images/illustrations/minecraft-94.webp)
 ![](/assets/images/illustrations/minecraft-95.webp)
+![](/assets/images/illustrations/minecraft-96.webp)
+![](/assets/images/illustrations/minecraft-97.webp)
+![](/assets/images/illustrations/minecraft-98.webp)
+![](/assets/images/illustrations/minecraft-99.webp)
 {% endgallery %}
