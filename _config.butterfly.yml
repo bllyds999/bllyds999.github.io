@@ -11,7 +11,7 @@
 
 nav:
   # Navigation bar logo image
-  logo:
+  logo: /assets/images/logo.ico
   display_title: true
   display_post_title: false
   # Whether to fix navigation bar
@@ -370,7 +370,7 @@ aside:
   card_webinfo:
     enable: true
     post_count: true
-    last_push_date: false
+    last_push_date: true
     sort_order:
     # Time difference between publish date and now
     # Formal: Month/Day/Year Time or Year/Month/Day Time
@@ -403,7 +403,7 @@ readmode: true
 
 # Dark Mode
 darkmode:
-  enable: true
+  enable: false
   # Toggle Button to switch dark/light mode
   button: true
   # Switch dark/light mode automatically
@@ -786,21 +786,21 @@ site_verification:
 
 theme_color:
   enable: true
-  main: "#E0B9EE"
-  paginator: "#988D9D"
-  button_hover: "#F7D8FF"
-  text_selection: "#E0B9EE"
-  link_color: "#E0B9EE"
-  meta_color: "#CFC2D3"
-  hr_color: "#988D9D"
-  code_foreground: "#EADFEA"
-  code_background: "rgba(35, 30, 37, .5)"
-  toc_color: "#E0B9EE"
-  blockquote_padding_color: "#E0B9EE"
-  blockquote_background_color: "rgba(90, 59, 103, .3)"
-  scrollbar_color: "#E0B9EE"
-  meta_theme_color_light: "#FFF7FD"
-  meta_theme_color_dark: "#161219"
+  main: "#006879"
+  paginator: "#70797B"
+  button_hover: "#AAEDFF"
+  text_selection: "#006879"
+  link_color: "#006879"
+  meta_color: "#3F484B"
+  hr_color: "#70797B"
+  code_foreground: "#001F26"
+  code_background: "rgba(219, 228, 231, .5)"
+  toc_color: "#006879"
+  blockquote_padding_color: "#006879"
+  blockquote_background_color: "#AAEDFF"
+  scrollbar_color: "#006879"
+  meta_theme_color_light: "#F5FAFC"
+  meta_theme_color_dark: "#0F1416"
 
 # The user interface setting of category and tag page
 # Choose: index - same as Homepage UI / default - same as archives UI
@@ -849,9 +849,9 @@ beautify:
 # Don't modify the following settings unless you know how they work
 font:
   global_font_size: 1rem
-  code_font_size:
-  font_family: '字小魂阿开童漫体, sans-serif'
-  code_font_family: 'MapleMono, monospace'
+  code_font_size: 1rem
+  font_family: 'ZCOOLXiaoWei, sans-serif'
+  code_font_family: 'Fira Code, ZCOOLXiaoWei, monospace'
 
 # Font settings for the site title and site subtitle
 blog_title_font:
@@ -896,7 +896,7 @@ canvas_fluttering_ribbon:
 # canvas_nest
 # https://github.com/hustcc/canvas-nest.js
 canvas_nest:
-  enable: false
+  enable: true
   # Color of lines, default: '0,0,0'; RGB values: (R,G,B).(note: use ',' to separate.)
   color: "0,104,121"
   # The opacity of line (0~1)
