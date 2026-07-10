@@ -1,5 +1,5 @@
 ---
-title: 被 A 社吓哭了：Claude Code 隐私检测，让我果断卸载并回归开源
+title: 被 A 社吓哭了：Claude Code 隐私检测，让我果断卸载回归开源
 date: 2026-07-02 16:06:40
 categories: 代码展示
 cover: /assets/images/cover/code.webp

@@ -1,5 +1,5 @@
 ---
-title: 修复版本日志：修改 Butterfly 主题配置，固定 Waline 版本避免问题
+title: 修复版本日志：修改 Butterfly 配置，固定 Waline 版本避免问题
 date: 2026-07-01 10:19:54
 categories: 代码展示
 cover: /assets/images/cover/code.webp
