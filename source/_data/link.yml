@@ -281,6 +281,10 @@
       link: https://picshare.880200.xyz/
       avatar: /assets/images/tool.svg
       descr: 快速为图片添加分享页脚！
+    - name: 建造投影
+      link: https://www.mcschematic.top/home/
+      avatar: /assets/images/tool.svg
+      descr: 免费的公共我的世界投影！
 
 - class_name: 有趣网站
   class_desc: 我逛过的有趣网站！
