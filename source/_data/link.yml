@@ -301,3 +301,7 @@
       link: https://links.needhelp.icu/
       avatar: /assets/images/toy.svg
       descr: 像宇宙一样收录博客网站！
+    - name: 博客聚合
+      link: https://blogroll.online/
+      avatar: /assets/images/toy.svg
+      descr: 中文独立博客的聚合列表！
