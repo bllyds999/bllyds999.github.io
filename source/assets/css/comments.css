@@ -1,4 +1,4 @@
 .wl-content
 {
-  line-break: anywhere;
+  word-break: break-all !important;
 }
