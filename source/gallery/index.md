@@ -12,6 +12,7 @@ comments: false
 {% galleryGroup '医院' '真的不想生病了。' '/gallery/hospital' '/assets/images/illustrations/hospital-1.webp' %}
 {% galleryGroup '学校' '学校回忆。' '/gallery/school' '/assets/images/illustrations/school-1.webp' %}
 {% galleryGroup '评论系统' '评论系统截图。' '/gallery/comments' '/assets/images/illustrations/comments-1.webp' %}
+{% galleryGroup '光影' '游戏光影截图。' '/gallery/shader' '/assets/images/illustrations/shader-1.webp' %}
 {% galleryGroup '广州' '美好总是短暂的。' '/gallery/guangzhou' '/assets/images/illustrations/guangzhou-1.webp' %}
 {% galleryGroup '我的世界' '我的世界截图。' '/gallery/minecraft' '/assets/images/illustrations/minecraft-1.webp' %}
 {% galleryGroup '泰拉瑞亚' '泰拉瑞亚截图。' '/gallery/terraria' '/assets/images/illustrations/terraria-1.webp' %}

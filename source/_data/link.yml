@@ -301,6 +301,10 @@
       link: https://www.mcschematic.top/home/
       avatar: /assets/images/tool.svg
       descr: 免费的公共我的世界投影！
+    - name: 材质合并
+      link: https://www.craftmc.net/tools/resource-pack-merger
+      avatar: /assets/images/tool.svg
+      descr: 在线合并我的世界材质包！
 
 - class_name: 有趣网站
   class_desc: 我逛过的有趣网站！
