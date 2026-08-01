@@ -28,6 +28,7 @@ GitHub Pages
 Gravatar
 Hexo
 Hexo 教程
+Kali Linux
 LUMEN
 Linux
 Linux 脚本
@@ -46,6 +47,7 @@ QQ
 QQ 空间
 QQ 群退群
 RSSHub
+SEO
 SMTP 配置
 Shell 命令
 Steam 客户端
