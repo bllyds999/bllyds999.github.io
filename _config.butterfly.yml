@@ -618,7 +618,6 @@ waline:
   pageview: false
   option:
     login: disable
-    turnstileKey: "0x4AAAAAADSjE2yldsTkkXoR"
     requiredMeta: ["nick","mail"]
 
 # Utterances
