@@ -1,0 +1,14 @@
+(async function () {
+  const response = await fetch('/assets/images/avatars/avatar.json', {
+    cache: 'no-store'
+  });
+  const map = await response.json();
+
+  const rules = Object.entries(map)
+    .map(([key, val]) => `img[src="${key}"]\n{\n  content: url("${val}");\n}`)
+    .join('\n');
+
+  const style = document.createElement('style');
+  style.textContent = rules;
+  document.head.appendChild(style);
+})();

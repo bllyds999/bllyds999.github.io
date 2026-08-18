@@ -1,0 +1,347 @@
+- class_name: 我的朋友
+  class_desc: 我添加的友情链接！
+  link_list:
+    - name: 小小小韩
+      link: https://blog.djxx.club/
+      avatar: /assets/images/friend.svg
+      descr: 专注生活和开发的程序员博客！
+    - name: 王科文
+      link: https://wcowin.work/
+      avatar: /assets/images/friend.svg
+      descr: 写的 MkDocs 教程很好！
+    - name: 小芬
+      link: https://xfcnl.github.io/
+      avatar: /assets/images/friend.svg
+      descr: 这个懒狗好像不咋写博客诶！
+    # - name: 比特梦想
+    #   link: https://www.bytedream.org/
+    #   avatar: /assets/images/friend.svg
+    #   descr: 是常发互相邮件的朋友哒！
+    - name: 可乐
+      link: https://cola0908.top/
+      avatar: /assets/images/friend.svg
+      descr: 他真的很喜欢网络安全！
+    - name: 慕迟离
+      link: https://muchili-code.github.io/
+      avatar: /assets/images/friend.svg
+      descr: 体制内的好像不咋更新吧？
+    - name: 峰哥
+      link: https://fengcblog.880200.xyz/
+      avatar: /assets/images/friend.svg
+      descr: 他拍的照片真的很好看！
+    - name: 秋葵笔记
+      link: https://qiukui-note.happy365.day/
+      avatar: /assets/images/friend.svg
+      descr: 他写的笔记很好，我很喜欢！
+    - name: 周配萝卜
+      link: https://blog.zplb.top/
+      avatar: /assets/images/friend.svg
+      descr: 好朋友，好像还是个二次元！
+    - name: 乐依利
+      link: https://930309.xyz/
+      avatar: /assets/images/friend.svg
+      descr: 在秋葵评论区认识的小博主！
+    - name: 天渺工作室
+      link: https://tianmiao.site/
+      avatar: /assets/images/friend.svg
+      descr: B 站新朋友，分享小技巧！
+    - name: 冷月笙寒
+      link: https://lygalaxy.cn/
+      avatar: /assets/images/friend.svg
+      descr: 分享一些有意思的小工具！
+    - name: 芊
+      link: https://hxqblog.cn/
+      avatar: /assets/images/friend.svg
+      descr: 分享一些英语学习笔记！
+    - name: 旺东
+      link: https://wang618.cn/
+      avatar: /assets/images/friend.svg
+      descr: 看他分享生活，挺有意思的！
+    - name: 阿叶
+      link: https://blog.ayeez.cn/
+      avatar: /assets/images/friend.svg
+      descr: 黑客风网站，爱好网络安全！
+    - name: 小废鼠
+      link: https://feishu.xiao-feishu.top/
+      avatar: /assets/images/friend.svg
+      descr: NotionNext 搭建的博客网站！
+    - name: 团子和蛋糕
+      link: https://blog.tsh520.cn/
+      avatar: /assets/images/friend.svg
+      descr: 很爱学习，还会自己写笔记！
+    - name: 幸荟
+      link: https://www.xinghuisama.top/
+      avatar: /assets/images/friend.svg
+      descr: 网站是二次元风格啊！
+    - name: 奇怪先生
+      link: https://www.3181314.xyz/
+      avatar: /assets/images/friend.svg
+      descr: 喜欢分享技术的博主！
+    - name: 琳琳
+      link: https://karina.xin/
+      avatar: /assets/images/friend.svg
+      descr: 她的博客内容很随心！
+    - name: 卡瑟布尔
+      link: https://blog.ksable.top/
+      avatar: /assets/images/friend.svg
+      descr: 高中生更新少也正常啦！
+    - name: 阿普修
+      link: https://upxuu.com/
+      avatar: /assets/images/friend.svg
+      descr: 他的博客内容很随心！
+    - name: 本尼格
+      link: https://benign.host/
+      avatar: /assets/images/friend.svg
+      descr: 博客内容专注技术分享！
+    - name: 暖心向阳
+      link: https://nxxy335.top/
+      avatar: /assets/images/friend.svg
+      descr: 博客内容专注自己的生活！
+    - name: 瓦尔杰德赫
+      link: https://wrcbdjdh.cloud/
+      avatar: /assets/images/friend.svg
+      descr: 他是最近开始写博客的新手！
+    - name: 流欺
+      link: https://blog.lqay.cn/
+      avatar: /assets/images/friend.svg
+      descr: 又是个二次元主题的网站！
+    - name: 张洪
+      link: https://blog.zhheo.com/
+      avatar: /assets/images/friend.svg
+      descr: 洪佬的实用工具发布时间！
+    - name: 拾月
+      link: https://www.skyue.com/
+      avatar: /assets/images/friend.svg
+      descr: 喜欢的博主，永不停更！
+    - name: 椰汁
+      link: https://home.132614.xyz
+      avatar: /assets/images/friend.svg
+      descr: 平时很懒的小博主，初中生！
+    - name: 会枝
+      link: https://blog.huizhi.ink/
+      avatar: /assets/images/friend.svg
+      descr: 喜欢在网站发一些碎碎念！
+    # - name: 木鱼
+    #   link: https://woodfish.site/newBlog/
+    #   avatar: /assets/images/friend.svg
+    #   descr: 不是那个木鱼，只是个博主。
+    - name: 在下寒江雪
+      link: https://hanchan.vip/
+      avatar: /assets/images/friend.svg
+      descr: 论坛上认识的老熟人！
+    - name: 安知鱼
+      link: https://blog.anheyu.com/
+      avatar: /assets/images/friend.svg
+      descr: 很有趣的主题开发者！
+    - name: 污柳先生
+      link: https://mrwuliu.top/
+      avatar: /assets/images/friend.svg
+      descr: 他的写作内容很随心！
+    - name: 小葱
+      link: https://blog.mosicong.top/
+      avatar: /assets/images/friend.svg
+      descr: 他的梦想是星辰大海！
+    - name: 楠楠
+      descr: 安安静静存在就很好！
+      link: https://www.nannax.top/
+      avatar: /assets/images/friend.svg
+    - name: 李许伟
+      descr: 他想要走遍世界各地！
+      link: https://blog.apodfg.com/
+      avatar: /assets/images/friend.svg
+    - name: 柠檬
+      descr: 他希望自己美梦成真！
+      link: https://lemonadorable.github.io/
+      avatar: /assets/images/friend.svg
+    - name: 麦卡杰斯
+      descr: 他等待一个迷路的夜！
+      link: https://blog.seln.cn/
+      avatar: /assets/images/friend.svg
+    - name: 姓王者
+      descr: 他希望创造无限可能！
+      link: https://xingwangzhe.fun/
+      avatar: /assets/images/friend.svg
+    - name: 桃之夭夭
+      descr: 这是桃之夭夭的小屋！
+      link: https://taozhiyy.top/
+      avatar: /assets/images/friend.svg
+    - name: 风墨
+      descr: 又是一个有趣的灵魂！
+      link: https://vind.ink/
+      avatar: /assets/images/friend.svg
+    - name: 笔尖代码
+      descr: 一个喜欢装机的小伙！
+      link: https://123456l.com/
+      avatar: /assets/images/friend.svg
+    - name: 顾拾柒
+      descr: 喜欢写建站的小博主！
+      link: https://blog.olinl.com/
+      avatar: /assets/images/friend.svg
+    - name: 清沫
+      descr: 喜欢二次元的小博主！
+      link: https://ttquk.github.io/
+      avatar: /assets/images/friend.svg
+    - name: 伊夫
+      descr: 喜欢碎碎念的小博主！
+      link: https://nnnj.net/
+      avatar: /assets/images/friend.svg
+    - name: 呆呆猫
+      descr: 分享花谱的艺术小站！
+      link: https://nnnj.net/
+      avatar: /assets/images/friend.svg
+    - name: 番茄主理人
+      descr: 分享建站教程的博主！
+      link: https://www.fqzlr.com/
+      avatar: /assets/images/friend.svg
+    - name: 希格鲁特
+      descr: 他的内容主要是编程！
+      link: https://xgrblog.cn/
+      avatar: /assets/images/friend.svg
+    - name: 井天乐
+      descr: 文章内容是学习资料！
+      link: https://en.lcrworld.xyz/
+      avatar: /assets/images/friend.svg
+    - name: 幺九零零
+      descr: 灯泡扭进脑袋的家伙！
+      link: https://1900.live/
+      avatar: /assets/images/friend.svg
+    - name: 傥师妹
+      descr: 她在渴望重新认识你！
+      link: https://blog.224418.xyz/
+      avatar: /assets/images/friend.svg
+    - name: 水星引力
+      descr: 什么信息都有的小站！
+      link: https://www.233002.xyz/
+      avatar: /assets/images/friend.svg
+    - name: 我心向阳
+      descr: 建站和系统都更的站！
+      link: https://www.hollowman.cn/
+      avatar: /assets/images/friend.svg
+    - name: 军爸
+      descr: 他喜欢单片机和编程！
+      link: https://me.xu19.com/
+      avatar: /assets/images/friend.svg
+    - name: 皮皮社长
+      descr: 他觉得皮一下也挺好！
+      link: https://www.pipishe.com/
+      avatar: /assets/images/friend.svg
+    - name: 语初
+      descr: 他致力于传播好资源！
+      link: https://www.yc520.top/
+      avatar: /assets/images/friend.svg
+    - name: 艾利克斯
+      descr: 他喜欢关注人工智能！
+      link: https://ragnote.top/
+      avatar: /assets/images/friend.svg
+    - name: 拾玖
+      descr: 一个极简风格的博客！
+      link: https://shijiucode.cn/
+      avatar: /assets/images/friend.svg
+    - name: 年华
+      descr: 他喜欢分享生活技术！
+      link: https://blog.amamo.top/
+      avatar: /assets/images/friend.svg
+    - name: 小悠
+      descr: 他渴望纯粹祈愿成真！
+      link: https://blog.xuioo.com/
+      avatar: /assets/images/friend.svg
+    - name: 言希
+      link: https://suyanxi.top/
+      avatar: /assets/images/friend.svg
+      descr: 他喜欢写温暖的事情！
+    - name: 艾莉雅克
+      link: https://eliauk312.top/
+      avatar: /assets/images/friend.svg
+      descr: 他喜欢记录奇思妙想！
+    - name: 无大人生
+      link: https://blog.wudarensheng.top/
+      avatar: /assets/images/friend.svg
+      descr: 他向往到全世界走走！
+    - name: 柒贰零
+      link: https://720info.eu.cc/
+      avatar: /assets/images/friend.svg
+      descr: 他想用代码解决问题！
+    - name: 德塔驰
+      link: https://detached.online/
+      avatar: /assets/images/friend.svg
+      descr: 一个有趣的生活博客！
+    - name: 兔兔
+      link: https://tutu.pink/
+      avatar: /assets/images/friend.svg
+      descr: 他向往他人理解自己！
+    - name: 陈义程
+      link: https://www.chenyicheng.cn/
+      avatar: /assets/images/friend.svg
+      descr: 他喜欢现代化前后端！
+
+- class_name: 实用工具
+  class_desc: 我分享的实用工具！
+  link_list:
+    - name: 图片压缩
+      link: https://www.yysuni.com/image-toolbox
+      avatar: /assets/images/tool.svg
+      descr: 前端大佬写的图片压缩工具！
+    - name: 格式转换
+      link: https://www.freeconvert.com/
+      avatar: /assets/images/tool.svg
+      descr: 免费文件格式在线转换工具！
+    - name: 代码仓库
+      link: https://github.com/
+      avatar: /assets/images/tool.svg
+      descr: 这简直是最开源的一集！
+    - name: 触屏笔记
+      link: https://www.speedynote.org/
+      avatar: /assets/images/tool.svg
+      descr: 群主开发的 PDF 触屏笔记工具！
+    - name: 文字笔记
+      link: https://obsidian.md/
+      avatar: /assets/images/tool.svg
+      descr: 最喜欢的笔记，以前拿这个写文章！
+    - name: 图标制作
+      link: https://uutool.cn/img-radius/
+      avatar: /assets/images/tool.svg
+      descr: 上传图片，圆角调成 180 大小！
+    - name: 应用清单
+      link: https://iotools.cloud/zh/tool/pwa-web-app-manifest-generator/
+      avatar: /assets/images/tool.svg
+      descr: 网页应用清单生成器！
+    - name: 图片取色
+      link: https://www.jyshare.com/front-end/6214/#3f6c7f
+      avatar: /assets/images/tool.svg
+      descr: 菜鸟教程站长的取色工具！
+    - name: 视频截图
+      link: https://www.nullgo.com/web/video-frame
+      avatar: /assets/images/tool.svg
+      descr: 博主看川编写的取色工具！
+    - name: 归属查询
+      link: https://tools.top/ip-location.html
+      avatar: /assets/images/tool.svg
+      descr: 通过互联网地址查询归属！
+    - name: 摄影分享
+      link: https://picshare.880200.xyz/
+      avatar: /assets/images/tool.svg
+      descr: 快速为图片添加分享页脚！
+    - name: 建造投影
+      link: https://www.mcschematic.top/home/
+      avatar: /assets/images/tool.svg
+      descr: 免费的公共我的世界投影！
+    - name: 材质合并
+      link: https://www.craftmc.net/tools/resource-pack-merger
+      avatar: /assets/images/tool.svg
+      descr: 在线合并我的世界材质包！
+    - name: 头像生成
+      link: https://mccag.cn/
+      avatar: /assets/images/tool.svg
+      descr: 在线生成我的世界大头照！
+
+- class_name: 有趣网站
+  class_desc: 我逛过的有趣网站！
+  link_list:
+    - name: 博客宇宙
+      link: https://links.needhelp.icu/
+      avatar: /assets/images/toy.svg
+      descr: 像宇宙一样收录博客网站！
+    - name: 博客聚合
+      link: https://blogroll.online/
+      avatar: /assets/images/toy.svg
+      descr: 中文独立博客的聚合列表！
