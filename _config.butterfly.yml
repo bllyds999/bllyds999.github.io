@@ -556,7 +556,7 @@ comments:
   # Leave it empty if you don't need comments
   # Choose: Disqus/Disqusjs/Livere/Gitalk/Valine/Waline/Utterances/Facebook Comments/Twikoo/Giscus/Remark42/Artalk
   # Format of two comments system : Disqus,Waline
-  use: waline
+  use: waline,giscus
   # Display the comment name next to the button
   text: true
   # Lazyload: The comment system will be load when comment element enters the browser's viewport.
@@ -656,10 +656,10 @@ twikoo:
 # https://giscus.app/
 giscus:
   repo: bllyds999/bllyds999.github.io
-  repo_id: R_kgDOSS_zMg
-  category_id: DIC_kwDOSS_zMs4C8PNp
-  light_theme: https://090909.top/assets/css/giscus/light.css
-  dark_theme: https://090909.top/assets/css/giscus/dark.css
+  repo_id: R_kgDOSZbjdQ
+  category_id: DIC_kwDOSZbjdc4C9Hnu
+  light_theme: noborder_light
+  dark_theme: noborder_dark
   js:
   option:
     data-input-position: "top"
