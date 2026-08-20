@@ -129,10 +129,10 @@
       link: https://hanchan.vip/
       avatar: /assets/images/friend.svg
       descr: 论坛上认识的老熟人！
-    - name: 安知鱼
-      link: https://blog.anheyu.com/
-      avatar: /assets/images/friend.svg
-      descr: 很有趣的主题开发者！
+    # - name: 安知鱼
+    #   link: https://blog.anheyu.com/
+    #   avatar: /assets/images/friend.svg
+    #   descr: 很有趣的主题开发者！
     - name: 污柳先生
       link: https://mrwuliu.top/
       avatar: /assets/images/friend.svg
