@@ -273,6 +273,10 @@
       link: https://www.chenyicheng.cn/
       avatar: /assets/images/friend.svg
       descr: 他喜欢现代化前后端！
+    - name: 钟
+      link: https://zhongweb.cn/
+      avatar: /assets/images/friend.svg
+      descr: 喜欢互联网的医学生！
 
 - class_name: 实用工具
   class_desc: 我分享的实用工具！
