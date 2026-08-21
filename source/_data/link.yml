@@ -277,6 +277,10 @@
       link: https://zhongweb.cn/
       avatar: /assets/images/friend.svg
       descr: 喜欢互联网的医学生！
+    - name: 星空
+      link: https://baiyangmu.xyz/
+      avatar: /assets/images/friend.svg
+      descr: 悬浮在深空中的驿站！
 
 - class_name: 实用工具
   class_desc: 我分享的实用工具！
