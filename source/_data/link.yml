@@ -17,10 +17,10 @@
     #   link: https://www.bytedream.org/
     #   avatar: /assets/images/friend.svg
     #   descr: 是常发互相邮件的朋友哒！
-    - name: 可乐
-      link: https://cola0908.top/
-      avatar: /assets/images/friend.svg
-      descr: 他真的很喜欢网络安全！
+    # - name: 可乐
+    #   link: https://cola0908.top/
+    #   avatar: /assets/images/friend.svg
+    #   descr: 他真的很喜欢网络安全！
     - name: 慕迟离
       link: https://muchili-code.github.io/
       avatar: /assets/images/friend.svg
@@ -61,10 +61,10 @@
       link: https://blog.ayeez.cn/
       avatar: /assets/images/friend.svg
       descr: 黑客风网站，爱好网络安全！
-    - name: 小废鼠
-      link: https://feishu.xiao-feishu.top/
-      avatar: /assets/images/friend.svg
-      descr: NotionNext 搭建的博客网站！
+    # - name: 小废鼠
+    #   link: https://feishu.xiao-feishu.top/
+    #   avatar: /assets/images/friend.svg
+    #   descr: NotionNext 搭建的博客网站！
     - name: 团子和蛋糕
       link: https://blog.tsh520.cn/
       avatar: /assets/images/friend.svg
@@ -187,7 +187,7 @@
       avatar: /assets/images/friend.svg
     - name: 呆呆猫
       descr: 分享花谱的艺术小站！
-      link: https://nnnj.net/
+      link: https://ddmer.ccwu.cc/
       avatar: /assets/images/friend.svg
     - name: 番茄主理人
       descr: 分享建站教程的博主！
