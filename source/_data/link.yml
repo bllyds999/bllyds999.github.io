@@ -281,6 +281,10 @@
       link: https://baiyangmu.xyz/
       avatar: /assets/images/friend.svg
       descr: 悬浮在深空中的驿站！
+    - name: 鱼鲸
+      link: https://www.yujingblog.top/
+      avatar: /assets/images/friend.svg
+      descr: 不怨别人才是真本事！
 
 - class_name: 实用工具
   class_desc: 我分享的实用工具！
