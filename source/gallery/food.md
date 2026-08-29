@@ -16,4 +16,6 @@ comments: false
 ![](/assets/images/illustrations/food-9.webp)
 ![](/assets/images/illustrations/food-10.webp)
 ![](/assets/images/illustrations/food-11.webp)
+![](/assets/images/illustrations/food-12.webp)
+![](/assets/images/illustrations/food-13.webp)
 {% endgallery %}
