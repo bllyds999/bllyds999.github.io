@@ -60,15 +60,15 @@
 	top: 7px;
 	height: 14px;
 	font-size: 12px;
-	background: #9BD4A0;
-	color: #9BD4A0;
+	background: #2777ff;
+	color: #2777ff;
 	line-height: 60px;
 	font-weight: bold;
 	font-family: Helvetica, Arial, "Lucida Grande", sans-serif;
 
-	-webkit-box-shadow: 120px 0 #F7FBF2, 240px 0 #F7FBF2;
-	-ms-box-shadow: 120px 0 #F7FBF2, 240px 0 #F7FBF2;
-	box-shadow: 120px 0 #F7FBF2, 240px 0 #F7FBF2;
+	-webkit-box-shadow: 120px 0 #23252e, 240px 0 #23252e;
+	-ms-box-shadow: 120px 0 #23252e, 240px 0 #23252e;
+	box-shadow: 120px 0 #23252e, 240px 0 #23252e;
 }
 
 .pace .pace-progress:after
@@ -192,25 +192,11 @@
 	width: 100%;
 	height: 28px;
 	z-index: 2001;
-	box-shadow: inset 0 0 0 2px #9BD4A0, inset 0 0 0 7px #F7FBF2;
+	box-shadow: inset 0 0 0 2px #2777ff, inset 0 0 0 7px #23252e;
 	border-radius: 10px;
 }
 
 .pace.pace-inactive
 {
 	display: none;
-}
-
-[data-theme="dark"]
-{
-  .pace .pace-progress
-  {
-    -webkit-box-shadow: 120px 0 #101510, 240px 0 #101510;
-	  -ms-box-shadow: 120px 0 #101510, 240px 0 #101510;
-	  box-shadow: 120px 0 #101510, 240px 0 #101510;
-  }
-  .pace .pace-activity
-  {
-    box-shadow: inset 0 0 0 2px #9BD4A0, inset 0 0 0 7px #101510;
-  }
 }

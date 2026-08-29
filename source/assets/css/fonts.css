@@ -1,17 +1,12 @@
+/* New fonts */
 @font-face
 {
-  font-family: 'ResourceHanRoundedTC Regular';
-  src: url('/assets/fonts/ResourceHanRoundedTC-Regular.woff2');
+  font-family: 'LXGWWenKaiMono Regular';
+  src: url('/assets/fonts/LXGWWenKaiMono-Regular.woff2');
 }
 
 @font-face
 {
-  font-family: 'ResourceHanRoundedTC Bold';
-  src: url('/assets/fonts/ResourceHanRoundedTC-Bold.woff2');
-}
-
-@font-face
-{
-  font-family: 'JetBrainsMono Regular';
-  src: url('/assets/fonts/JetBrainsMono-Regular.woff2');
+  font-family: 'LXGWWenKai Regular';
+  src: url('/assets/fonts/LXGWWenKai-Regular.woff2');
 }

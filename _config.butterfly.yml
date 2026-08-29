@@ -70,10 +70,10 @@ avatar:
   effect: false
 
 # Disable all banner images
-disable_top_img: false
+disable_top_img: true
 
 # If the banner of page not setting, it will show the default_top_img
-default_top_img: /assets/images/hero.webp
+default_top_img: ''
 
 # The banner image of index page
 index_img:
@@ -104,7 +104,7 @@ category_per_img:
   "纪实": /assets/images/cover/history.webp
 
 # The background image of footer
-footer_img: true
+footer_img: /assets/images/footer.webp
 
 # Website Background
 # Can set it to color, image URL or an array containing colors and/or image URLs
@@ -403,7 +403,7 @@ readmode: true
 
 # Dark Mode
 darkmode:
-  enable: true
+  enable: false
   # Toggle Button to switch dark/light mode
   button: true
   # Switch dark/light mode automatically
@@ -785,21 +785,21 @@ site_verification:
 
 theme_color:
   enable: true
-  main: "#9BD4A0"
-  paginator: "#9BD4A0"
-  button_hover: "#B6F1BB"
-  text_selection: "#9BD4A0"
-  link_color: "#9BD4A0"
-  meta_color: "#C1C9BE"
-  hr_color: "#414941"
-  code_foreground: "#E0E4DC"
-  code_background: "rgba(38, 43, 38, .5)"
-  toc_color: "#9BD4A0"
-  blockquote_padding_color: "#9BD4A0"
-  blockquote_background_color: "#1B5129"
-  scrollbar_color: "#9BD4A0"
-  meta_theme_color_light: "#F7FBF2"
-  meta_theme_color_dark: "#101510"
+  main: "#2777ff"
+  paginator: "#2777ff"
+  button_hover: "#ffffff"
+  text_selection: "#2777ff"
+  link_color: "#2777ff"
+  meta_color: "#ffffff"
+  hr_color: "rgba(0, 0, 0, 0.36)"
+  code_foreground: "#ffffff"
+  code_background: "rgba(255, 255, 255, 0.05)"
+  toc_color: "#2777ff"
+  blockquote_padding_color: "#2777ff"
+  blockquote_background_color: "#303340"
+  scrollbar_color: "#2777ff"
+  meta_theme_color_light: "#ffffff"
+  meta_theme_color_dark: "#23252e"
 
 # The user interface setting of category and tag page
 # Choose: index - same as Homepage UI / default - same as archives UI
@@ -808,7 +808,7 @@ category_ui: index
 tag_ui: index
 
 # Rounded corners for UI elements
-rounded_corners_ui: true
+rounded_corners_ui: false
 
 # Stretches the lines so that each line has equal width
 text_align_justify: true
@@ -849,13 +849,13 @@ beautify:
 font:
   global_font_size: 1rem
   code_font_size: 1rem
-  font_family: 'ResourceHanRoundedTC Regular, sans-serif'
-  code_font_family: 'JetBrainsMono Regular, monospace'
+  font_family: 'LXGWWenKai Regular, sans-serif'
+  code_font_family: 'LXGWWenKaiMono Regular, monospace'
 
 # Font settings for the site title and site subtitle
 blog_title_font:
   font_link:
-  font_family: 'ResourceHanRoundedTC Bold, sans-serif'
+  font_family:
 
 # The setting of divider icon
 hr_icon:
@@ -895,7 +895,7 @@ canvas_fluttering_ribbon:
 # canvas_nest
 # https://github.com/hustcc/canvas-nest.js
 canvas_nest:
-  enable: true
+  enable: false
   # Color of lines, default: '0,0,0'; RGB values: (R,G,B).(note: use ',' to separate.)
   color: "155,212,160"
   # The opacity of line (0~1)
@@ -908,7 +908,7 @@ canvas_nest:
 
 # Mouse click effects: fireworks
 fireworks:
-  enable: true
+  enable: false
   zIndex: 9999
   mobile: false
 
@@ -919,11 +919,23 @@ click_heart:
 
 # Mouse click effects: words
 clickShowText:
-  enable: false
+  enable: true
   text:
     # - I
     # - LOVE
     # - YOU
+    - 富强
+    - 民主
+    - 文明
+    - 和谐
+    - 自由
+    - 平等
+    - 公正
+    - 法治
+    - 爱国
+    - 敬业
+    - 诚信
+    - 友善
   fontSize: 15px
   random: false
   mobile: false
@@ -1086,6 +1098,7 @@ css_prefix: true
 inject:
   head:
     # - <link rel="stylesheet" href="/xxx.css">
+    - <link rel="stylesheet" href="/assets/css/color.css">
     - <link rel="stylesheet" href="/assets/css/fonts.css">
     - <link rel="stylesheet" href="/assets/css/size.css">
     - <link rel="stylesheet" href="/assets/css/mobile-meta.css">
