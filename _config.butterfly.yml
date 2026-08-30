@@ -311,7 +311,7 @@ aside:
     button:
       enable: true
       icon: fas fa-rss
-      text: "订阅我"
+      text: "订阅我 0"
       link: /atom.xml
   card_announcement:
     enable: true
@@ -1098,6 +1098,8 @@ css_prefix: true
 inject:
   head:
     # - <link rel="stylesheet" href="/xxx.css">
+    - <link rel="preload" href="/assets/fonts/LXGWWenKaiMono-Regular.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+    - <link rel="preload" href="/assets/fonts/LXGWWenKai-Regular.woff2" as="font" type="font/woff2" crossorigin="anonymous">
     - <link rel="stylesheet" href="/assets/css/cursor.css">
     - <link rel="stylesheet" href="/assets/css/color.css">
     - <link rel="stylesheet" href="/assets/css/fonts.css">
@@ -1112,6 +1114,7 @@ inject:
     - <link rel="stylesheet" href="/assets/css/proportion.css">
   bottom:
     # - <script src="xxxx"></script>
+    - <script src="/assets/js/subscribe.js"></script>
     - <script src="/assets/js/comments.js"></script>
     - <script src="/assets/js/stroll.js"></script>
     - <script src="/assets/js/blindbox.js"></script>

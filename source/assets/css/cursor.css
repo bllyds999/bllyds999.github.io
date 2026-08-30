@@ -8,7 +8,7 @@ a,button
   cursor: url("/assets/images/cursors/hover.gif"), auto;
 }
 
-input
+input,textarea
 {
   cursor: url("/assets/images/cursors/input.gif"), auto;
 }
