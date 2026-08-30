@@ -1,12 +1,13 @@
-/* New fonts */
 @font-face
 {
   font-family: 'LXGWWenKaiMono Regular';
   src: url('/assets/fonts/LXGWWenKaiMono-Regular.woff2');
+  font-display: swap;
 }
 
 @font-face
 {
   font-family: 'LXGWWenKai Regular';
   src: url('/assets/fonts/LXGWWenKai-Regular.woff2');
+  font-display: swap; 
 }
