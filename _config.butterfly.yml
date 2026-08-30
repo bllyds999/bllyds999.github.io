@@ -190,7 +190,7 @@ subtitle:
 # 5: Info displayed on the cover
 # 6: Masonry layout - Cover on top, info on the bottom
 # 7: Masonry layout - Info displayed on the cover
-index_layout: 3
+index_layout: 2
 
 # Display the article introduction on homepage
 # 1: description
@@ -298,7 +298,7 @@ aside:
   hide: false
   # Show the button to hide the aside in bottom right button
   button: true
-  mobile: true
+  mobile: false
   # Position: left / right
   position: right
   display:
