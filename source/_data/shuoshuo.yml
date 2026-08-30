@@ -688,7 +688,7 @@
 
 - date: 2026-04-09 12:23:30
   key: 87
-  content: "还好我这次用的不是 <code>hexo deploy</code>，而是 <code>git push</code>，要不然网站真没了……"
+  content: "还好我这次用的不是 `hexo deploy`，而是 `git push`，要不然网站真没了……"
   tags:
     - 技术
     - 网站建设
@@ -1144,7 +1144,7 @@
 
 - date: 2026-04-15 11:43:30
   key: 144
-  content: "改成 <code>4</code> 有点不习惯，于是我又改回了 <code>3</code>，因为没有一开始就按照 <code>4</code> 的布局做。"
+  content: "改成 `4` 有点不习惯，于是我又改回了 `3`，因为没有一开始就按照 `4` 的布局做。"
   tags:
     - 设计吐槽
     - 用户体验
@@ -1410,7 +1410,7 @@
 
 - date: 2026-04-17 22:30:07
   key: 177
-  content: "最近在 Cloudflare 开了一个 Email Routing，网站邮箱改成 <code>contact@090909.top</code> 了。"
+  content: "最近在 Cloudflare 开了一个 Email Routing，网站邮箱改成 `contact@090909.top` 了。"
   tags:
     - 技术
     - 网站建设
@@ -1620,7 +1620,7 @@
 
 - date: 2026-04-19 19:24:08
   key: 203
-  content: "原来搞半天是 <code>robots.txt</code> 的问题，Cloudflare 默认帮我把所有爬虫防下来了，重新写了一个。"
+  content: "原来搞半天是 `robots.txt` 的问题，Cloudflare 默认帮我把所有爬虫防下来了，重新写了一个。"
   tags:
     - 网站建设
     - 技术
@@ -1902,7 +1902,7 @@
 
 - date: 2026-04-27 18:17:10
   key: 238
-  content: "问了一下 AI，DeepSeek 说字体最好设置为 <code>1rem</code> 而不是 <code>16px</code>，虽然这俩看起来差不多。"
+  content: "问了一下 AI，DeepSeek 说字体最好设置为 `1rem` 而不是 `16px`，虽然这俩看起来差不多。"
   tags:
     - 技术
     - 网站建设
@@ -3229,3 +3229,11 @@
     - 游戏
     - 现实
     - 日常
+
+- date: 2026-08-31 02:28:45
+  key: 397
+  content: "最近重构了 `essay.py`，还把它编译成了静态文件可供 Zsh 直接使用，不需要再打开 Trae 了。"
+  tags:
+    - 技术
+    - 效率
+    - 更新
