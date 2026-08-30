@@ -16,3 +16,6 @@ auto-description.py
 auto-title.py
 article.sh
 .deepseek/
+dist/
+build/
+*.spec
