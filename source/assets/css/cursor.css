@@ -1,0 +1,14 @@
+*
+{
+  cursor: url("/assets/images/cursors/cursor.gif"), auto;
+}
+
+a,button
+{
+  cursor: url("/assets/images/cursors/hover.gif"), auto;
+}
+
+input
+{
+  cursor: url("/assets/images/cursors/input.gif"), auto;
+}
