@@ -1101,6 +1101,7 @@ inject:
     - <link rel="stylesheet" href="/assets/css/color.css">
     - <link rel="stylesheet" href="/assets/css/fonts.css">
     - <link rel="stylesheet" href="/assets/css/size.css">
+    - <link rel="stylesheet" href="/assets/css/mac.css">
     - <link rel="stylesheet" href="/assets/css/mobile-meta.css">
     - <link rel="stylesheet" href="/assets/css/pagination.css">
     - <link rel="stylesheet" href="/assets/css/svg.css">

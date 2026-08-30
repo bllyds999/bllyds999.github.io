@@ -1,0 +1,25 @@
+.cardHover,
+.type-404 .error-content,
+.layout > div:first-child:not(.nc),
+#article-container .shuoshuo-item,
+#aside-content .card-widget:not(.card-info) {
+  position: relative;
+}
+
+.cardHover::before,
+.type-404 .error-content::before,
+.layout > div:first-child:not(.nc)::before,
+#article-container .shuoshuo-item::before,
+#aside-content .card-widget:not(.card-info)::before {
+  content: "";
+  position: absolute;
+  top: 16px;
+  right: 64px;
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  background: #28c840;
+  box-shadow: 22px 0 0 #ffbd2e, 44px 0 0 #ff5f57;
+  z-index: 1;
+  pointer-events: none;
+}
