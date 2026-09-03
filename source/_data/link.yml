@@ -289,6 +289,10 @@
       link: https://retmon.cc/
       avatar: /assets/images/friend.svg
       descr: 代码现在就是我的了！
+    - name: 温米
+      link: https://www.vemiy.com/
+      avatar: /assets/images/friend.svg
+      descr: 回首期待着新的一天！
 
 - class_name: 实用工具
   class_desc: 我分享的实用工具！
