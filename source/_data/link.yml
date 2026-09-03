@@ -293,6 +293,10 @@
       link: https://www.vemiy.com/
       avatar: /assets/images/friend.svg
       descr: 回首期待着新的一天！
+    - name: 林
+      link: https://linlog.top/
+      avatar: /assets/images/friend.svg
+      descr: 记录自己观察的小站！
 
 - class_name: 实用工具
   class_desc: 我分享的实用工具！
