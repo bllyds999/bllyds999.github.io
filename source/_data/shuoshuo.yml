@@ -3456,8 +3456,18 @@
 
 - date: 2026-09-03 17:22:11
   key: 424
-  content: "这一餐真的绝了，吃得好过瘾啊！"
+  content: |-
+    这一餐真的绝了，吃得好过瘾啊！
+    ![](/assets/images/illustrations/food-14.webp)
   tags:
     - 美食
     - 日常
     - 快乐
+
+- date: 2026-09-03 17:26:21
+  key: 425
+  content: "忘写了，刚刚那一餐是昨天的，等会晚饭还有鱼蛋。"
+  tags:
+    - 晚餐
+    - 美食
+    - 日常
