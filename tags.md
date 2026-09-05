@@ -20,6 +20,7 @@ Clash Verge
 Claude Code
 Cloudflare
 Cloudflare Pages
+CrossOver
 DLSS 5
 DMARC
 DNS 配置
@@ -60,6 +61,7 @@ Shell 命令
 Shell 脚本
 Steam 客户端
 Steam 骗局
+Steam客户端
 Tahoe
 Token 消耗
 Ubuntu
@@ -300,6 +302,7 @@ macOS
 论坛
 评论系统
 诈骗
+词义挪用
 诗云
 诗歌创作
 诡异
