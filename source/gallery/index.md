@@ -15,6 +15,7 @@ comments: false
 {% galleryGroup '广州' '美好总是短暂的。' '/gallery/guangzhou' '/assets/images/illustrations/guangzhou-1.webp' %}
 {% galleryGroup '我的世界' '我的世界截图。' '/gallery/minecraft' '/assets/images/illustrations/minecraft-1.webp' %}
 {% galleryGroup '泰拉瑞亚' '泰拉瑞亚截图。' '/gallery/terraria' '/assets/images/illustrations/terraria-1.webp' %}
+{% galleryGroup '明日方舟' '明日方舟截图。' '/gallery/arknights' '/assets/images/illustrations/arknights-1.webp' %}
 {% galleryGroup '宠物龟' '龟龟图片。' '/gallery/turtle' '/assets/images/illustrations/turtle-1.webp' %}
 {% galleryGroup '华莱士' '我爱吃快餐。' '/gallery/wallace' '/assets/images/illustrations/wallace-1.webp' %}
 {% galleryGroup 'OpenClaw' 'OpenClaw 截图。' '/gallery/openclaw' '/assets/images/illustrations/openclaw-1.webp' %}

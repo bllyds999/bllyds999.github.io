@@ -11,4 +11,5 @@ comments: false
 ![](/assets/images/illustrations/snacks-4.webp)
 ![](/assets/images/illustrations/snacks-5.webp)
 ![](/assets/images/illustrations/snacks-6.webp)
+![](/assets/images/illustrations/snacks-7.webp)
 {% endgallery %}
