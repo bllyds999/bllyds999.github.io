@@ -36,6 +36,7 @@ Gravatar
 Hexo
 Hexo 教程
 Kali Linux
+KataGo
 LUMEN
 Linux
 Linux 脚本
@@ -57,6 +58,7 @@ QQ 群退群
 RSSHub
 SEO
 SMTP 配置
+Sabaki
 Shell 命令
 Shell 脚本
 Steam 客户端
@@ -115,6 +117,7 @@ macOS
 医院经历
 午后时光
 华莱士
+南方
 博客
 博客搭建
 博客活动
@@ -123,6 +126,7 @@ macOS
 友链
 发明
 口腔健康
+围棋
 图片占位
 图片压缩
 地下通道
@@ -154,6 +158,7 @@ macOS
 巴巴爸爸
 帧率提升
 常用语法
+广东
 广州出行
 废弃房屋
 开学
@@ -294,6 +299,7 @@ macOS
 英伟达
 苹果日历
 蛋糕
+蟑螂
 装修
 西瓜
 覆盖安装
