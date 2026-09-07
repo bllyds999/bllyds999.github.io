@@ -3626,8 +3626,18 @@
 
 - date: 2026-09-07 16:18:15
   key: 445
-  content: "不是吧，你都已经爬一天了。"
+  content: |-
+    不是吧，你都已经爬一天了。
+    ![](/assets/images/illustrations/turtle-13.webp)
   tags:
     - 日常
     - 吐槽
     - 搞笑
+
+- date: 2026-09-07 16:19:11
+  key: 446
+  content: "等会就要出去散步了，吹吹九月的晚风。"
+  tags:
+    - 散步
+    - 出门
+    - 日常
