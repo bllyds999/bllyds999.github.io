@@ -66,6 +66,7 @@ Steam 骗局
 Steam客户端
 Tahoe
 Token 消耗
+Token 翻译
 Ubuntu
 Ubuntu 壁纸
 Vercel
@@ -285,6 +286,7 @@ macOS
 粉丝统计
 系统错误
 编程工具
+编程术语
 网恋
 网站样式
 网站默哀
