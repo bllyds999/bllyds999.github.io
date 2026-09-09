@@ -297,6 +297,10 @@
       link: https://linlog.top/
       avatar: /assets/images/friend.svg
       descr: 记录自己观察的小站！
+    - name: 星宇安全
+      link: https://bk.zhaozhiqiang.pw/
+      avatar: /assets/images/friend.svg
+      descr: 网络安全实验的团队！
 
 - class_name: 实用工具
   class_desc: 我分享的实用工具！
