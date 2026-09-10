@@ -45,10 +45,10 @@
       link: https://tianmiao.site/
       avatar: /assets/images/friend.svg
       descr: B 站新朋友，分享小技巧！
-    # - name: 冷月笙寒
-    #   link: https://lygalaxy.cn/
-    #   avatar: /assets/images/friend.svg
-    #   descr: 分享一些有意思的小工具！
+    - name: 冷月笙寒
+      link: https://lygalaxy.cn/
+      avatar: /assets/images/friend.svg
+      descr: 分享一些有意思的小工具！
     - name: 芊
       link: https://hxqblog.cn/
       avatar: /assets/images/friend.svg
