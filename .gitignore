@@ -18,3 +18,5 @@ article.sh
 .deepseek/
 essay.dist/
 essay.build/
+test-links.dist/
+test-links.build/
