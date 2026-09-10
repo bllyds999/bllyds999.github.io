@@ -265,10 +265,10 @@
       link: https://detached.online/
       avatar: /assets/images/friend.svg
       descr: 一个有趣的生活博客！
-    # - name: 兔兔
-    #   link: https://tutu.pink/
-    #   avatar: /assets/images/friend.svg
-    #   descr: 他向往他人理解自己！
+    - name: 兔兔
+      link: https://tutu.pink/
+      avatar: /assets/images/friend.svg
+      descr: 他向往他人理解自己！
     - name: 陈义程
       link: https://www.chenyicheng.cn/
       avatar: /assets/images/friend.svg
