@@ -6,4 +6,7 @@ comments: false
 
 {% gallery %}
 ![](/assets/images/illustrations/arknights-1.webp)
+![](/assets/images/illustrations/arknights-2.webp)
+![](/assets/images/illustrations/arknights-3.webp)
+![](/assets/images/illustrations/arknights-4.webp)
 {% endgallery %}
