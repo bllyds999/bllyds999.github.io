@@ -85,10 +85,10 @@
       link: https://blog.ksable.top/
       avatar: /assets/images/friend.svg
       descr: 高中生更新少也正常啦！
-    - name: 阿普修
-      link: https://upxuu.com/
-      avatar: /assets/images/friend.svg
-      descr: 他的博客内容很随心！
+    # - name: 阿普修
+    #   link: https://upxuu.com/
+    #   avatar: /assets/images/friend.svg
+    #   descr: 他的博客内容很随心！
     - name: 本尼格
       link: https://benign.host/
       avatar: /assets/images/friend.svg
