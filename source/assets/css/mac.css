@@ -2,7 +2,7 @@
 .type-404 .error-content,
 .layout > div:first-child:not(.nc),
 #article-container .shuoshuo-item,
-#aside-content .card-widget:not(.card-info) {
+#aside-content .card-widget:not(.card-info, #card-toc) {
   position: relative;
 }
 
@@ -10,7 +10,7 @@
 .type-404 .error-content::before,
 .layout > div:first-child:not(.nc)::before,
 #article-container .shuoshuo-item::before,
-#aside-content .card-widget:not(.card-info)::before {
+#aside-content .card-widget:not(.card-info, #card-toc)::before {
   content: "";
   position: absolute;
   top: 16px;
