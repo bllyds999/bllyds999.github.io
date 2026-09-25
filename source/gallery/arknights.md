@@ -9,4 +9,8 @@ comments: false
 ![](/assets/images/illustrations/arknights-2.webp)
 ![](/assets/images/illustrations/arknights-3.webp)
 ![](/assets/images/illustrations/arknights-4.webp)
+![](/assets/images/illustrations/arknights-5.webp)
+![](/assets/images/illustrations/arknights-6.webp)
+![](/assets/images/illustrations/arknights-7.webp)
+![](/assets/images/illustrations/arknights-8.webp)
 {% endgallery %}
