@@ -7,4 +7,5 @@ comments: false
 {% gallery %}
 ![](/assets/images/illustrations/mid-autumn-1.webp)
 ![](/assets/images/illustrations/mid-autumn-2.webp)
+![](/assets/images/illustrations/mid-autumn-3.webp)
 {% endgallery %}
