@@ -305,6 +305,10 @@
       link: https://www.jerrynis.com/
       avatar: /assets/images/friend.svg
       descr: 他非常喜欢享受生活！
+    - name: 文磊
+      link: https://wenlei.top/
+      avatar: /assets/images/friend.svg
+      descr: 他想用代码丈量世界！
 
 - class_name: 实用工具
   class_desc: 我分享的实用工具！
