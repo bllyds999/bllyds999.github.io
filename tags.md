@@ -71,6 +71,7 @@ Token 翻译
 Ubuntu
 Ubuntu 壁纸
 Vercel
+Vitrail
 VulkanMod
 Waline
 WebP
@@ -358,4 +359,3 @@ macOS
 鼠须管
 鼻炎
 龟苓膏
-Vitrail
