@@ -15,4 +15,8 @@ comments: false
 ![](/assets/images/illustrations/mid-autumn-8.webp)
 ![](/assets/images/illustrations/mid-autumn-9.webp)
 ![](/assets/images/illustrations/mid-autumn-10.webp)
+![](/assets/images/illustrations/mid-autumn-11.webp)
+![](/assets/images/illustrations/mid-autumn-12.webp)
+![](/assets/images/illustrations/mid-autumn-13.webp)
+![](/assets/images/illustrations/mid-autumn-14.webp)
 {% endgallery %}
