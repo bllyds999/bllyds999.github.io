@@ -139,4 +139,6 @@ comments: false
 ![](/assets/images/illustrations/minecraft-132.webp)
 ![](/assets/images/illustrations/minecraft-133.webp)
 ![](/assets/images/illustrations/minecraft-134.webp)
+![](/assets/images/illustrations/minecraft-135.webp)
+![](/assets/images/illustrations/minecraft-136.webp)
 {% endgallery %}
