@@ -32,6 +32,7 @@ Frontmatter
 Giscus
 Git
 Git 历史
+GitHub
 GitHub Pages
 Gravatar
 Hexo
@@ -201,6 +202,7 @@ macOS
 数据备份
 数据恢复
 数据泄露
+文件下载
 文件分类
 文字园
 文本扩散模型
@@ -302,6 +304,7 @@ macOS
 美化
 美食
 美食视频
+自动化
 自媒体
 自定义提示条
 自建服务器
