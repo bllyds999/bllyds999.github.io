@@ -1,7 +1,7 @@
 ---
-title: iamb 客户端基础教程：纯文本极客的福音，imab 的 Matrix 聊天指南
+title: iamb 客户端基础教程：纯文本极客福音，imab 的 Matrix 聊天指南
 date: 2026-09-14 05:14:03
-categories: 代码展示
+categories: 梁栋烨的编程小站
 cover: /assets/images/cover/code.webp
 tags:
   - 命令行

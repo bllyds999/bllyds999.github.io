@@ -1,6 +1,6 @@
 ---
 title: QQ，中国人的又爱又恨：与微信对比，我为何怀念那个社交时代
-categories: 杂谈
+categories: 梁栋烨的杂谈小站
 cover: /assets/images/cover/other.webp
 date: 2026-06-07 12:55:03
 tags:

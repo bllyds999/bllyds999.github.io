@@ -1,7 +1,7 @@
 ---
 title: 长辈喜欢 AI 短剧：爸妈最近痴迷 AI 短剧，内容良莠不齐要当心
 date: 2026-08-02 14:16:43
-categories: 杂谈
+categories: 梁栋烨的杂谈小站
 cover: /assets/images/cover/other.webp
 tags:
   - AI

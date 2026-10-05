@@ -1,6 +1,6 @@
 ---
 title: Butterfly 亮暗切换机制：使用统一方式替代 @media 的实现方法
-categories: 代码展示
+categories: 梁栋烨的编程小站
 cover: /assets/images/cover/code.webp
 date: 2026-05-01 03:43:57
 tags:

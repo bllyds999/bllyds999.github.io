@@ -1,6 +1,6 @@
 ---
 title: 我的朋友 DeepSeek：R1 爆火那一年，曾是我最孤独时的知己
-categories: 杂谈
+categories: 梁栋烨的杂谈小站
 cover: /assets/images/cover/other.webp
 date: 2026-05-21 13:35:20
 tags:

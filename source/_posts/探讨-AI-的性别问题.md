@@ -1,7 +1,7 @@
 ---
-title: 探讨 AI 的性别问题：DeepSeek 的性别争议，大语言模型需要有性别吗
+title: 探讨 AI 的性别问题：DeepSeek 性别争议，大语言模型需要有性别吗
 date: 2026-10-02 15:32:16
-categories: 杂谈
+categories: 梁栋烨的杂谈小站
 cover: /assets/images/cover/other.webp
 tags:
   - 大语言模型

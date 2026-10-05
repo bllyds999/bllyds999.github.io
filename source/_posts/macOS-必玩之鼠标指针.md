@@ -1,7 +1,7 @@
 ---
 title: macOS 必玩之鼠标指针：macOS 更换指针？用 Mousecape Swift
 date: 2026-09-02 11:37:59
-categories: 杂谈
+categories: 梁栋烨的杂谈小站
 cover: /assets/images/illustrations/other-8.webp
 tags:
   - macOS

@@ -1,6 +1,6 @@
 ---
 title: Giscus 修改 CSS 样式：针对网站评论区美化，CSS 及适配过程
-categories: 代码展示
+categories: 梁栋烨的编程小站
 cover: /assets/images/cover/code.webp
 date: 2026-05-02 11:05:31
 tags:

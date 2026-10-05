@@ -1,7 +1,7 @@
 ---
 title: 如何搭建一个 Matrix 机器人：免部署桥接，实现广播日志和聊天回复
 date: 2026-09-15 22:32:48
-categories: 代码展示
+categories: 梁栋烨的编程小站
 cover: /assets/images/cover/code.webp
 tags:
   - AI 机器人

@@ -1,7 +1,7 @@
 ---
 title: Brave 在 macOS 下出问题：访问页面出现横杠，降级后轻松解决
 date: 2026-06-09 14:49:46
-categories: 杂谈
+categories: 梁栋烨的杂谈小站
 cover: /assets/images/cover/other.webp
 tags:
   - Brave 浏览器

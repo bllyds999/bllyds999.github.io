@@ -1,7 +1,7 @@
 ---
 title: Butterfly 友链存活脚本：使用 Ping 批量检测链接网站的存活状态
 date: 2026-04-06 12:48:24
-categories: 代码展示
+categories: 梁栋烨的编程小站
 cover: /assets/images/cover/code.webp
 tags:
   - Butterfly

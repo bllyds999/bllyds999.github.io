@@ -1,7 +1,7 @@
 ---
-title: 0 A.D. 游戏体验报告：一款开源的实时战略游戏，但社区协作令人堪忧
+title: 0 A.D. 游戏体验报告：一款开源的实时战略游戏，社区协作令人堪忧
 date: 2026-09-30 17:37:06
-categories: 杂谈
+categories: 梁栋烨的杂谈小站
 cover: /assets/images/cover/other.webp
 tags:
   - 游戏体验

@@ -1,6 +1,6 @@
 ---
 title: 那段 MkDocs 折腾史：从 MkDocs 起步的博客，值得怀念的经历
-categories: 纪实
+categories: 梁栋烨的纪实小站
 cover: /assets/images/cover/history.webp
 date: 2026-04-24 16:32:12
 tags:

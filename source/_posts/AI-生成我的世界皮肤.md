@@ -1,7 +1,7 @@
 ---
 title: AI 生成我的世界皮肤：只需一张图片，就能生成 MC 专属皮肤
 date: 2026-05-03 14:03:03
-categories: 游戏
+categories: 梁栋烨的游戏小站
 cover: /assets/images/illustrations/lumen-1.webp
 tags:
   - 我的世界皮肤

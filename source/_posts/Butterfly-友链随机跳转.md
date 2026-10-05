@@ -1,7 +1,7 @@
 ---
 title: Butterfly 友链随机跳转：Hexo 主题实现友链随机跳转简单教程
 date: 2026-04-12 16:06:02
-categories: 代码展示
+categories: 梁栋烨的编程小站
 cover: /assets/images/cover/code.webp
 tags:
   - Butterfly

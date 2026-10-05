@@ -1,6 +1,6 @@
 ---
 title: Butterfly 卡片模糊效果：实现卡片毛玻璃教程，暗色模式适配
-categories: 代码展示
+categories: 梁栋烨的编程小站
 cover: /assets/images/cover/code.webp
 date: 2026-05-01 00:21:47
 tags:

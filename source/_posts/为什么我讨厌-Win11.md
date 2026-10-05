@@ -1,6 +1,6 @@
 ---
 title: 为什么我讨厌 Win11：极客的折腾史，从 Win 到 Linux 又回 Win
-categories: 杂谈
+categories: 梁栋烨的杂谈小站
 cover: /assets/images/cover/other.webp
 date: 2026-05-10 21:22:25
 tags:

@@ -1,6 +1,6 @@
 ---
 title: 记一次 Hexo 博客迁移：GitHub 被封，迁移到 CF Pages 速度飞快
-categories: 杂谈
+categories: 梁栋烨的杂谈小站
 cover: /assets/images/cover/other.webp
 date: 2026-04-18 11:46:35
 tags:

@@ -1,7 +1,7 @@
 ---
 title: 被 Clash Verge 坑惨了：macOS 关闭后网络瘫痪？修改 DNS 修复
 date: 2026-06-12 00:58:02
-categories: 杂谈
+categories: 梁栋烨的杂谈小站
 cover: /assets/images/cover/other.webp
 tags:
   - Clash Verge

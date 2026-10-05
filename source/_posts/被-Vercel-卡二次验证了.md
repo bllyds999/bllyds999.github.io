@@ -1,7 +1,7 @@
 ---
 title: 被 Vercel 卡二次验证了：2FA 让我崩溃，DeepSeek 尝试找回账号
 date: 2026-07-01 10:22:10
-categories: 纪实
+categories: 梁栋烨的纪实小站
 cover: /assets/images/cover/history.webp
 tags:
   - Vercel

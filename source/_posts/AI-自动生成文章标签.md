@@ -1,7 +1,7 @@
 ---
 title: AI 自动生成文章标签：为了批量给博文打标签，写了个 PY 脚本
 date: 2026-05-08 20:13:37
-categories: 代码展示
+categories: 梁栋烨的编程小站
 cover: /assets/images/cover/code.webp
 tags:
   - 大语言模型

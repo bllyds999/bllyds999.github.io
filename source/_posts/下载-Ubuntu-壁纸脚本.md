@@ -1,7 +1,7 @@
 ---
 title: 下载 Ubuntu 壁纸脚本：使用 Shell 从镜像提取所有 Ubuntu 壁纸
 date: 2026-04-06 18:14:34
-categories: 代码展示
+categories: 梁栋烨的编程小站
 cover: /assets/images/cover/code.webp
 tags:
   - Shell 命令

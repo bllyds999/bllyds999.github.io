@@ -1,7 +1,7 @@
 ---
 title: Hexo 图片引发的目录问题：修复 Butterfly 主题图片大小问题
 date: 2026-04-09 21:58:34
-categories: 代码展示
+categories: 梁栋烨的编程小站
 cover: /assets/images/cover/code.webp
 tags:
   - Hexo

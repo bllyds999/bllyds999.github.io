@@ -1,7 +1,7 @@
 ---
 title: Butterfly 随机文章跳转：Hexo 主题实现文章随机跳转盲盒教程
 date: 2026-04-12 20:08:22
-categories: 代码展示
+categories: 梁栋烨的编程小站
 cover: /assets/images/cover/code.webp
 tags:
   - Butterfly

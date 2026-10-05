@@ -1,7 +1,7 @@
 ---
-title: 回看我的 CSDN 账号：CSDN 早期技术经历，回顾开源挑战与平台转型
+title: 回看我的 CSDN 账号：CSDN 早期经历，回顾开源挑战与平台转型
 date: 2026-09-28 19:56:16
-categories: 纪实
+categories: 梁栋烨的纪实小站
 cover: /assets/images/cover/history.webp
 tags:
   - 技术折腾

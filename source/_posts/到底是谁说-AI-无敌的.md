@@ -1,7 +1,7 @@
 ---
 title: 到底是谁说 AI 无敌的：AI 集体降智后，DeepSeek 让我彻底摆烂
 date: 2026-08-05 16:27:50
-categories: 杂谈
+categories: 梁栋烨的杂谈小站
 cover: /assets/images/cover/other.webp
 tags:
   - AI

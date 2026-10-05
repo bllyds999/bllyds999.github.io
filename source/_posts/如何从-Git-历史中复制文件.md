@@ -1,7 +1,7 @@
 ---
 title: 从 Git 历史中复制文件：恢复历史提交中的旧文件，不必用 Reset
 date: 2026-08-02 14:03:20
-categories: 代码展示
+categories: 梁栋烨的编程小站
 cover: /assets/images/cover/code.webp
 tags:
   - Git

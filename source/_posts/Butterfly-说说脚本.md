@@ -2,7 +2,7 @@
 title: Butterfly 说说脚本：Shell 脚本自动创建，追加内容到 YAML
 date: 2026-04-05 11:22:35
 updated: 2026-04-08 21:12:23
-categories: 代码展示
+categories: 梁栋烨的编程小站
 cover: /assets/images/cover/code.webp
 tags:
   - Butterfly

@@ -15,7 +15,7 @@ nav:
   display_title: true
   display_post_title: true
   # Whether to fix navigation bar
-  fixed: true
+  fixed: false
 
 menu:
   # Home: / || fas fa-home
@@ -26,10 +26,9 @@ menu:
   说说: /shuoshuo || fas fa-comment
   归档: /archives || fas fa-archive
   相册: /gallery || fas fa-images
-  社交||fas fa-user-group:
-    留言: /comments || fas fa-comment-dots
-    友链: /friends || fas fa-link
-    关于: /about || fas fa-person
+  留言: /comments || fas fa-comment-dots
+  友链: /friends || fas fa-link
+  关于: /about || fas fa-person
   反馈: https://github.com/bllyds999/bllyds999.github.io/issues/ || fas fa-circle-exclamation
 
 # --------------------------------------
@@ -70,13 +69,13 @@ avatar:
   effect: false
 
 # Disable all banner images
-disable_top_img: true
+disable_top_img:
 
 # If the banner of page not setting, it will show the default_top_img
-default_top_img: ''
+default_top_img: /assets/images/hero.webp
 
 # The banner image of index page
-index_img:
+index_img: 
 
 # The banner image of archive page
 archive_img:
@@ -96,20 +95,20 @@ category_img:
 # Format:
 #  - category name: xxxxx
 category_per_img:
-  "Hexo 教程": /assets/images/cover/hexo.webp
-  "梦": /assets/images/cover/dream.webp
-  "代码展示": /assets/images/cover/code.webp
-  "杂谈": /assets/images/cover/other.webp
-  "游戏": /assets/images/cover/game.webp
-  "纪实": /assets/images/cover/history.webp
+  "梁栋烨的教程小站": /assets/images/cover/hexo.webp
+  "梁栋烨的梦境小站": /assets/images/cover/dream.webp
+  "梁栋烨的编程小站": /assets/images/cover/code.webp
+  "梁栋烨的杂谈小站": /assets/images/cover/other.webp
+  "梁栋烨的游戏小站": /assets/images/cover/game.webp
+  "梁栋烨的纪实小站": /assets/images/cover/history.webp
 
 # The background image of footer
-footer_img: /assets/images/footer.webp
+footer_img: true
 
 # Website Background
 # Can set it to color, image URL or an array containing colors and/or image URLs
 # If an array is provided, a random background will be selected from the array on each load
-background: /assets/images/background.webp
+background:
 
 cover:
   # Disable the cover or not
@@ -178,9 +177,17 @@ subtitle:
   # 1 - hitokoto.cn
   # 2 - https://api.aa1.cn/doc/yiyan.html
   # 3 - jinrishici.com
-  source: 3
+  source: false
   # If you close the typewriter effect, the subtitle will only show the first line of sub
   sub:
+    - 他说，他什么都说过。
+    - 很高兴成为您了解世界的窗口。
+    - 专注摆烂 114514 年。
+    - 我爱养龟，你呢？
+    - 早上好，中国！
+    - 早上好，俄罗斯！
+    - 早上好，美国！
+    - 不要忘记你是来干什么的。
 
 # Article layout on the homepage
 # 1: Cover on the left, info on the right
@@ -190,7 +197,7 @@ subtitle:
 # 5: Info displayed on the cover
 # 6: Masonry layout - Cover on top, info on the bottom
 # 7: Masonry layout - Info displayed on the cover
-index_layout: 2
+index_layout: 7
 
 # Display the article introduction on homepage
 # 1: description
@@ -300,14 +307,14 @@ aside:
   button: true
   mobile: false
   # Position: left / right
-  position: right
+  position: left
   display:
     archive: true
     tag: true
     category: true
   card_author:
     enable: true
-    description: "人总要向前看，对吧？"
+    description: "咻咻咻，鸡哔你！"
     button:
       enable: true
       icon: fas fa-rss
@@ -324,21 +331,21 @@ aside:
     sort: date
     sort_order:
   card_newest_comments:
-    enable: true
+    enable: false
     sort_order:
     limit: 6
     # Unit: mins, save data to localStorage
     storage: 10
     avatar: true
   card_categories:
-    enable: true
+    enable: false
     # If set 0 will show all
     limit: 8
     # Choose: none / true / false
     expand: true
     sort_order:
   card_tags:
-    enable: true
+    enable: false
     # If set 0 will show all
     limit: 40
     color: true
@@ -349,7 +356,7 @@ aside:
     order: 1
     sort_order:
   card_archives:
-    enable: true
+    enable: false
     # Type: monthly / yearly
     type: monthly
     # Eg: YYYY年MM月
@@ -368,7 +375,7 @@ aside:
     # Sort of order. 1, asc for ascending; -1, desc for descending
     order: -1
   card_webinfo:
-    enable: true
+    enable: false
     post_count: true
     last_push_date: true
     sort_order:
@@ -556,7 +563,7 @@ comments:
   # Leave it empty if you don't need comments
   # Choose: Disqus/Disqusjs/Livere/Gitalk/Valine/Waline/Utterances/Facebook Comments/Twikoo/Giscus/Remark42/Artalk
   # Format of two comments system : Disqus,Waline
-  use: waline,giscus
+  use: waline
   # Display the comment name next to the button
   text: true
   # Lazyload: The comment system will be load when comment element enters the browser's viewport.
@@ -565,7 +572,7 @@ comments:
   # Display comment count in post's top_img
   count: true
   # Display comment count in Home Page
-  card_post_count: true
+  card_post_count: false
 
 # Disqus
 # https://disqus.com/
@@ -784,7 +791,7 @@ site_verification:
 # Notice: color value must in double quotes like "#000" or may cause error!
 
 theme_color:
-  enable: true
+  enable: false
   main: "#2777ff"
   paginator: "#2777ff"
   button_hover: "#ffffff"
@@ -808,7 +815,7 @@ category_ui: index
 tag_ui: index
 
 # Rounded corners for UI elements
-rounded_corners_ui: false
+rounded_corners_ui: true
 
 # Stretches the lines so that each line has equal width
 text_align_justify: true
@@ -826,7 +833,7 @@ preloader:
   # 2. pace (progress bar)
   source: 2
   # pace theme (see https://codebyzach.github.io/pace/)
-  pace_css_url: /assets/css/loading-bar.css
+  pace_css_url: /assets/css/flash.css
 
 # Page Transition
 enter_transitions: true
@@ -849,8 +856,8 @@ beautify:
 font:
   global_font_size: 1rem
   code_font_size: 1rem
-  font_family: 'LXGWWenKai Regular, sans-serif'
-  code_font_family: 'LXGWWenKaiMono Regular, monospace'
+  font_family: 'ZCOOLKuaiLe Regular, sans-serif'
+  code_font_family: 'JetBrainsMono Regular, monospace'
 
 # Font settings for the site title and site subtitle
 blog_title_font:
@@ -1100,12 +1107,8 @@ inject:
     # - <link rel="stylesheet" href="/xxx.css">
     - <link rel="preload" href="/assets/fonts/LXGWWenKaiMono-Regular.woff2" as="font" type="font/woff2" crossorigin="anonymous">
     - <link rel="preload" href="/assets/fonts/LXGWWenKai-Regular.woff2" as="font" type="font/woff2" crossorigin="anonymous">
-    - <link rel="stylesheet" href="/assets/css/cursor.css">
-    - <link rel="stylesheet" href="/assets/css/color.css">
     - <link rel="stylesheet" href="/assets/css/fonts.css">
     - <link rel="stylesheet" href="/assets/css/size.css">
-    - <link rel="stylesheet" href="/assets/css/mac.css">
-    - <link rel="stylesheet" href="/assets/css/mobile-meta.css">
     - <link rel="stylesheet" href="/assets/css/pagination.css">
     - <link rel="stylesheet" href="/assets/css/svg.css">
     - <link rel="stylesheet" href="/assets/css/comments.css">
@@ -1114,14 +1117,11 @@ inject:
     - <link rel="stylesheet" href="/assets/css/proportion.css">
   bottom:
     # - <script src="xxxx"></script>
-    - <script src="/assets/js/comments.js"></script>
     - <script src="/assets/js/stroll.js"></script>
     - <script src="/assets/js/blindbox.js"></script>
     - <script src="/assets/js/friends.js"></script>
-    - <script src="/assets/js/avatar.js"></script>
     - <script src="/assets/js/routing.js"></script>
     - <script src="/assets/js/fix.js"></script>
-    - <script src="/assets/js/music.js"></script>
 
 # CDN Settings
 # Don't modify the following settings unless you know how they work

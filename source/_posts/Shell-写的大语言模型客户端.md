@@ -1,7 +1,7 @@
 ---
 title: Shell-写的大语言模型客户端：打造 OpenAI API 命令行智能伙伴
 date: 2026-04-07 17:43:55
-categories: 代码展示
+categories: 梁栋烨的编程小站
 cover: /assets/images/cover/code.webp
 tags:
   - Shell 命令

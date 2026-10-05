@@ -2,7 +2,7 @@
 title: Butterfly 自定义提示条：网站更有人味，Hexo 自定义时段问候
 date: 2026-05-05 02:45:19
 updated: 2026-05-05 16:02:12
-categories: 代码展示
+categories: 梁栋烨的编程小站
 cover: /assets/images/cover/code.webp
 tags:
   - Butterfly

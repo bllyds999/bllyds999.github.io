@@ -1,7 +1,7 @@
 ---
 title: 尝试压缩图片成 WebP：网站访问慢？用 Cwebp 轻松压缩图片
 date: 2026-04-11 00:27:07
-categories: 杂谈
+categories: 梁栋烨的杂谈小站
 cover: /assets/images/cover/other.webp
 tags:
   - 技术折腾

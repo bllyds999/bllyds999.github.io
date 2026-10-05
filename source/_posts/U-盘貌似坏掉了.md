@@ -1,7 +1,7 @@
 ---
-title: U 盘貌似坏掉了：为什么我的 U 盘坏了不焦虑？我的云端数据备份哲学
+title: U 盘貌似坏掉了：为什么我 U 盘坏了不焦虑？我的云端数据备份哲学
 date: 2026-09-25 14:11:39
-categories: 纪实
+categories: 梁栋烨的纪实小站
 cover: /assets/images/illustrations/mid-autumn-3.webp
 tags:
   - 数据备份

@@ -1,7 +1,7 @@
 ---
 title: CrossOver 的表现让我震惊：在 Mac 上运行 Win10 游戏的体验分享
 date: 2026-09-05 18:57:45
-categories: 纪实
+categories: 梁栋烨的纪实小站
 cover: /assets/images/cover/history.webp
 tags:
   - CrossOver

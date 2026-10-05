@@ -1,6 +1,6 @@
 ---
 title: 在 macOS 上玩 1.8.9：我的世界的旧版材质，让我找回了童年
-categories: 游戏
+categories: 梁栋烨的游戏小站
 cover: /assets/images/illustrations/minecraft-59.webp
 date: 2026-06-06 19:26:46
 tags:

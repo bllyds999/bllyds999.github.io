@@ -1,7 +1,7 @@
 ---
 title: 记一次升级 macOS 26：从 macOS 15 升级到 26 的步骤与感受
 date: 2026-06-10 22:23:26
-categories: 纪实
+categories: 梁栋烨的纪实小站
 cover: /assets/images/cover/history.webp
 tags:
   - macOS

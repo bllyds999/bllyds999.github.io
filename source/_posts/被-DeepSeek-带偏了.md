@@ -1,7 +1,7 @@
 ---
 title: 被 DeepSeek 带偏了：分析网站流量下降，没数据只谈 SEO 细节
 date: 2026-08-01 12:12:15
-categories: 纪实
+categories: 梁栋烨的纪实小站
 cover: /assets/images/cover/history.webp
 tags:
   - DeepSeek

@@ -1,7 +1,7 @@
 ---
 title: Butterfly 目录折腾二传：目录用 JS 自动刷新、解决并修复主题错误
 date: 2026-04-10 18:31:37
-categories: 代码展示
+categories: 梁栋烨的编程小站
 cover: /assets/images/cover/code.webp
 tags:
   - Butterfly

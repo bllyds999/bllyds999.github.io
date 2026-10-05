@@ -1,7 +1,7 @@
 ---
 title: AI 能为游戏带来什么：最强 AI 只做简单 Demo，平民却根本用不起
 date: 2026-09-10 23:42:39
-categories: 杂谈
+categories: 梁栋烨的杂谈小站
 cover: /assets/images/cover/other.webp
 tags:
   - AI

@@ -1,7 +1,7 @@
 ---
 title: 聊聊 TDM 是什么：文本扩散模型，像生成图片一样生成文章
 date: 2026-08-07 10:07:00
-categories: 杂谈
+categories: 梁栋烨的杂谈小站
 cover: /assets/images/cover/other.webp
 tags:
   - AI

@@ -1,6 +1,6 @@
 ---
 title: CF Workers 和 Pages 的区别：对比 Workers 与 Pages 冷启动到部署
-categories: 杂谈
+categories: 梁栋烨的杂谈小站
 cover: /assets/images/cover/other.webp
 date: 2026-04-19 03:18:36
 tags:

@@ -1,7 +1,7 @@
 ---
 title: 吐槽 QQ 邮箱检测：误判评论为诈骗，可能是检测只认“收到”
 date: 2026-06-08 18:47:17
-categories: 杂谈
+categories: 梁栋烨的杂谈小站
 cover: /assets/images/cover/other.webp
 tags:
   - QQ

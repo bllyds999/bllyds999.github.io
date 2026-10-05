@@ -1,7 +1,7 @@
 ---
 title: 备份你的 Waline 评论：备份数据，借助 GitHub 定时执行任务
 date: 2026-08-05 16:23:50
-categories: 代码展示
+categories: 梁栋烨的编程小站
 cover: /assets/images/cover/code.webp
 tags:
   - Waline

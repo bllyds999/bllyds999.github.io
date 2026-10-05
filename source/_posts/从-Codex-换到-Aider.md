@@ -1,7 +1,7 @@
 ---
 title: 从 Codex 换到 Aider：Aider 的强控制力，如何在 Mac 安装 Aider
 date: 2026-09-12 15:31:52
-categories: 代码展示
+categories: 梁栋烨的编程小站
 cover: /assets/images/cover/code.webp
 tags:
   - AI

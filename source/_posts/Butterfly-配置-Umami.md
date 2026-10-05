@@ -1,6 +1,6 @@
 ---
 title: Butterfly 配置 Umami：手把手教你为网站部署和配置访问统计
-categories: 代码展示
+categories: 梁栋烨的编程小站
 cover: /assets/images/cover/code.webp
 date: 2026-06-07 12:53:34
 tags:

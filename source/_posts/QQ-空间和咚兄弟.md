@@ -1,7 +1,7 @@
 ---
 title: QQ 空间和咚兄弟：梦到在 QQ 空间发文章爆火，变身暴太郎
 date: 2026-04-13 10:18:25
-categories: 梦
+categories: 梁栋烨的梦境小站
 cover: /assets/images/cover/dream.webp
 tags:
   - 个人网站

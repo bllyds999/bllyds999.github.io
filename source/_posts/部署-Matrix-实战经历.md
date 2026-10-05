@@ -1,7 +1,7 @@
 ---
-title: 部署 Matrix 实战经验：Synapse 部署录，自建去中心化聊天有多简单
+title: 部署 Matrix 实战经验：Synapse 部署录，自建去中心化聊天多简单
 date: 2026-09-14 05:13:44
-categories: 代码展示
+categories: 梁栋烨的编程小站
 cover: /assets/images/cover/code.webp
 tags:
   - 去中心化

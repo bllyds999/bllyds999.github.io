@@ -1,7 +1,7 @@
 ---
 title: 苹果送我 Apple Music：一个月特摄歌曲搜索体验，让我果断弃用
 date: 2026-08-07 10:11:27
-categories: 纪实
+categories: 梁栋烨的纪实小站
 cover: /assets/images/cover/history.webp
 tags:
   - Apple Music

@@ -1,7 +1,7 @@
 ---
 title: DLSS 5 技术泄露的看法：DLSS 5 模组滥用，半成品技术别盲目跟风
 date: 2026-09-04 13:41:18
-categories: 杂谈
+categories: 梁栋烨的杂谈小站
 cover: /assets/images/cover/other.webp
 tags:
   - DLSS 5

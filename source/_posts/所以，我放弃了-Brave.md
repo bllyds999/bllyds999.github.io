@@ -1,7 +1,7 @@
 ---
 title: 所以，我放弃了 Brave：最终放弃 Brave 浏览器，并陷入选择困境
 date: 2026-07-01 08:20:29
-categories: 杂谈
+categories: 梁栋烨的杂谈小站
 cover: /assets/images/cover/other.webp
 tags:
   - Brave 浏览器

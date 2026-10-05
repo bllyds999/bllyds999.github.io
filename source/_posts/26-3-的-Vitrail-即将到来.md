@@ -1,7 +1,7 @@
 ---
-title: 26.3 的 Vitrail 即将到来：作者承诺协助贡献者完善代码，并同步到主线
+title: 26.3 的 Vitrail 即将到来：作者协助贡献者完善代码，并同步到主线
 date: 2026-09-26 16:55:29
-categories: 杂谈
+categories: 梁栋烨的杂谈小站
 cover: /assets/images/cover/other.webp
 tags:
   - 我的世界

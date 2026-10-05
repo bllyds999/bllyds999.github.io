@@ -1,6 +1,6 @@
 ---
 title: 关于 AI 文章识别的看法：检测工具本质查重，误判人类文章常态
-categories: 杂谈
+categories: 梁栋烨的杂谈小站
 cover: /assets/images/cover/other.webp
 date: 2026-06-07 12:54:49
 tags:

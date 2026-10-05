@@ -1,7 +1,7 @@
 ---
 title: Butterfly 网站默哀功能：默哀日网站自动变灰功能的实现方法
 date: 2026-04-18 22:15:43
-categories: 代码展示
+categories: 梁栋烨的编程小站
 cover: /assets/images/cover/code.webp
 tags:
   - Butterfly

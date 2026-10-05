@@ -1,7 +1,7 @@
 ---
 title: 再审视 Windows：从 Win11 的广告沼泽，逃向 UNIX 的清净世界
 date: 2026-07-03 01:10:05
-categories: 杂谈
+categories: 梁栋烨的杂谈小站
 cover: /assets/images/cover/other.webp
 tags:
   - 个人经历

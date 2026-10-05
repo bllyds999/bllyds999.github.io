@@ -1,7 +1,7 @@
 ---
 title: AstrBot 再尝试：再尝试 AB，误打误撞解决 Shell 命令权限难题
 date: 2026-04-11 00:25:48
-categories: 杂谈
+categories: 梁栋烨的杂谈小站
 cover: /assets/images/illustrations/astrbot-11.webp
 tags:
   - AstrBot

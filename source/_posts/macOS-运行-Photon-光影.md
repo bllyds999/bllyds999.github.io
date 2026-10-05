@@ -1,7 +1,7 @@
 ---
 title: macOS 运行 Photon 光影：Photon 无法运行？可能需要这篇教程
 date: 2026-08-02 17:20:39
-categories: 游戏
+categories: 梁栋烨的游戏小站
 cover: /assets/images/illustrations/other-1.webp
 tags:
   - macOS

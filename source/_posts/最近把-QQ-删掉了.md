@@ -1,7 +1,7 @@
 ---
-title: 最近把 QQ 删掉了：社交媒体的边界感，为什么我最终选择删掉了 QQ
+title: 最近把 QQ 删掉了：社交媒体边界感，为何我最终选择删掉 QQ
 date: 2026-10-01 23:13:58
-categories: 杂谈
+categories: 梁栋烨的杂谈小站
 cover: /assets/images/cover/other.webp
 tags:
   - 社交反思

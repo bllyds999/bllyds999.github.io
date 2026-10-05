@@ -1,7 +1,7 @@
 ---
 title: 我的 Kali 使用经历：把Kali 当日常主力系统使用，为何尴尬处境
 date: 2026-08-01 12:11:58
-categories: 杂谈
+categories: 梁栋烨的杂谈小站
 cover: /assets/images/cover/other.webp
 tags:
   - Kali Linux

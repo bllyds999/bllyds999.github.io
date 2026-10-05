@@ -1,7 +1,7 @@
 ---
 title: Waline 修复版本日志：修改博客主题配置，固定 Waline 版本实操
 date: 2026-07-01 10:19:54
-categories: 代码展示
+categories: 梁栋烨的编程小站
 cover: /assets/images/cover/code.webp
 tags:
   - Waline

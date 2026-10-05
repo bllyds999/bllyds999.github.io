@@ -1,7 +1,7 @@
 ---
 title: Butterfly 网站深色模式：深色模式与 SVG 颜色不跟随的解决方案
 date: 2026-04-09 16:14:24
-categories: 代码展示
+categories: 梁栋烨的编程小站
 cover: /assets/images/cover/code.webp
 tags:
   - Butterfly

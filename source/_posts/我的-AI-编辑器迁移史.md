@@ -1,7 +1,7 @@
 ---
 title: 我的 AI 编辑器迁移史：从通义灵码到 Trae，我都用过的 Agent 工具
 date: 2026-04-16 20:35:25
-categories: 纪实
+categories: 梁栋烨的纪实小站
 cover: /assets/images/cover/history.webp
 tags:
   - 个人经历

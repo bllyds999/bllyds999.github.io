@@ -1,6 +1,6 @@
 ---
 title: 我把 MacBook 卖掉了：暴雨丢手机错拨天津，用卡纸给平板上色
-categories: 梦
+categories: 梁栋烨的梦境小站
 cover: /assets/images/cover/dream.webp
 date: 2026-06-06 19:32:46
 tags:

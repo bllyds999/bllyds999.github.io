@@ -1,6 +1,6 @@
 ---
 title: 被-Cloudflare-的服务坑惨了：邮箱混淆，导致网站邮箱异常解决
-categories: 杂谈
+categories: 梁栋烨的杂谈小站
 cover: /assets/images/cover/other.webp
 date: 2026-05-23 14:17:56
 tags:

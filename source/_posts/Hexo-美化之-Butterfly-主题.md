@@ -2,7 +2,7 @@
 title: Hexo 美化之 Butterfly 主题：博客网站主题安装，配置完整教程
 date: 2026-04-04 08:48:16
 updated: 2026-04-09 23:08:00
-categories: Hexo 教程
+categories: 梁栋烨的教程小站
 cover: /assets/images/cover/hexo.webp
 tags:
   - Hexo

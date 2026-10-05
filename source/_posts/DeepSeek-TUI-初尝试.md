@@ -1,6 +1,6 @@
 ---
 title: DeepSeek TUI 初尝试：尝试开源社区的命令行工具，体验与分享
-categories: 杂谈
+categories: 梁栋烨的杂谈小站
 cover: /assets/images/cover/other.webp
 date: 2026-05-17 10:56:55
 tags:

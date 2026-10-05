@@ -1,6 +1,6 @@
 ---
 title: 修复 Waline 无法显示评论：Waline 评论迁移，被 Vercel 坑惨的教训
-categories: 杂谈
+categories: 梁栋烨的杂谈小站
 cover: /assets/images/cover/other.webp
 date: 2026-04-18 11:46:57
 tags:

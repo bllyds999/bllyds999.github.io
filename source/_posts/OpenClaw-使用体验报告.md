@@ -1,7 +1,7 @@
 ---
 title: OpenClaw 使用体验报告：安装难 Token 消耗大，普通人要谨慎
 date: 2026-04-09 19:58:32
-categories: 杂谈
+categories: 梁栋烨的杂谈小站
 cover: /assets/images/illustrations/openclaw-1.webp
 tags:
   - OpenClaw

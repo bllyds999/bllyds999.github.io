@@ -1,7 +1,7 @@
 ---
-title: 在 macOS 上部署 KataGo：在 Mac 上部署 KataGo，与 AI 进行对弈
+title: 在 macOS 上部署 KataGo：在 Mac 部署 KataGo，与 AI 进行对弈
 date: 2026-09-07 11:13:23
-categories: 代码展示
+categories: 梁栋烨的编程小站
 cover: /assets/images/cover/code.webp
 tags:
   - KataGo

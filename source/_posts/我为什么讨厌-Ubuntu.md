@@ -1,6 +1,6 @@
 ---
 title: 我为什么讨厌 Ubuntu：Snap 糟糕体验，让我从喜欢到彻底弃坑
-categories: 杂谈
+categories: 梁栋烨的杂谈小站
 cover: /assets/images/cover/other.webp
 date: 2026-05-20 18:58:58
 tags:

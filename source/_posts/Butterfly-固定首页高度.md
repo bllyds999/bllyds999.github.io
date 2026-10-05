@@ -1,6 +1,6 @@
 ---
 title: Butterfly 固定首页高度：首页文章列表，固定高度动态补齐方法
-categories: 代码展示
+categories: 梁栋烨的编程小站
 cover: /assets/images/cover/code.webp
 date: 2026-05-18 16:21:15
 tags:

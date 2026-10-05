@@ -1,6 +1,6 @@
 ---
 title: 记一次为域名配置 DMARC：未收到评论邮件提醒，CF 配置策略
-categories: 代码展示
+categories: 梁栋烨的编程小站
 cover: /assets/images/cover/code.webp
 date: 2026-05-24 00:09:46
 tags:

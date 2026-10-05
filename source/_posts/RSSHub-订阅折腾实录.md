@@ -1,7 +1,7 @@
 ---
 title: RSSHub 订阅折腾实录：RSS 阅读器结合树莓派，订阅 B 站博主
 date: 2026-06-09 21:05:17
-categories: 代码展示
+categories: 梁栋烨的编程小站
 cover: /assets/images/cover/code.webp
 tags:
   - RSSHub

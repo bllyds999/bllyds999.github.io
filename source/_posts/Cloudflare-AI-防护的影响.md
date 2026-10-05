@@ -1,7 +1,7 @@
 ---
 title: Cloudflare AI 防护的影响：无意间开启防护，导致网站排名下降
 date: 2026-04-19 19:51:19
-categories: 杂谈
+categories: 梁栋烨的杂谈小站
 cover: /assets/images/cover/other.webp
 tags:
   - 个人网站

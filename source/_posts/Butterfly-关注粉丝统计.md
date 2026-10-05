@@ -1,6 +1,6 @@
 ---
 title: Butterfly 关注粉丝统计：用友链数当粉丝数，改造按钮显示统计
-categories: 代码展示
+categories: 梁栋烨的编程小站
 cover: /assets/images/cover/code.webp
 date: 2026-04-18 11:46:46
 tags:

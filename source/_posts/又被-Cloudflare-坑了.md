@@ -1,7 +1,7 @@
 ---
 title: 又被 Cloudflare 坑了：没钱买梯子，用 GitHub 绕过登录验证成功
 date: 2026-07-01 08:18:13
-categories: 杂谈
+categories: 梁栋烨的杂谈小站
 cover: /assets/images/cover/other.webp
 tags:
   - Cloudflare

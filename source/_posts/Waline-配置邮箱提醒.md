@@ -1,7 +1,7 @@
 ---
 title: Waline 配置邮箱提醒：配置评论邮件提醒，七个环境变量不能少
 date: 2026-04-13 17:14:23
-categories: 杂谈
+categories: 梁栋烨的杂谈小站
 cover: /assets/images/cover/other.webp
 tags:
   - Waline

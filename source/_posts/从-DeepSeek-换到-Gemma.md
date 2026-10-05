@@ -1,7 +1,7 @@
 ---
 title: 从 DeepSeek 换到 Gemma：AI 涨价后，本地部署 Gemma4 省钱了
 date: 2026-09-11 06:17:14
-categories: 代码展示
+categories: 梁栋烨的编程小站
 cover: /assets/images/cover/code.webp
 tags:
   - 大语言模型

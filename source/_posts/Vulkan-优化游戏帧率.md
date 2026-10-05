@@ -1,7 +1,7 @@
 ---
 title: Vulkan 优化游戏帧率：将 MC 管线切换至 VK，帧率提升那么多
 date: 2026-05-04 13:50:44
-categories: 游戏
+categories: 梁栋烨的游戏小站
 cover: /assets/images/illustrations/vulkanmod-1.webp
 tags:
   - 我的世界

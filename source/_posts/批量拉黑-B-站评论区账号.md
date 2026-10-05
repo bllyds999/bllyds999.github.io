@@ -1,7 +1,7 @@
 ---
 title: 批量拉黑 B 站评论区账号：评论区太乱？这个脚本帮你批量拉黑
 date: 2026-07-01 11:56:46
-categories: 代码展示
+categories: 梁栋烨的编程小站
 cover: /assets/images/cover/code.webp
 tags:
   - B 站

@@ -1,7 +1,7 @@
 ---
 title: Markdown 常用语法：如何使用 MD 在博客网站中发布文章
 date: 2026-04-04 23:11:39
-categories: Hexo 教程
+categories: 梁栋烨的教程小站
 cover: /assets/images/cover/hexo.webp
 tags:
   - Hexo 教程

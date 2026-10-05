@@ -1,6 +1,6 @@
 ---
 title: Waline 后台页面空白：遭遇评论区错误，我是如何从排查到修复
-categories: 杂谈
+categories: 梁栋烨的杂谈小站
 cover: /assets/images/illustrations/comments-8.webp
 date: 2026-06-01 01:21:26
 tags:

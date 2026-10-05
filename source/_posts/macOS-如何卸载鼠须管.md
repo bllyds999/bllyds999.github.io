@@ -1,6 +1,6 @@
 ---
 title: macOS 如何卸载鼠须管：离开鼠须管后，我为何改用微信输入法
-categories: 杂谈
+categories: 梁栋烨的杂谈小站
 cover: /assets/images/cover/other.webp
 date: 2026-06-06 19:21:48
 tags:

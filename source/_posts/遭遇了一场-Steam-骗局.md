@@ -1,6 +1,6 @@
 ---
 title: 遭遇了一场 Steam 骗局：被陌生人莫名加友，执意索要支付记录
-categories: 杂谈
+categories: 梁栋烨的杂谈小站
 cover: /assets/images/cover/other.webp
 date: 2026-06-01 01:21:11
 tags:

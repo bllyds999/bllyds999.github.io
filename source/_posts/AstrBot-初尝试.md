@@ -1,7 +1,7 @@
 ---
 title: AstrBot 初尝试：安装 AstrBot 与 OpenClaw 对比、体验及折腾
 date: 2026-04-10 20:25:04
-categories: 杂谈
+categories: 梁栋烨的杂谈小站
 cover: /assets/images/illustrations/astrbot-1.webp
 tags:
   - AstrBot

@@ -1,7 +1,7 @@
 ---
 title: 使用的 Hexo 插件推荐：网站必备五款插件，推荐及安装方法
 date: 2026-04-04 01:41:23
-categories: Hexo 教程
+categories: 梁栋烨的教程小站
 cover: /assets/images/cover/hexo.webp
 tags:
   - Hexo
