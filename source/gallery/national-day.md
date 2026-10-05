@@ -10,4 +10,7 @@ comments: false
 ![](/assets/images/illustrations/national-day-3.webp)
 ![](/assets/images/illustrations/national-day-4.webp)
 ![](/assets/images/illustrations/national-day-5.webp)
+![](/assets/images/illustrations/national-day-6.webp)
+![](/assets/images/illustrations/national-day-7.webp)
+![](/assets/images/illustrations/national-day-8.webp)
 {% endgallery %}
