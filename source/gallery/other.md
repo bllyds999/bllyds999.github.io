@@ -13,4 +13,12 @@ comments: false
 ![](/assets/images/illustrations/other-6.webp)
 ![](/assets/images/illustrations/other-7.webp)
 ![](/assets/images/illustrations/other-8.webp)
+![](/assets/images/illustrations/other-9.webp)
+![](/assets/images/illustrations/other-10.webp)
+![](/assets/images/illustrations/other-11.webp)
+![](/assets/images/illustrations/other-12.webp)
+![](/assets/images/illustrations/other-13.webp)
+![](/assets/images/illustrations/other-14.webp)
+![](/assets/images/illustrations/other-15.webp)
+![](/assets/images/illustrations/other-16.webp)
 {% endgallery %}
