@@ -2,8 +2,8 @@
 title: AstrBot
 date: 2026-04-16 03:04:40
 comments: false
+top_img: /assets/images/illustrations/astrbot-1.webp
 ---
-
 {% gallery %}
 ![](/assets/images/illustrations/astrbot-1.webp)
 ![](/assets/images/illustrations/astrbot-2.webp)

@@ -2,8 +2,8 @@
 title: 华莱士
 date: 2026-05-25 19:56:21
 comments: false
+top_img: /assets/images/illustrations/wallace-1.webp
 ---
-
 {% gallery %}
 ![](/assets/images/illustrations/wallace-1.webp)
 ![](/assets/images/illustrations/wallace-2.webp)

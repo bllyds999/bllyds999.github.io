@@ -2,8 +2,8 @@
 title: 我的世界
 date: 2026-04-16 03:04:33
 comments: false
+top_img: /assets/images/illustrations/minecraft-1.webp
 ---
-
 {% gallery %}
 ![](/assets/images/illustrations/minecraft-1.webp)
 ![](/assets/images/illustrations/minecraft-2.webp)

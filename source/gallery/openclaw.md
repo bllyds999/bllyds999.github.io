@@ -2,8 +2,8 @@
 title: OpenClaw
 date: 2026-04-16 03:04:50
 comments: false
+top_img: /assets/images/illustrations/openclaw-1.webp
 ---
-
 {% gallery %}
 ![](/assets/images/illustrations/openclaw-1.webp)
 ![](/assets/images/illustrations/openclaw-2.webp)

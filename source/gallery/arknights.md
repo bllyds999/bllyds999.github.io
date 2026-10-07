@@ -2,8 +2,8 @@
 title: 明日方舟
 date: 2026-09-05 20:08:40
 comments: false
+top_img: /assets/images/illustrations/arknights-1.webp
 ---
-
 {% gallery %}
 ![](/assets/images/illustrations/arknights-1.webp)
 ![](/assets/images/illustrations/arknights-2.webp)

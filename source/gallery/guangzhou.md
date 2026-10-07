@@ -2,8 +2,8 @@
 title: 广州
 date: 2026-05-20 17:58:44
 comments: false
+top_img: /assets/images/illustrations/guangzhou-1.webp
 ---
-
 {% gallery %}
 ![](/assets/images/illustrations/guangzhou-1.webp)
 ![](/assets/images/illustrations/guangzhou-2.webp)

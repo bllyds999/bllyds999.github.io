@@ -2,8 +2,8 @@
 title: 国庆节
 date: 2026-10-01 18:44:30
 comments: false
+top_img: /assets/images/illustrations/national-day-1.webp
 ---
-
 {% gallery %}
 ![](/assets/images/illustrations/national-day-1.webp)
 ![](/assets/images/illustrations/national-day-2.webp)

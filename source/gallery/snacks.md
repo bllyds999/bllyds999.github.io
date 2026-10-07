@@ -2,8 +2,8 @@
 title: 零食
 date: 2026-05-18 19:47:02
 comments: false
+top_img: /assets/images/illustrations/snacks-1.webp
 ---
-
 {% gallery %}
 ![](/assets/images/illustrations/snacks-1.webp)
 ![](/assets/images/illustrations/snacks-2.webp)

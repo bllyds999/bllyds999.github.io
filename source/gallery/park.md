@@ -2,8 +2,8 @@
 title: 公园
 date: 2026-04-16 03:05:35
 comments: false
+top_img: /assets/images/illustrations/park-1.webp
 ---
-
 {% gallery %}
 ![](/assets/images/illustrations/park-1.webp)
 ![](/assets/images/illustrations/park-2.webp)

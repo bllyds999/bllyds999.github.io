@@ -2,8 +2,8 @@
 title: 评论系统
 date: 2026-04-16 03:06:25
 comments: false
+top_img: /assets/images/illustrations/comments-1.webp
 ---
-
 {% gallery %}
 ![](/assets/images/illustrations/comments-1.webp)
 ![](/assets/images/illustrations/comments-2.webp)

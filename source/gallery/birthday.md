@@ -2,8 +2,8 @@
 title: 生日
 date: 2026-09-09 19:12:10
 comments: false
+top_img: /assets/images/illustrations/birthday-1.webp
 ---
-
 {% gallery %}
 ![](/assets/images/illustrations/birthday-1.webp)
 ![](/assets/images/illustrations/birthday-2.webp)

@@ -2,8 +2,8 @@
 title: 杂项
 date: 2026-07-26 16:44:44
 comments: false
+top_img: /assets/images/illustrations/other-1.webp
 ---
-
 {% gallery %}
 ![](/assets/images/illustrations/other-1.webp)
 ![](/assets/images/illustrations/other-2.webp)
