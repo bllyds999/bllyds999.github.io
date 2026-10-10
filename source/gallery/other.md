@@ -21,4 +21,6 @@ top_img: /assets/images/illustrations/other-1.webp
 ![](/assets/images/illustrations/other-14.webp)
 ![](/assets/images/illustrations/other-15.webp)
 ![](/assets/images/illustrations/other-16.webp)
+![](/assets/images/illustrations/other-17.webp)
+![](/assets/images/illustrations/other-18.webp)
 {% endgallery %}
