@@ -133,4 +133,5 @@ top_img: /assets/images/illustrations/minecraft-1.webp
 ![](/assets/images/illustrations/minecraft-126.webp)
 ![](/assets/images/illustrations/minecraft-127.webp)
 ![](/assets/images/illustrations/minecraft-128.webp)
+![](/assets/images/illustrations/minecraft-129.webp)
 {% endgallery %}
