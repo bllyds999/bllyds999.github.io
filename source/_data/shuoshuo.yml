@@ -4380,7 +4380,9 @@
 
 - date: 2026-10-12 22:59:38
   key: 538
-  content: "给小青买回了龟粮，但它貌似忘了虾怎么吃……"
+  content: |-
+    给小青买回了龟粮，但它貌似忘了虾怎么吃……
+    ![](/assets/images/illustrations/turtle-16.webp)
   tags:
     - 乌龟
     - 搞笑
