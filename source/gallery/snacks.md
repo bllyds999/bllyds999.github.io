@@ -12,4 +12,5 @@ top_img: /assets/images/illustrations/snacks-1.webp
 ![](/assets/images/illustrations/snacks-5.webp)
 ![](/assets/images/illustrations/snacks-6.webp)
 ![](/assets/images/illustrations/snacks-7.webp)
+![](/assets/images/illustrations/snacks-8.webp)
 {% endgallery %}
