@@ -1,6 +1,7 @@
 1Panel
 AI
 AI 使用成本
+AI 工具
 AI 机器人
 AI 检测
 AI 生成皮肤
