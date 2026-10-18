@@ -45,6 +45,7 @@ Linux
 Linux 脚本
 Mac 游戏
 MacBook
+Markdown
 Markdown 教程
 Markdown 语法
 Mesa
@@ -99,6 +100,7 @@ macOS
 人间体分析
 代理软件
 代码管理
+代码编辑器
 代际沟通
 休闲生活
 传统文化
