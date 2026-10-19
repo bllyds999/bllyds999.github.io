@@ -317,6 +317,10 @@
       link: https://clannad.top/
       avatar: /assets/images/friend.svg
       descr: 欢迎来到他的博客站！
+    - name: 世界为你
+      link: https://world4u.cn/
+      avatar: /assets/images/friend.svg
+      descr: 他想把世界整理给你！
 
 - class_name: 实用工具
   class_desc: 我分享的实用工具！
