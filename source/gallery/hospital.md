@@ -7,4 +7,5 @@ top_img: /assets/images/illustrations/hospital-1.webp
 {% gallery %}
 ![](/assets/images/illustrations/hospital-1.webp)
 ![](/assets/images/illustrations/hospital-2.webp)
+![](/assets/images/illustrations/hospital-3.webp)
 {% endgallery %}
