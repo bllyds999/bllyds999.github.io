@@ -11,6 +11,7 @@ comments: false
 {% galleryGroup '公园' '公园随手拍。' '/gallery/park' '/assets/images/illustrations/park-1.webp' %}
 {% galleryGroup '医院' '真的不想生病了。' '/gallery/hospital' '/assets/images/illustrations/hospital-1.webp' %}
 {% galleryGroup '学校' '学校回忆。' '/gallery/school' '/assets/images/illustrations/school-1.webp' %}
+{% galleryGroup '植物' '我妈种的小草。' '/gallery/plant' '/assets/images/illustrations/plant-1.webp' %}
 {% galleryGroup '评论系统' '评论系统截图。' '/gallery/comments' '/assets/images/illustrations/comments-1.webp' %}
 {% galleryGroup '广州' '美好总是短暂的。' '/gallery/guangzhou' '/assets/images/illustrations/guangzhou-1.webp' %}
 {% galleryGroup '中秋节' '是吃月饼的时候。' '/gallery/mid-autumn' '/assets/images/illustrations/mid-autumn-1.webp' %}
