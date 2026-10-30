@@ -1,4 +1,4 @@
----
+foo---
 title: 美食
 date: 2026-06-08 22:57:00
 comments: false
@@ -20,4 +20,5 @@ top_img: /assets/images/illustrations/food-1.webp
 ![](/assets/images/illustrations/food-13.webp)
 ![](/assets/images/illustrations/food-14.webp)
 ![](/assets/images/illustrations/food-15.webp)
+![](/assets/images/illustrations/food-16.webp)
 {% endgallery %}
