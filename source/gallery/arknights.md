@@ -16,4 +16,8 @@ top_img: /assets/images/illustrations/arknights-1.webp
 ![](/assets/images/illustrations/arknights-9.webp)
 ![](/assets/images/illustrations/arknights-10.webp)
 ![](/assets/images/illustrations/arknights-11.webp)
+![](/assets/images/illustrations/arknights-12.webp)
+![](/assets/images/illustrations/arknights-13.webp)
+![](/assets/images/illustrations/arknights-14.webp)
+![](/assets/images/illustrations/arknights-15.webp)
 {% endgallery %}
