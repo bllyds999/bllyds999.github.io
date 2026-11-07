@@ -6,22 +6,23 @@ comments: false
 
 <div class="gallery-group-main">
 {% galleryGroup '美食' '美食随手拍。' '/gallery/food' '/assets/images/illustrations/food-1.webp' %}
+{% galleryGroup '生日' '这是最重要的日子。' '/gallery/birthday' '/assets/images/illustrations/birthday-1.webp' %}
 {% galleryGroup '水果' '新鲜又多汁。' '/gallery/fruits' '/assets/images/illustrations/fruits-1.webp' %}
+{% galleryGroup '植物' '我妈种的小草。' '/gallery/plant' '/assets/images/illustrations/plant-1.webp' %}
 {% galleryGroup '零食' '带来快乐的点心。' '/gallery/snacks' '/assets/images/illustrations/snacks-1.webp' %}
 {% galleryGroup '公园' '公园随手拍。' '/gallery/park' '/assets/images/illustrations/park-1.webp' %}
+{% galleryGroup '超市' '偶尔也逛逛嘛。' '/gallery/supermarket' '/assets/images/illustrations/supermarket-1.webp' %}
 {% galleryGroup '医院' '真的不想生病了。' '/gallery/hospital' '/assets/images/illustrations/hospital-1.webp' %}
 {% galleryGroup '学校' '学校回忆。' '/gallery/school' '/assets/images/illustrations/school-1.webp' %}
-{% galleryGroup '植物' '我妈种的小草。' '/gallery/plant' '/assets/images/illustrations/plant-1.webp' %}
-{% galleryGroup '评论系统' '评论系统截图。' '/gallery/comments' '/assets/images/illustrations/comments-1.webp' %}
 {% galleryGroup '广州' '美好总是短暂的。' '/gallery/guangzhou' '/assets/images/illustrations/guangzhou-1.webp' %}
 {% galleryGroup '中秋节' '是吃月饼的时候。' '/gallery/mid-autumn' '/assets/images/illustrations/mid-autumn-1.webp' %}
 {% galleryGroup '国庆节' '祖国重要的一天。' '/gallery/national-day' '/assets/images/illustrations/national-day-1.webp' %}
-{% galleryGroup '生日' '这是最重要的日子。' '/gallery/birthday' '/assets/images/illustrations/birthday-1.webp' %}
 {% galleryGroup '我的世界' '我的世界截图。' '/gallery/minecraft' '/assets/images/illustrations/minecraft-1.webp' %}
 {% galleryGroup '泰拉瑞亚' '泰拉瑞亚截图。' '/gallery/terraria' '/assets/images/illustrations/terraria-1.webp' %}
 {% galleryGroup '明日方舟' '明日方舟截图。' '/gallery/arknights' '/assets/images/illustrations/arknights-1.webp' %}
 {% galleryGroup '宠物龟' '龟龟图片。' '/gallery/turtle' '/assets/images/illustrations/turtle-1.webp' %}
 {% galleryGroup '华莱士' '我爱吃快餐。' '/gallery/wallace' '/assets/images/illustrations/wallace-1.webp' %}
+{% galleryGroup '评论系统' '评论系统截图。' '/gallery/comments' '/assets/images/illustrations/comments-1.webp' %}
 {% galleryGroup 'OpenClaw' 'OpenClaw 截图。' '/gallery/openclaw' '/assets/images/illustrations/openclaw-1.webp' %}
 {% galleryGroup 'AstrBot' 'AstrBot 截图。' '/gallery/astrbot' '/assets/images/illustrations/astrbot-1.webp' %}
 {% galleryGroup 'LUMEN' 'AI 皮肤创作工具。' '/gallery/lumen' '/assets/images/illustrations/lumen-1.webp' %}
