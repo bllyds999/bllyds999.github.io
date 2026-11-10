@@ -20,7 +20,7 @@ description: "本文介绍了 macOS 系统上运行 Minecraft 光影效果时遇
 
 ![](/assets/images/illustrations/other-2.webp)
 
-根据 Photon 仓库的 README 可知，如果你想运行这个光影在 macOS 上，则需要同时关闭“球谐天空光”和“彩色光照”。如果你拿到了一份别人的配置，记得先进入配置关掉这两个。关闭以后记得点一下应用，大概率都是能运行的，除非你用的不是 macOS 或者 Metal 渲染。如果你是 Intel 的 macOS，你确实不适合来看这篇文章。~~因为 X86 至少还是支持 GLSL 和 OpenGL 的。大概率是设备太差跑不起来，或者别的什么原因导致的。~~因为 macOS 最后一代搭载到 MacBook Intel 上的，只是 2020 年那时候的机器了，距离现在都有六年了，差不多是电脑的一半寿命。
+根据 Photon 仓库的 README 可知，如果你想运行这个光影在 macOS 上，则需要同时关闭“球谐天空光”和“彩色光照”。如果你拿到了一份别人的配置，记得先进入配置关掉这两个。关闭以后记得点一下应用，大概率都是能运行的，除非你用的不是 macOS 或者 Metal 渲染。如果你是 Intel 的 macOS，你确实不适合来看这篇文章。~~因为 x86 至少还是支持 GLSL 和 OpenGL 的。大概率是设备太差跑不起来，或者别的什么原因导致的。~~因为 macOS 最后一代搭载到 MacBook Intel 上的，只是 2020 年那时候的机器了，距离现在都有六年了，差不多是电脑的一半寿命。
 
 ![](/assets/images/illustrations/other-3.webp)
 
