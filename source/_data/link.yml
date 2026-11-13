@@ -285,6 +285,10 @@
       link: https://world4u.cn/
       avatar: /assets/images/friend.svg
       descr: 他想把世界整理给你！
+    - name: 普滋男孩
+      link: https://www.pzwboy.top/
+      avatar: /assets/images/friend.svg
+      descr: 玩游戏认识的新朋友！
 
 - class_name: 实用工具
   class_desc: 我分享的实用工具！
