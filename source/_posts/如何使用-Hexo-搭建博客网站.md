@@ -18,7 +18,7 @@ description: "本文介绍了如何在不同操作系统（Windows、Linux 包�
 
 运行：
 
-```shell
+```zsh
 curl -O https://nodejs.org/dist/v24.14.1/node-v24.14.1-arm64.msi && start node-v24.14.1-arm64.msi
 ```
 
@@ -30,7 +30,7 @@ curl -O https://nodejs.org/dist/v24.14.1/node-v24.14.1-arm64.msi && start node-v
 
 运行：
 
-```shell
+```zsh
 sudo apt install nodejs
 ```
 
@@ -38,7 +38,7 @@ sudo apt install nodejs
 
 运行：
 
-```shell
+```zsh
 sudo pacman -S nodejs
 ```
 
@@ -46,7 +46,7 @@ sudo pacman -S nodejs
 
 运行：
 
-```shell
+```zsh
 brew install nodejs
 ```
 
@@ -54,7 +54,7 @@ brew install nodejs
 
 运行：
 
-```shell
+```zsh
 npm install hexo-cli -g
 ```
 
@@ -62,7 +62,7 @@ npm install hexo-cli -g
 
 找到一个空文件夹，进入运行：
 
-```shell
+```zsh
 hexo init
 ```
 
@@ -100,7 +100,7 @@ timezone: Asia/Shanghai
 
 运行：
 
-```shell
+```zsh
 hexo server
 ```
 

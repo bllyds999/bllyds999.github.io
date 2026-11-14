@@ -15,7 +15,7 @@ description: "本文介绍了 Hexo Butterfly 主题的安装与详细配置方�
 
 ## 安装 Butterfly 主题
 
-```shell
+```zsh
 npm install hexo-theme-butterfly
 ```
 
@@ -39,7 +39,7 @@ theme: butterfly
 
 运行：
 
-```shell
+```zsh
 cp -rf node_modules/hexo-theme-butterfly/_config.yml _config.butterfly.yml
 ```
 
@@ -322,7 +322,7 @@ copy:
 
 需要先安装插件：
 
-```shell
+```zsh
 npm install hexo-wordcount
 ```
 
@@ -519,7 +519,7 @@ inject:
 
 ### 分类页面
 
-```shell
+```zsh
 hexo new page categories
 ```
 
@@ -535,7 +535,7 @@ type: categories
 
 ### 标签页面
 
-```shell
+```zsh
 hexo new page tags
 ```
 
@@ -551,7 +551,7 @@ type: tags
 
 ### 友链页面
 
-```shell
+```zsh
 hexo new page friends
 ```
 
@@ -638,7 +638,7 @@ type: link
 
 ### 说说页面
 
-```shell
+```zsh
 hexo new page shuoshuo
 ```
 
@@ -664,7 +664,7 @@ type: shuoshuo
 
 ## 初始化仓库
 
-```shell
+```zsh
 git init
 git add .
 git commit -m "网站修改完成"

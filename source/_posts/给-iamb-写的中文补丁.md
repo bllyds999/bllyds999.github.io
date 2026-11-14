@@ -14,7 +14,7 @@ description: "本文介绍了为 iamb 软件编写的中文补丁，旨在解决
 
 因为好哥们小芬平时是用 Nano 编辑器的，并不是 Vim 的专业客户。所以编者为 iamb 编写了一个中文补丁，这份补丁只是翻译到了编者接触的部分。还有一部分是没必要翻译的，比如窗口名称这类的。在实际翻译 iamb 的过程中，iamb 并不是传统的带翻译文件的软件，而是把一切都硬编码到了代码中，除了那份欢迎指南。所以补丁每个版本都要更新一次，要不然就不是配新的代码行数了，这一点是相对来说比较烦的。但好在编者只负责编者维护的那个版本，并且用户基数并不大。除非有一天真的有很多人需要编者的补丁，并且 iamb 新版本有什么非常优秀的界面或功能，编者可能会考虑把补丁适配新版本，目前只适配了 `0.0.12`：
 
-```shell
+```zsh
 git clone https://github.com/bllyds999/iamb-chinese-patch && cd iamb-chinese-patch
 
 curl -O https://github.com/bllyds999/iamb-chinese-patch/releases/download/0.5/iamb.patch && git apply iamb.patch

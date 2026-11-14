@@ -16,7 +16,7 @@ description: "本文介绍了使用 Python 语言和 matrix-nio 库来构建和�
 
 我发现桥接这玩意网上几乎找不到教程，只有零星几个外国人的网站写了如何配置桥接。并且桥接的情况相当复杂，虽然能够以正则的方式操控一些账号和生成机器人账号，但生成的机器人账号对 Webhook Token 又十分严格。这导致我几乎是浪费了早晨四个小时，来折腾这种莫名其妙的东西……不过没有关系，现在总算找到了一种比 Webhook 听起来复杂，但实际做起来相当简单的机器人制作方式，那就是使用 `matrix-nio` 操作客户端。这是一个还在维护的、专门用于 Matrix 控制账号的库，可以拿来创建一个 Matrix 机器人。值得一提的是，这是一个 Python 库，你可以这样去安装它：
 
-```shell
+```zsh
 python3 -m venv .venv
 .venv/bin/pip install matrix-nio
 ```
@@ -150,13 +150,13 @@ CMD ["python3", "ai-chat.py"]
 
 因为这份 Dockerfile 缺少 `API_KEY `环境变量，我们需要一个 `.env` 去新增容器 Shell 环境变量（记得写进 `.gitignore`）：
 
-```shell
+```zsh
 API_KEY=sk-xxx
 ```
 
 恭喜你，你能走到这一步大部分基础的都懂了。最后，为这个脚本生成 Docker 镜像，再启动 Docker 容器即可：
 
-```shell
+```zsh
 # -t 后面跟着的是镜像名称，. 代表在当前目录寻找 Dockerfile 文件
 docker build -t ai-chat .
 

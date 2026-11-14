@@ -20,7 +20,7 @@ description: "本文介绍了作者将日常开发工具从 DeepSeek TUI 切换�
 
 我平时在自己的网站 Umami 分析后台，都能通过 IP 看到访客来自哪个城市，甚至能猜到是哪位朋友来看我的博客。现在想想，Claude Code 拿了你那么多信息——时区、IP、系统语言、提示词格式、引号习惯、邮件行为——居然仅仅只是为了判断你是不是“合规用户”，然后给你封号处理。可万一哪天这家公司不仅仅满足于封号呢？这些数据会流向哪里？会被用来做什么？越想越觉得脊背发凉。虽然我从未注册过 Claude 账号，全程用的只是最便宜的 DeepSeek API，理论上和 Anthropic 没有任何直接关系，但那种被暗中监控的感觉依然让人极度不适。思来想去，我那些日常任务用 DeepSeek TUI 或者 iFlow 其实完全够用，何必为了那一点交互体验的提升而把自己的隐私暴露给一个不可控的闭源工具？于是我毫不犹豫地执行了卸载命令：
 
-```shell
+```zsh
 npm uninstall -g @anthropic-ai/claude-code
 rm -rf ~/.claude
 rm -rf ~/.cache/claude-code

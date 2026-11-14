@@ -20,13 +20,13 @@ _它看起来就像是邮箱：服务器之间可以互联，被称之为“联�
 
 我的树莓派 OS 本身就是基于 Debian 系统修改而来。最后，一个域名是至关重要的。Matrix 就像一个拥有自己服务商的邮箱，你需要一个域名来标识你的服务。我推荐购买 `.top` 这种价格实惠的域名，或者使用你已有的域名。服务商如 NameSilo 不仅价格便宜，还支持支付宝支付，且流程相对简单，无需填写繁琐的证明文件。在准备好硬件和域名之后，下一步就是安装管理工具和核心服务。我选择了 1Panel 作为部署平台，它极大地简化了复杂的 Docker 容器管理过程。在服务器的命令行中，输入特定的命令来启动 1Panel：
 
-```shell
+```zsh
 bash -c "$(curl -sSL https://resource.fit2cloud.com/1panel/package/v2/quick_start.sh)"
 ```
 
 安装完成后，通过网页界面进入面板，在“应用商店”中搜索 Synapse。我们需要知道的一点是，如果直接点击按钮去安装 Synapse 是会报错的，因为 1Panel 的配置文件并没有给我们创建文件系统。因此我们需要先进行一个关键的初始化步骤，这个初始化过程是通过在 1Panel 的网页终端中运行一个特定的 `docker run` 命令来完成的，你可以参考本段的如下部分（它就是非常简单，不用理解）。在这个命令中，我们指定了服务名称、端口、配置目录以及时间区域等参数，并使用 `matrixdotorg/synapse:latest generate` 来生成初始配置。这一步相当于为你的服务器“打下地基”，必须确保域名（例如 `matrix.example.com`）没有填错：
 
-```shell
+```zsh
 docker run -it --rm \
   -v synapse-data:/data \
   -e SYNAPSE_SERVER_NAME=matrix.example.com \
@@ -44,13 +44,13 @@ docker run -it --rm \
 
 使用 `register_new_matrix_user` 命令创建一个管理员账户，这个账户具有极高的权限：
 
-```shell
+```zsh
 register_new_matrix_user http://localhost:8008 -c /data/homeserver.yaml -a -u username -p password
 ```
 
 但出于安全考虑，我们通常会创建一个普通用户账户，这个普通账户才是日常使用的账号：
 
-```shell
+```zsh
 register_new_matrix_user http://localhost:8008 -c /data/homeserver.yaml --no-admin -u username -p password
 ```
 

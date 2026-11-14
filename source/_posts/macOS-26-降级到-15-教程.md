@@ -16,13 +16,13 @@ description: "本文描述了使用 M4 芯片的 MacBook Air 从 macOS 26 降级
 
 首先，要确保操作系统的磁盘空间还有 20GB 左右，这一步是要去应用商店下载 macOS 15 的安装镜像。根据苹果的官方文档所写的，你需要使用命令行去刻录，建议严格按照我说的做：直接在苹果的应用商店上搜索 `macOS 15`，会出现一个名为“下载 macOS 版本”的应用选项，点进去找到 macOS 15 版本的，点击新页面的获取按钮，静静等待下载完成。下完以后检查一下自己有没有登录 Apple 账号，如果没有的话要去注册一个。插入 U 盘，用磁盘工具将其格式化为 Mac OS 日志格式，名为 `MyVolume`，输入以下命令：
 
-```shell
+```zsh
 sudo /Applications/Install\ macOS\ Sequoia.app/Contents/Resources/createinstallmedia --volume /Volumes/MyVolume
 ```
 
 这一步是为了创建启动盘，有人看到这里就问了，难道不能直接启动系统安装程序吗？不可以，因为启动后会提示你不能降级，你必须通过启动盘在恢复模式中安装系统。刻录完成以后，再次检查自己有没有登录 Apple 账号，如果登录了那就进行下一步。电脑完全关机以后，长按电源键进入电脑的恢复模式，不要直接选启动盘，会提示无法降级。进入恢复模式后，先在终端里面输入 `csrutil disable` 关闭 SIP，再到磁盘工具抹掉 `Macintosh HD` 重建。千万不要重启，先在终端中输入 `ls /Volumes` 看看有没有，再输入：
 
-```shell
+```zsh
 /Volumes/Install\ macOS\ Sequoia/Install\ macOS\ Sequoia.app/Contents/MacOS/InstallAssistant
 ```
 

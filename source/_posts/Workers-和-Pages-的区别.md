@@ -22,7 +22,7 @@ description: "本文介绍了 Cloudflare Workers 与 Pages 两种原生部署模
 
 也就是说，其实你第一次觉得所谓的导入仓库就编译、很方便的这一步，其实是 Workers 而不是 Pages。静态 Workers 既然是 Workers，肯定是要跟算力扯上关系的，就算你的网站仓库上面全是静态文件，它也需要回源进行计算，貌似没法充分利用 Cache Rules。如果你的网站全是静态文件，那你就要看准点了。实际上 Workers 和 Pages 并不强依赖一个 GitHub 网站仓库，这意味着其实没必要 GitHub 账号，因为 Cloudflare 允许你使用 Wrangler 管理上传源代码。既然我们找不到 Pages 入口，不如集成到工作流：
 
-```shell
+```zsh
 # 在项目文件夹安装 Wrangler
 npm install wrangler
 

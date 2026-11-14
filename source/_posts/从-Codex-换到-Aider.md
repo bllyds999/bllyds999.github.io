@@ -16,7 +16,7 @@ description: "本文介绍了 Aider 这款简洁且可控性强的人工智能 A
 
 但不同的一点在于，Aider 原生支持 Git，每次 Aider 这轮对话产生代码、更改结束以后，Aider 就会对这轮修改进行 AI 的 Commit，于是你的更改就被保存到 Git 里面了。不仅如此，对于有 Git 仓库的 Aider 来说，它生成的是标准的差异文件，而不是让程序直接去控制 AI 输出到文件里。只有当你的项目没有 Git 的时候，Aider 才会用搜索替换和任务记录。想要在 macOS 上下载 Aider 其实非常简单，相较于在 Linux 上使用 Pip 下载后还会使用 UV 再下载一遍，在 macOS 上你只需要输入一条命令，使用我们大家都知道的 Homebrew 包管理器从包管理仓库中安装软件即可：
 
-```shell
+```zsh
 brew install aider pandoc
 ```
 

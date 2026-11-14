@@ -16,7 +16,7 @@ description: "本文介绍了 Hexo 博客框架的 5 个常用插件及其安装
 
 目前最流行的 Hexo 网站地图生成器，安装方式：
 
-```shell
+```zsh
 npm install hexo-generator-sitemap
 ```
 
@@ -24,7 +24,7 @@ npm install hexo-generator-sitemap
 
 目前最流行的 Hexo 订阅链接生成器，安装方式：
 
-```shell
+```zsh
 npm install hexo-generator-feed
 ```
 
@@ -32,7 +32,7 @@ npm install hexo-generator-feed
 
 目前最流行的 Hexo 搜索插件，安装方式：
 
-```shell
+```zsh
 npm install hexo-generator-search
 ```
 
@@ -40,7 +40,7 @@ npm install hexo-generator-search
 
 能压缩你的玩网站页面、资源、图片，但是不能压缩字体，而且还不能在 ARM 上使用，安装方式：
 
-```shell
+```zsh
 npm install hexo-all-minifier
 ```
 
@@ -48,6 +48,6 @@ npm install hexo-all-minifier
 
 能给你的网站添加 Live2D 模型，安装方式：
 
-```shell
+```zsh
 npm install hexo-helper-live2d
 ```

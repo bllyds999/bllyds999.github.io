@@ -83,7 +83,7 @@ inject:
 
 最后把网站上传到 Cloudflare Pages 完成更新：
 
-```shell
+```zsh
 npm run backup && npm run build && npm run deploy
 ```
 
