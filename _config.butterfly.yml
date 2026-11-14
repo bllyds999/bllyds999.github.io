@@ -626,6 +626,7 @@ waline:
   option:
     login: disable
     requiredMeta: ["nick","mail"]
+    lang: "zh-CN"
 
 # Utterances
 # https://utteranc.es/
