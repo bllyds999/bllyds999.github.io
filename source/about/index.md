@@ -6,7 +6,7 @@ comments: false
 
 我是**梁栋烨**（2009 年 9 月 9 日出生，至今 <span class="age-tag"></span> 岁），一个在广东茂名长大的男生。我的人生轨迹有些特别——从技校退学后，没有走传统的教育路线，而是凭着对技术的热爱一头扎进了计算机的世界。没有科班背景，没有学历加持，有的只是一台电脑和不服输的劲头。
 
-我与 Linux 的缘分始于小学四年级，也就是 2020 年疫情那段时间。那时候在家闲着，偶然接触到了这个不一样的操作系统，从此一发不可收拾。至今已经六年了，这六年里我玩过的发行版数不胜数：**Debian、Arch、Fedora、Alpine、Gentoo、GNOME OS**，以及它们的各种衍生版。
+我与 Linux 的缘分始于小学四年级，也就是 2020 年疫情那段时间。那时候在家闲着，偶然接触到了这个不一样的操作系统，从此一发不可收拾。至今已经 <span class="linux-tag"></span> 年了，这六年里我玩过的发行版数不胜数：**Debian、Arch、Fedora、Alpine、Gentoo、GNOME OS**，以及它们的各种衍生版。
 
 上一台笔记本是游戏本，我在上面装了 Linux，那段时间我是个不折不扣的 **Distro Hopper**，隔三差五就换一个发行版，折腾引导、配置桌面、调优内核，乐此不疲。在众多发行版中，我最钟爱的还是 **Arch Linux**——简单、纯粹、KISS 哲学深得我心。在换 Mac 之前，我用的就是 Arch 加 **Niri** 作为日常主力环境。
 
@@ -18,4 +18,5 @@ comments: false
 
 <script>
   document.querySelector('.age-tag').textContent = new Date().getFullYear() - 2009;
+  document.querySelector('.linux-tag').textContent = new Date().getFullYear() - 2020;
 </script>
