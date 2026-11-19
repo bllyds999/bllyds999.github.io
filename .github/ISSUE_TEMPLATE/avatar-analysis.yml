@@ -1,0 +1,23 @@
+name: 头像解析
+description: 提交头像解析请求
+title: "[头像解析] 申请提交头像"
+labels: ["头像"]
+body:
+  - type: dropdown
+    id: is-gravatar
+    attributes:
+      label: 有冇评论头像（Gravatar）
+      options:
+        - 是，有 Gravatar 头像！
+        - 否，冇 Gravatar 头像！
+    validations:
+      required: true
+
+  - type: input
+    id: avatar-url
+    attributes:
+      label: 你的头像地址
+      description: 请提供头像的图片链接
+      placeholder: https://example.com/avatar.png
+    validations:
+      required: true

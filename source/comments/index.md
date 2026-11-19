@@ -1,0 +1,37 @@
+---
+title: 留言
+date: 2026-05-05 01:37:34
+---
+
+## 留言准则
+
+请保持友善和尊重的态度进行交流，避免使用侮辱性、攻击性或歧视性的语言。我们欢迎不同观点的讨论，但请以理性和建设性的方式表达您的想法。禁止发布任何违法、违规或有害的内容，包括但不限于虚假信息、恶意软件和侵权材料。让我们共同营造一个和谐、积极的交流环境，使每一位访客都能在这里获得有价值的体验和帮助。
+
+留言时请尽量围绕文章主题或相关话题展开，避免发布与内容无关的广告、垃圾信息或重复内容。如果您有疑问或需要帮助，请清晰、详细地描述您的问题，这样其他读者或作者才能更好地理解并提供有效的解答。鼓励分享您的见解、经验和建议，但请确保信息的真实性和准确性，以免误导他人。
+
+保护个人隐私至关重要，请勿在留言中公开您或他人的敏感信息，如真实姓名、身份证号、银行账户、家庭住址、电话号码等。同时，尊重他人的隐私权，不要未经允许披露他人的个人信息。网络世界虽然虚拟，但安全和隐私保护是真实且必要的，让我们共同维护一个安全的交流空间。
+
+作者会定期查看和回复留言，但无法保证实时响应，请耐心等待。如果您的留言长时间未得到回复，可以通过其他联系方式与作者取得联系。对于违反留言准则的内容，作者保留删除或屏蔽的权利，严重违规者可能会被永久禁止留言。希望这些准则能帮助大家更好地使用留言功能，期待您的宝贵意见和建议。
+
+## 名人名言
+
+<div id="saying">
+
+</div>
+
+<link rel="stylesheet" href="/assets/css/saying.css">
+<script>
+  (async function () {
+    const container = document.querySelector('#saying');
+    if (!container) return;
+    const response = await fetch('/saying/saying.json');
+    const data = await response.json();
+    const sayings = data.saying;
+    if (!sayings || sayings.length === 0) return;
+    const randomIndex = Math.floor(Math.random() * sayings.length);
+    const saying = sayings[randomIndex];
+    const p = document.createElement('p');
+    p.innerHTML = saying.split('\n').map(s => s.trim()).filter(Boolean).join('<br>');
+    container.appendChild(p);
+  })();
+</script>

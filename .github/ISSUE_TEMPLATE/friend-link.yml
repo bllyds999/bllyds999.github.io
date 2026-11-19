@@ -1,0 +1,53 @@
+name: 友链交换
+description: 提交友链交换申请
+title: "[友链交换] 申请交换友链"
+labels: ["友链"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        > **温馨提示**：友链最终呈现的网站名称可能与工单描述有差异。中文用户名会直接沿用，英文用户名则会另起中文名。
+
+  - type: input
+    id: site-name
+    attributes:
+      label: 你的网站名称
+      placeholder: 请输入网站名称
+    validations:
+      required: true
+
+  - type: input
+    id: site-icon
+    attributes:
+      label: 你的网站图标
+      description: 请提供图标的图片链接
+      placeholder: https://example.com/favicon.ico
+    validations:
+      required: true
+
+  - type: input
+    id: site-url
+    attributes:
+      label: 你的网站地址
+      placeholder: https://example.com
+    validations:
+      required: true
+
+  - type: textarea
+    id: site-description
+    attributes:
+      label: 你的网站简介
+      placeholder: 简单介绍一下你的网站
+    validations:
+      required: true
+
+  - type: dropdown
+    id: has-backlink
+    attributes:
+      label: 是否挂了本站链接
+      description: 请确认你的网站是否已添加本站的友链
+      options:
+        - 是，已挂本站链接！
+        - 否，还未添加！
+    validations:
+      required: true
