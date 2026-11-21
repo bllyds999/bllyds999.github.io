@@ -25,4 +25,6 @@ top_img: /assets/images/illustrations/food-1.webp
 ![](/assets/images/illustrations/food-18.webp)
 ![](/assets/images/illustrations/food-19.webp)
 ![](/assets/images/illustrations/food-20.webp)
+![](/assets/images/illustrations/food-21.webp)
+![](/assets/images/illustrations/food-22.webp)
 {% endgallery %}
