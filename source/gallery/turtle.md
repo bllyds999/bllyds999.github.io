@@ -27,4 +27,5 @@ top_img: /assets/images/illustrations/turtle-1.webp
 ![](/assets/images/illustrations/turtle-20.webp)
 ![](/assets/images/illustrations/turtle-21.webp)
 ![](/assets/images/illustrations/turtle-22.webp)
+![](/assets/images/illustrations/turtle-23.webp)
 {% endgallery %}
