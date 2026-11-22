@@ -1,5 +1,5 @@
 ---
-title: AI 写的新主题：想要使用它但是很害怕，最后只对此表示无动于衷
+title: AI 写的新主题：想要使用它但是很害怕，最后对此表示无动于衷
 date: 2026-11-23 02:49:58
 categories: 梁栋烨的纪实小站
 cover: /assets/images/cover/history.webp
