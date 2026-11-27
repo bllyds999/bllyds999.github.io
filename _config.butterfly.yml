@@ -410,7 +410,7 @@ readmode: true
 
 # Dark Mode
 darkmode:
-  enable: false
+  enable: true
   # Toggle Button to switch dark/light mode
   button: true
   # Switch dark/light mode automatically
@@ -840,7 +840,7 @@ preloader:
 enter_transitions: true
 
 # Default display mode - light (default) / dark
-display_mode: dark
+display_mode: light
 
 # Configuration for beautifying the content of the article
 beautify:
